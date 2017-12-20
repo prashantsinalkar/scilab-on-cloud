@@ -12,6 +12,9 @@ urlpatterns = patterns(
         name='revision_form'),
     url(r'^update_view_count/$', 'website.views.update_view_count',
         name='update_view_count'),
+    url(r'^search_book/$', 'website.views.search_book'),
+    url(r'^search_book/popular/$', 'website.views.popular'),
+    url(r'^search_book/recent/$', 'website.views.recent'),
 
     # Uncomment the next line to enable the admin:
     #url(r'^admin/', include(admin.site.urls)),

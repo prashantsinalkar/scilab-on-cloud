@@ -144,92 +144,17 @@
                             <br><br><br>
                             <div class="text-center pcolor"><a data-rel="mobile-menu" href="#" id="trigger-alt" class="pcolor link noud" style="display: none">Or, browse by category</a></div>
                             </div>
-                            <div id="morphsearch" class="morphsearch" style="display: none">
+                            <div id="morphsearch" class="morphsearch" style="display: block">
                 <form class="morphsearch-form">
-                    <input class="morphsearch-input" type="search" placeholder="Search Books"/>
-                    <button class="morphsearch-submit" type="submit">Search</button>
+                    <input id="search-input" class="morphsearch-input" type="search" placeholder="Search Books"/>
+                    <button id="search" class="morphsearch-submit" data-toggle="tooltip" title="Search book!" type="submit">Search</button>
                 </form>
                 <div class="morphsearch-content">
-                    <div class="dummy-column">
-                        <h2>Relevant</h2>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Sara Soueidan</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Rachel Smith</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Peter Finlan</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Patrick Cox</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Tim Holman</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Shaun Dona</h3>
-                        </a>
+                    <div id="relevant" class="dummy-column">
                     </div>
-                    <div class="dummy-column">
-                        <h2>Popular</h2>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Page Preloading Effect</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Arrow Navigation Styles</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Ideas for Subtle Hover Effects</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Halcyon Days Template</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Inspiration for Article Intro Effects</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Draggable Dual-View Slideshow</h3>
-                        </a>
+                   <div id="popular" class="dummy-column">
                     </div>
-                    <div class="dummy-column">
-                        <h2>Recent</h2>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Tooltip Styles Inspiration</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Animated Background Headers</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Off-Canvas Menu Effects</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Tab Styles Inspiration</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Make SVGs Responsive with CSS</h3>
-                        </a>
-                        <a class="dummy-media-object" href="#">
-
-                            <h3>Notification Styles Inspiration</h3>
-                        </a>
+                    <div id="recent" class="dummy-column">
                     </div>
                 </div><!-- /morphsearch-content -->
                 <span class="morphsearch-close"></span>
@@ -472,7 +397,6 @@
     <script>
     new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'));
     //new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('catclick'));
-
     $(document.body).on('click','.expand-btn', function(){
         $('.code-panes').toggleClass('fullscreen');
         $('.code-sectionx').toggleClass('fullscreen-x');

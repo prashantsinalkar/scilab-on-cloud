@@ -12,6 +12,8 @@ function show_examples(current_element){
 }
 
 $(document).ready(function() {
+    $("#relevant").html('');
+     $('[data-toggle="tooltip"]').tooltip();
 
     var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
         lineNumbers: true,
@@ -452,4 +454,76 @@ $(document).ready(function() {
 
  });
 
+ $(document).on("click", "#search", function() {
+        $("#relevant").html('');
+        var search_string = $("#search-input").val();
+        if (search_string == ''){
+        search_string = 'Null';
+        }
+         $.ajax({
+            url: 'search_book/',
+            dataType: 'JSON',
+            type : 'GET',
+            data: {
+                    search_string: search_string,
+            },
+            success: function(data){
+               console.log(data);
+                $("#relevant").append('<h2>Relevant</h2>');
+               for (var i = 0; i < data.length; i++) {
+                $("#relevant").append(
+                '<a  href="#" class="dummy-media-object"><h3>' + data[i].book + ' (Author: ' 
+                + data[i].author + ')');
+                }
+            }
+         });
+
+ });
+ $(document).on("click", "#morphsearch", function() {
+        $("#popular").html('');
+        $("#recent").html('');
+        var search_string = 'popular';
+        if (search_string == ''){
+        search_string = 'Null';
+        }
+         $.ajax({
+            url: 'search_book/popular/',
+            dataType: 'JSON',
+            type : 'GET',
+            data: {
+                    search_string: search_string,
+            },
+            success: function(data){
+               console.log(data);
+                $("#popular").append('<h2>Popular</h2>');
+               for (var i = 0; i < data.length; i++) {
+                $("#popular").append(
+                '<a  href="#" class="dummy-media-object"><h3>' + data[i].book + ' (Author: ' 
+                + data[i].author + ')');
+                }
+            }
+         }),
+                  $.ajax({
+            url: 'search_book/recent/',
+            dataType: 'JSON',
+            type : 'GET',
+            data: {
+                    search_string: search_string,
+            },
+            success: function(data){
+               console.log(data);
+                $("#recent").append('<h2>Recent</h2>');
+               for (var i = 0; i < data.length; i++) {
+                $("#recent").append(
+                '<a  href="#" class="dummy-media-object"><h3>' + data[i].book + ' (Author: ' 
+                + data[i].author + ')');
+                }
+            }
+         });
+
+ });
+
+  $(document).on("click", "#search", function() {
+    $("#relevant").html('');
+  });
 });
