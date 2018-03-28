@@ -1,0 +1,1101 @@
+************************************
+2018-01-25 09:29:35.499198
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-25 09:29:57.860222
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-25 10:15:12.330326
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:15:34.102005
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-25 10:15:54.522259
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-25 10:16:19.190956
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-25 10:16:53.680235
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:17:37.434538
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:22:35.202288
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:23:06.657241
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:25:08.726837
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:25:33.274241
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:25:48.095625
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-25 10:26:08.933287
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:28:40.438969
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 10:28:41.948255
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-25 10:28:54.249176
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+ dHD  =
+    1.  
+ HD  =
+    16.635  - 16.225  
+************************************
+************************************
+2018-01-25 10:35:17.793822
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-25 10:59:28.128817
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:03:04.880030
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: State Space Techniques in Controller Design
+Example: (14.2) Compensator calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:08:59.758468
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Introduction
+Example: (1.2.1) Discrete Time Signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:09:13.049937
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Discrete Time Signals and Systems
+Example: (2.01.09) Exponential Increasing-Decreasing Signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:09:19.292544
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Discrete Time Signals and Systems
+Example: (2.1.09) Exponential Decreasing Signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:09:25.723267
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Discrete Time Signals and Systems
+Example: (2.1.2) Signal advanced version
+------------------------------------
+Output
+------------------------------------
+ a  =
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [2,2]
+grid_style = [3,3]
+x_location = "middle"
+y_location = "middle"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [0,0;1,1]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+auto_clear = "off"
+auto_scale = "on"
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 2
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ a  =
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [2,2]
+grid_style = [3,3]
+x_location = "middle"
+y_location = "middle"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [0,0;1,1]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,0.3333333]
+auto_clear = "off"
+auto_scale = "on"
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 2
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ a  =
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [2,2]
+grid_style = [3,3]
+x_location = "middle"
+y_location = "middle"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [0,0;1,1]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0.3333333,1,0.3333333]
+auto_clear = "off"
+auto_scale = "on"
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 2
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+ a  =
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [2,2]
+grid_style = [3,3]
+x_location = "middle"
+y_location = "middle"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [0,0;1,1]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0.6666667,1,0.3333333]
+auto_clear = "off"
+auto_scale = "on"
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 2
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+************************************
+************************************
+2018-01-25 11:09:32.114595
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Discrete Time Signals and Systems
+Example: (2.1.24) Even Signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:09:38.142746
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Discrete Time Signals and Systems
+Example: (2.1.25) ODD Signal
+------------------------------------
+Output
+------------------------------------
+ a  =
+Handle of type "Axes" with properties:
+======================================
+parent: Figure
+children: []
+visible = "on"
+axes_visible = ["off","off","off"]
+axes_reverse = ["off","off","off"]
+grid = [-1,-1]
+grid_position = "background"
+grid_thickness = [2,2]
+grid_style = [3,3]
+x_location = "middle"
+y_location = "middle"
+title: "Label"
+x_label: "Label"
+y_label: "Label"
+z_label: "Label"
+auto_ticks = ["on","on","on"]
+x_ticks.locations = matrix 11x1
+y_ticks.locations = matrix 11x1
+z_ticks.locations = []
+x_ticks.labels = matrix 11x1
+y_ticks.labels = matrix 11x1
+z_ticks.labels = []
+ticks_format = ["","",""]
+ticks_st = [1,1,1;0,0,0]
+box = "off"
+filled = "on"
+sub_ticks = [1,1]
+font_style = 6
+font_size = 1
+font_color = -1
+fractional_font = "off"
+isoview = "off"
+cube_scaling = "off"
+view = "2d"
+rotation_angles = [0,270]
+log_flags = "nnn"
+tight_limits = ["off","off","off"]
+data_bounds = [0,0;1,1]
+zoom_box = []
+margins = [0.125,0.125,0.125,0.125]
+auto_margins = "on"
+axes_bounds = [0,0,1,1]
+auto_clear = "off"
+auto_scale = "on"
+hidden_axis_color = 4
+hiddencolor = 4
+line_mode = "on"
+line_style = 1
+thickness = 2
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "tabulated"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+foreground = -1
+background = -2
+arc_drawing_method = "lines"
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+************************************
+************************************
+2018-01-25 11:09:44.024665
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Discrete Time Signals and Systems
+Example: (2.1.7) Unit Step Signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:09:56.925820
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:10:59.385475
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+[0mEnter the Sampling Frequency in Hertz[0m[1m[4he[4l [4hx[4l [4he[4l [4hc[4l [4h([4l [4h"[4l [4h/[4l [4hv[4l [4ha[4l [4hr[4l [4h/[4l [4hw[4l [4hw[4l [4hw[4l [4h/[4l [4hh[4l [4ht[4l [4hm[4l [4hl[4l [4h/[4l [4hf[4l [4ho[4l [4hs[4l [4hs[4l [4he[4l [4he[4l [4h-[4l [4hs[4l [4hi[4l [4ht[4l [4he[4l [4hs[4l [4h/[4l [4hd[4l [4hj[4l [4ha[4l [4hn[4l [4hg[4l [4ho[4l [4h_[4l [4hp[4l [4hr[4l [4ho[4l [4hj[4l [4he[4l [4hc[4l [4ht[4l [4h/[4l [4hs[4l [4hc[4l [4hi[4l [4hl[4l [4ha[4l [4hb[4l [4h-[4l [4ho[4l [4hn[4l [4h-[4l [4hc[4l [4hl[4l [4ho[4l [4hu[4l [4hd[4l [4h/[4l [4hs[4l [4ht[4l [4ha[4l [4ht[4l [4hi[4l [4hc[4l [4h/[4l [4ht[4l [4hm[4l [4hp[4l [4h/[4l [4hO[4l [4ha[4l [4hG[4l [4h5[4l [4h0[4l [4h6[4l [4hG[4l [4ha[4l [4hg[4l [4hb[4l [4ha[4l [4h0[4l [4hs[4l [4hQ[4l [4hA[4l [4hp[4l [4hs[4l [4hV[4l [4hd[4l [4hp[4l [4he[4l [4h7[4l [4hj[4l [4hb[4l [4hh[4l [4hv[4l [4hT[4l [4h1[4l [4hw[4l [4hx[4l [4hY[4l [4ha[4l [4h.[4l [4hs[4l [4hc[4l [4hi[4l [4h"[4l [4h,[4l [4h [4l [4h2[4l [4h)[4l [4h;[4l [2m[4h
+[4l [0mWarning: file '/var/www/html/fossee-sites/django_project/scilab-on-cloud/static/tmp/OaG506Gagba0sQApsVdpe7jbhvT1wxYa.sci' already opened in Scilab.
+[0mEnter the Sampling Frequency in Hertz[0m[1mException Occured: It seems that you are            running an infinite code
+************************************
+************************************
+2018-01-25 11:11:42.635681
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:11:56.307996
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+Fs =1Hz
+        !--error 276 
+Missing operator, comma, or semicolon.
+at line      22 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:12:14.691900
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    1.  
+Xa = x *sinc_new(Fs*(ones(length(nTs),1)*t-nTs'*ones(1,length(t))));
+                                                                 !--error 4 
+Undefined variable: sinc_new
+at line      30 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:12:18.606170
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+[0mEnter the Sampling Frequency in Hertz[0m[1m[4he[4l [4hx[4l [4he[4l [4hc[4l [4h([4l [4h"[4l [4h/[4l [4hv[4l [4ha[4l [4hr[4l [4h/[4l [4hw[4l [4hw[4l [4hw[4l [4h/[4l [4hh[4l [4ht[4l [4hm[4l [4hl[4l [4h/[4l [4hf[4l [4ho[4l [4hs[4l [4hs[4l [4he[4l [4he[4l [4h-[4l [4hs[4l [4hi[4l [4ht[4l [4he[4l [4hs[4l [4h/[4l [4hd[4l [4hj[4l [4ha[4l [4hn[4l [4hg[4l [4ho[4l [4h_[4l [4hp[4l [4hr[4l [4ho[4l [4hj[4l [4he[4l [4hc[4l [4ht[4l [4h/[4l [4hs[4l [4hc[4l [4hi[4l [4hl[4l [4ha[4l [4hb[4l [4h-[4l [4ho[4l [4hn[4l [4h-[4l [4hc[4l [4hl[4l [4ho[4l [4hu[4l [4hd[4l [4h/[4l [4hs[4l [4ht[4l [4ha[4l [4ht[4l [4hi[4l [4hc[4l [4h/[4l [4ht[4l [4hm[4l [4hp[4l [4h/[4l [4hO[4l [4ha[4l [4hG[4l [4h5[4l [4h0[4l [4h6[4l [4hG[4l [4ha[4l [4hg[4l [4hb[4l [4ha[4l [4h0[4l [4hs[4l [4hQ[4l [4hA[4l [4hp[4l [4hs[4l [4hV[4l [4hd[4l [4hp[4l [4he[4l [4h7[4l [4hj[4l [4hb[4l [4hh[4l [4hv[4l [4hT[4l [4h1[4l [4hw[4l [4hx[4l [4hY[4l [4ha[4l [4h.[4l [4hs[4l [4hc[4l [4hi[4l [4h"[4l [4h,[4l [4h [4l [4h2[4l [4h)[4l [4h;[4l [2m[4h
+[4l [0mWarning: file '/var/www/html/fossee-sites/django_project/scilab-on-cloud/static/tmp/OaG506Gagba0sQApsVdpe7jbhvT1wxYa.sci' already opened in Scilab.
+[0mEnter the Sampling Frequency in Hertz[0m[1mException Occured: It seems that you are            running an infinite code
+************************************
+************************************
+2018-01-25 11:14:11.167856
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+Xa = x *sinc_new(Fs*(ones(length(nTs),1)*t-nTs'*ones(1,length(t))));
+                                                                 !--error 4 
+Undefined variable: sinc_new
+at line      30 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:14:31.550120
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.1.2) Continuous Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+    801.    1.  
+ESD = Xa^2;  //Energy Density Spectrum
+           !       
+at line      31 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+WARNING: Transposing row vector X to get compatible dimensions
+************************************
+************************************
+2018-01-25 11:14:41.192373
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.1.2) Continuous Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+    801.    1.  
+ESD = Xa^2;  //Energy Density Spectrum
+           !       
+at line      31 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+Warning: Syntax "vector ^ scalar" is obsolete. It will be removed in Scilab 6.0.
+  Use "vector .^ scalar" instead.
+WARNING: Transposing row vector X to get compatible dimensions
+************************************
+************************************
+2018-01-25 11:14:47.865235
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:15:44.990608
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+[0mEnter the Sampling Frequency in Hertz[0m[1m[4he[4l [4hx[4l [4he[4l [4hc[4l [4h([4l [4h"[4l [4h/[4l [4hv[4l [4ha[4l [4hr[4l [4h/[4l [4hw[4l [4hw[4l [4hw[4l [4h/[4l [4hh[4l [4ht[4l [4hm[4l [4hl[4l [4h/[4l [4hf[4l [4ho[4l [4hs[4l [4hs[4l [4he[4l [4he[4l [4h-[4l [4hs[4l [4hi[4l [4ht[4l [4he[4l [4hs[4l [4h/[4l [4hd[4l [4hj[4l [4ha[4l [4hn[4l [4hg[4l [4ho[4l [4h_[4l [4hp[4l [4hr[4l [4ho[4l [4hj[4l [4he[4l [4hc[4l [4ht[4l [4h/[4l [4hs[4l [4hc[4l [4hi[4l [4hl[4l [4ha[4l [4hb[4l [4h-[4l [4ho[4l [4hn[4l [4h-[4l [4hc[4l [4hl[4l [4ho[4l [4hu[4l [4hd[4l [4h/[4l [4hs[4l [4ht[4l [4ha[4l [4ht[4l [4hi[4l [4hc[4l [4h/[4l [4ht[4l [4hm[4l [4hp[4l [4h/[4l [4hO[4l [4ha[4l [4hG[4l [4h5[4l [4h0[4l [4h6[4l [4hG[4l [4ha[4l [4hg[4l [4hb[4l [4ha[4l [4h0[4l [4hs[4l [4hQ[4l [4hA[4l [4hp[4l [4hs[4l [4hV[4l [4hd[4l [4hp[4l [4he[4l [4h7[4l [4hj[4l [4hb[4l [4hh[4l [4hv[4l [4hT[4l [4h1[4l [4hw[4l [4hx[4l [4hY[4l [4ha[4l [4h.[4l [4hs[4l [4hc[4l [4hi[4l [4h"[4l [4h,[4l [4h [4l [4h2[4l [4h)[4l [4h;[4l [2m[4h
+[4l [0mWarning: file '/var/www/html/fossee-sites/django_project/scilab-on-cloud/static/tmp/OaG506Gagba0sQApsVdpe7jbhvT1wxYa.sci' already opened in Scilab.
+Missing operator, comma, or semicolon. !--error 4 
+Undefined variable: msg
+at line      48 of function input called by :  
+Fs =input('Enter the Sampling Frequency in Hertz');//Fs = 2Hz(or)20Hz
+at line      20 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+[0m-->[0m[1mException Occured: It seems that you are            running an infinite code
+************************************
+************************************
+2018-01-25 11:17:24.375433
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+Fs = 20Hz
+          !--error 276 
+Missing operator, comma, or semicolon.
+at line      20 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:17:35.594101
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+Fs = 20Hz;
+          !--error 276 
+Missing operator, comma, or semicolon.
+at line      20 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:17:42.662054
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+Fs = 20Hz,
+          !--error 276 
+Missing operator, comma, or semicolon.
+at line      20 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:22:26.623245
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+Fs = 20Hz;
+          !--error 276 
+Missing operator, comma, or semicolon.
+at line      20 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:23:07.526314
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:23:12.650794
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:25:15.483827
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:25:24.437458
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:25:42.856425
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:25:53.742719
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:26:01.199664
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:31:28.057750
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.2.07) Sampling a Nonbandlimited Signal
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+************************************
+************************************
+2018-01-25 11:38:55.335836
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 11:39:34.652889
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+[0mEnter the Sampling Frequency in Hertz[0m[1m[4he[4l [4hx[4l [4he[4l [4hc[4l [4h([4l [4h"[4l [4h/[4l [4hv[4l [4ha[4l [4hr[4l [4h/[4l [4hw[4l [4hw[4l [4hw[4l [4h/[4l [4hh[4l [4ht[4l [4hm[4l [4hl[4l [4h/[4l [4hf[4l [4ho[4l [4hs[4l [4hs[4l [4he[4l [4he[4l [4h-[4l [4hs[4l [4hi[4l [4ht[4l [4he[4l [4hs[4l [4h/[4l [4hd[4l [4hj[4l [4ha[4l [4hn[4l [4hg[4l [4ho[4l [4h_[4l [4hp[4l [4hr[4l [4ho[4l [4hj[4l [4he[4l [4hc[4l [4ht[4l [4h/[4l [4hs[4l [4hc[4l [4hi[4l [4hl[4l [4ha[4l [4hb[4l [4h-[4l [4ho[4l [4hn[4l [4h-[4l [4hc[4l [4hl[4l [4ho[4l [4hu[4l [4hd[4l [4h/[4l [4hs[4l [4ht[4l [4ha[4l [4ht[4l [4hi[4l [4hc[4l [4h/[4l [4ht[4l [4hm[4l [4hp[4l [4h/[4l [4hO[4l [4ha[4l [4hG[4l [4h5[4l [4h0[4l [4h6[4l [4hG[4l [4ha[4l [4hg[4l [4hb[4l [4ha[4l [4h0[4l [4hs[4l [4hQ[4l [4hA[4l [4hp[4l [4hs[4l [4hV[4l [4hd[4l [4hp[4l [4he[4l [4h7[4l [4hj[4l [4hb[4l [4hh[4l [4hv[4l [4hT[4l [4h1[4l [4hw[4l [4hx[4l [4hY[4l [4ha[4l [4h.[4l [4hs[4l [4hc[4l [4hi[4l [4h"[4l [4h,[4l [4h [4l [4h2[4l [4h)[4l [4h;[4l [2m[4h
+[4l [0mWarning: file '/var/www/html/fossee-sites/django_project/scilab-on-cloud/static/tmp/OaG506Gagba0sQApsVdpe7jbhvT1wxYa.sci' already opened in Scilab.
+ Fs  =
+    20.  
+Undefined variable: sinc_new !--error 4 
+Undefined variable: msg
+at line      48 of function input called by :  
+Fs =input('Enter the Sampling Frequency in Hertz');//Fs = 1Hz(or)20Hz
+at line      21 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+[0m-->[0m[1mException Occured: It seems that you are            running an infinite code
+************************************
+************************************
+2018-01-25 11:39:41.962356
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+Xa = x *sinc_new(Fs*(ones(length(nTs),1)*t-nTs'*ones(1,length(t))));
+                                                                 !--error 4 
+Undefined variable: sinc_new
+at line      29 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 11:39:51.663804
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+ Fs  =
+    20.  
+Xa = x*sinc_new(Fs*(ones(length(nTs),1)*t-nTs'*ones(1,length(t))));
+                                                                 !--error 4 
+Undefined variable: sinc_new
+at line      29 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-25 12:24:03.010630
+------------------------------------
+Book: Digital Signal Processing: Principle, Algorithms And Applications [Author: J. G. Proakis And D. G. Manolakis]
+Chapter: Frequency Analysis of Signal and Systems
+Example: (4.02.7) Plotting Discrete Time Fourier Transform
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 14:48:22.369477
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Systems
+Example: (3.1) Energy of a signal
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 14:48:35.295550
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Minimum Variance Control
+Example: (11.12) General minimum variance controller design
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-25 14:48:51.868393
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.4) Bode plot of the differencing filter
+------------------------------------
+Output
+------------------------------------
+
+************************************

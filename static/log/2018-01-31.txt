@@ -1,0 +1,100 @@
+************************************
+2018-01-31 11:26:09.181037
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Amplifier Frequency Response
+Example: (10.1) Gain in decibel
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-31 11:26:10.797823
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Amplifier Frequency Response
+Example: (10.1) Gain in decibel
+------------------------------------
+Output
+------------------------------------
+ A_p_dB  =
+    23.9794  
+ Power gain when power gain is 250   
+    23.9794  
+ A_p_dB  =
+    20.  
+ Power gain when power gain is 100   
+    20.  
+ A_v_dB  =
+    20.  
+ Voltage gain when voltage gain is 10   
+    20.  
+ A_v_dB  =
+  - 3.0103  
+ Power gain when voltage gain is 0.5   
+  - 3.0103  
+ A_v_dB  =
+  - 3.0116117  
+ Voltage gain when voltage gain is 0.707   
+  - 3.0116117  
+************************************
+************************************
+2018-01-31 11:26:20.560129
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Amplifier Frequency Response
+Example: (10.10) input RC circuit BJT
+------------------------------------
+Output
+------------------------------------
+ R_c  =
+    1100.  
+ C_in_Miller  =
+    2.406D-10  
+ total resistance of circuit in ohms   
+    377.81568  
+ total capacitance in farads   
+    2.606D-10  
+ critical frequency in hertz   
+    1616282.9  
+************************************
+************************************
+2018-01-31 11:57:46.222223
+------------------------------------
+Book: Schaums Outlines Signals And Systems [Author: H. P. Hsu]
+Chapter: Linear Time Invariant Systems
+Example: (2.36) causality
+------------------------------------
+Output
+------------------------------------
+ the statement that the system is causal is   
+  F  
+************************************
+************************************
+2018-01-31 12:04:10.550793
+------------------------------------
+Book: Gas Turbines [Author: V. Ganesan]
+Chapter: Ideal Cycles and their Analysis
+Example: (5.12) Comparison of basic cycle with modified cycles
+------------------------------------
+Output
+------------------------------------
+Cycle 						   WN(kJ/kg) 		efficiency (in percentage)		  percentage Change in WN 		percentage change in efficiency 
+						(roundoff error)    	(roundoff error)   			 (roundoff error)				 (roundoff error) 
+Basci cycle 					 180.388968 			 32.451296					 - 					 - 
+With Heat Exchanger 				 180.388968 			 55.587601					 0.000000 			 71.295474 
+With intercooling 				 194.479543 			 30.627505					 7.811217 			 -5.620085 
+With Heat Exchanger & Intercooling 		 194.479543 			 59.929669					 7.811217 			 84.675736 
+************************************
+************************************
+2018-01-31 12:11:17.151292
+------------------------------------
+Book: Programming In Ansi C [Author: E. Balagurusamy]
+Chapter: Dynamic Memory Allocation and linked Lists
+Example: (1.cs) Case study 1 Insertion in a sorted list
+------------------------------------
+Output
+------------------------------------
+Input a sorted(ascending) list 
+************************************

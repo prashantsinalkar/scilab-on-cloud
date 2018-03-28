@@ -1,0 +1,782 @@
+************************************
+2018-02-02 09:54:04.479038
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 11:18:57.806915
+------------------------------------
+Book: A Course In Power Plant Engineering [Author: S. C. Arora, S. Domkundwar, A. V. Domkundwar]
+Chapter: BOILER ACCESSORIES
+Example: (14.4) The length and number of tubes used in the air heater
+------------------------------------
+Output
+------------------------------------
+The length,L=8 m 
+The number of tubes used in air heater=69643 
+************************************
+************************************
+2018-02-02 16:08:34.957289
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-02 16:08:54.258931
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:08:59.221693
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:09:06.541119
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:09:07.152112
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:09:07.318023
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:09:15.733441
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:09:16.830633
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:09:17.384402
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:10:10.047034
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:12:37.603664
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:12:42.221747
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:12:47.960247
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:12:49.057229
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:12:52.955821
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:12:56.193379
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:13:03.697597
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:13:04.334614
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:22:53.659793
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ ans  =
+Handle of type "Compound" with properties:
+==========================================
+parent: Axes
+children: ["Polyline","Polyline"]
+visible = "on"
+user_data = []
+tag = 
+ poly1  =
+Handle of type "Polyline" with properties:
+==========================================
+parent: Compound
+children: []
+datatips: []
+display_function: ""
+display_function_data: []
+visible = "on"
+data = matrix 63x2
+closed = "off"
+line_mode = "on"
+fill_mode = "off"
+line_style = 1
+thickness = 3
+arrow_size_factor = 1
+polyline_style = 1
+foreground = 4
+background = -2
+interp_color_vector = []
+interp_color_mode = "off"
+mark_mode = "off"
+mark_style = 0
+mark_size_unit = "point"
+mark_size = 0
+mark_foreground = -1
+mark_background = -2
+mark_offset = 0
+mark_stride = 1
+x_shift = []
+y_shift = []
+z_shift = []
+bar_width = 0
+clip_state = "off"
+clip_box = []
+user_data = []
+tag = 
+************************************
+************************************
+2018-02-02 16:25:01.868222
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-02 16:40:54.941481
+------------------------------------
+Book: Theory Of Machines [Author: R. S. Khurmi And J. K. Gupta]
+Chapter: Kinematics of Motion
+Example: (2.1) To Find the Acceleration and Distance
+------------------------------------
+Output
+------------------------------------
+ u1  =
+    0.  
+ v1  =
+    20.  
+ s1  =
+    500.  
+ a1  =
+    0.4  
+ t1  =
+    50.  
+ u2  =
+    20.  
+ v2  =
+    25.  
+ t2  =
+    10.  
+ a2  =
+    0.5  
+ s2  =
+    225.  
+ u3  =
+    25.  
+ v3  =
+    0.  
+ t3  =
+    5.  
+ s3  =
+    62.5  
+ The acceleration of the car, a = 0.4 m/s^2. 
+ The car takes t = 50 s to attain the speed.
+ The acceleration of the car in the second case, a = 0.5 m/s^2. 
+ The distance moved by the car, s = 225 m.
+ The distance travelled by the car during braking, s = 62.5 m.
+************************************
+************************************
+2018-02-02 16:41:19.303494
+------------------------------------
+Book: Theory Of Machines [Author: R. S. Khurmi And J. K. Gupta]
+Chapter: Kinematics of Motion
+Example: (2.1) To Find the Acceleration and Distance
+------------------------------------
+Output
+------------------------------------
+ u1  =
+    0.  
+ v1  =
+    20.  
+ s1  =
+    500.  
+ a1  =
+    0.4  
+ t1  =
+    50.  
+ u2  =
+    20.  
+ v2  =
+    25.  
+ t2  =
+    10.  
+ a2  =
+    0.5  
+ s2  =
+    225.  
+ u3  =
+    25.  
+ v3  =
+    0.  
+ t3  =
+    5.  
+ s3  =
+    62.5  
+ The acceleration of the car, a = 0.4 m/s^2. 
+ The car takes t = 50 s to attain the speed.
+ The acceleration of the car in the second case, a = 0.5 m/s^2. 
+ The distance moved by the car, s = 225 m.
+ The distance travelled by the car during braking, s = 62.5 m.
+************************************
+************************************
+2018-02-02 16:41:29.966251
+------------------------------------
+Book: Theory Of Machines [Author: R. S. Khurmi And J. K. Gupta]
+Chapter: Kinematics of Motion
+Example: (2.1) To Find the Acceleration and Distance
+------------------------------------
+Output
+------------------------------------
+ u1  =
+    0.  
+ v1  =
+    20.  
+ s1  =
+    500.  
+ a1  =
+    0.4  
+ t1  =
+    50.  
+ u2  =
+    20.  
+ v2  =
+    25.  
+ t2  =
+    10.  
+ a2  =
+    0.5  
+ s2  =
+    225.  
+ u3  =
+    25.  
+ v3  =
+    0.  
+ t3  =
+    5.  
+ s3  =
+    62.5  
+ The acceleration plot() of the car, a = 0.4 m/s^2. 
+ The car takes t = 50 s to attain the speed.
+ The acceleration of the car in the second case, a = 0.5 m/s^2. 
+ The distance moved by the car, s = 225 m.
+ The distance travelled by the car during braking, s = 62.5 m.
+************************************
+************************************
+2018-02-02 16:41:38.017262
+------------------------------------
+Book: Theory Of Machines [Author: R. S. Khurmi And J. K. Gupta]
+Chapter: Kinematics of Motion
+Example: (2.1) To Find the Acceleration and Distance
+------------------------------------
+Output
+------------------------------------
+ u1  =
+    0.  
+ v1  =
+    20.  
+ s1  =
+    500.  
+ a1  =
+    0.4  
+ t1  =
+    50.  
+ u2  =
+    20.  
+ v2  =
+    25.  
+ t2  =
+    10.  
+ a2  =
+    0.5  
+ s2  =
+    225.  
+ u3  =
+    25.  
+ v3  =
+    0.  
+ t3  =
+    5.  
+ s3  =
+    62.5  
+ The acceleration of the car, a = 0.4 m/s^2. 
+ The car takes t = 50 s to attain the speed.
+ The acceleration of the car in the second case, a = 0.5 m/s^2. 
+ The distance moved by the car, s = 225 m.
+ The distance travelled by the car during braking, s = 62.5 m.
+************************************

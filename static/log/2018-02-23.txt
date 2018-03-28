@@ -1,0 +1,1905 @@
+************************************
+2018-02-23 10:56:12.650398
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 10:58:40.301989
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 10:58:43.826088
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 10:58:44.515251
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 10:58:44.696693
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 10:59:10.999847
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system()
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 10:59:19.078989
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 10:59:27.950757
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system()
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:29.591378
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem()
+       !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:33.349865
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem();
+       !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:41.711370
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system();
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:42.800745
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system();
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:46.514850
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system()
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:50.012313
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:51.169714
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:57.461050
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:58.099306
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:58.464478
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:39:58.663548
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+ !--error 999 
+system: Wrong number of input argument(s).
+at line      23 of function system called by :  
+system
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:40:01.255532
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem
+  !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:40:02.030834
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem
+  !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:40:05.515434
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem(
+      !--error 2 
+Invalid factor.
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:40:10.611392
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem()
+       !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:42:00.898783
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem(10,10)
+            !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:42:04.692401
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem(10,10);
+            !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 11:49:45.812695
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.15) Determination of ARX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+Warning : redefining function: cov                     . Use funcprot(0) to avoid this message
+ Discrete time model: A(x)y(t) = B(x)u(t) + e(t)   
+ A(x) =    
+ 1 -0.5053185(+-0.0175073)*x   
+ B(x) =    
+ 0.5992442(+-0.0010852)*x^2 -0.2044339(+-0.0112101)*x^3   
+************************************
+************************************
+2018-02-23 11:54:34.546656
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+stem(10,10);
+            !--error 4 
+Undefined variable: stem
+at line      21 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 15:04:12.412646
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Modelling of Sampled Data Systems
+Example: (2.1) Model of inverted pendulum
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-23 15:16:33.793212
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Modelling of Sampled Data Systems
+Example: (2.1) Model of inverted pendulum
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-23 15:20:41.116495
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Modelling of Sampled Data Systems
+Example: (2.1) Model of inverted pendulum
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-23 15:20:47.823555
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Modelling of Sampled Data Systems
+Example: (2.3) ZOH equivalent state space system
+------------------------------------
+Output
+------------------------------------
+ sysd  =
+       sysd(1)   (state-space system:)
+!lss  A  B  C  D  X0  dt  !
+       sysd(2) = A matrix = 
+    0.3678794    0.  
+    0.6321206    1.  
+       sysd(3) = B matrix = 
+    0.6321206  
+    0.3678794  
+       sysd(4) = C matrix = 
+    0.    1.  
+       sysd(5) = D matrix = 
+    0.  
+       sysd(6) = X0 (initial state) = 
+    0.  
+    0.  
+       sysd(7) = Time domain = 
+    1.  
+************************************
+************************************
+2018-02-23 15:36:10.164257
+------------------------------------
+Book: Op-Amps and Linear Integrated Circuit [Author: S. Sharma]
+Chapter: Operational amplifier characteristic
+Example: (2.3) Compensating network
+------------------------------------
+Output
+------------------------------------
+ Rb  =
+    15000.  
+ Rmax  =
+    1500.  
+    6000.  
+************************************
+************************************
+2018-02-23 16:32:28.615290
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:00.240206
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: search                  . Use funcprot(0) to avoid this message
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:04.399304
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: search                  . Use funcprot(0) to avoid this message
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:09.946475
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+cls
+  !--error 4 
+Undefined variable: cls
+at line       5 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 16:33:10.819113
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+cls
+  !--error 4 
+Undefined variable: cls
+at line       5 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-23 16:33:15.783702
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:17.645987
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:18.292187
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:18.497436
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:22.462060
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: search                  . Use funcprot(0) to avoid this message
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:33:44.981131
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: search                  . Use funcprot(0) to avoid this message
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************
+************************************
+2018-02-23 16:44:35.844924
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 16:45:39.537997
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-23 16:45:44.936804
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.10) angular acceleration of connecting rod BA
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ Nao  =
+    300.  
+ AO  =
+    0.15  
+ BA  =
+    0.6  
+ wAO  =
+    31.41  
+ Vao  =
+    4.7115  
+ ab  =
+    3.4  
+ Vba  =
+    3.4  
+ ob  =
+    4.  
+ oc  =
+    4.1  
+ fRao  =
+    147.98821  
+ fRba  =
+    19.266667  
+ wBA  =
+    5.6666667  
+ fTba  =
+    103.  
+ alphaBA  =
+    171.66667  
+linear velocity of A with respect to O= 4.712 m/s
+ radial component of acceleration of A with respect to O= 147.988 m/s^2
+ radial component of acceleration of B with respect to A= 19.267 m/s^2
+ angular velocity of connecting rod B= 5.667 rad/s
+ angular acceleration of connecting rod BA= 171.667 rad/s^2 
+************************************
+************************************
+2018-02-23 16:49:03.396959
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.10) angular acceleration of connecting rod BA
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ Nao  =
+    300.  
+ AO  =
+    0.15  
+ BA  =
+    0.6  
+ wAO  =
+    31.41  
+ Vao  =
+    4.7115  
+ ab  =
+    3.4  
+ Vba  =
+    3.4  
+ ob  =
+    4.  
+ oc  =
+    4.1  
+ fRao  =
+    147.98821  
+ fRba  =
+    19.266667  
+ wBA  =
+    5.6666667  
+ fTba  =
+    103.  
+ alphaBA  =
+    171.66667  
+linear velocity of A with respect to O= 4.712 m/s
+ radial component of acceleration of A with respect to O= 147.988 m/s^2
+ radial component of acceleration of B with respect to A= 19.267 m/s^2
+ angular velocity of connecting rod B= 5.667 rad/s
+ angular acceleration of connecting rod BA= 171.667 rad/s^2 
+************************************
+************************************
+2018-02-23 16:50:32.213286
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.3) Ratio of time taken on the cutting to the return stroke
+------------------------------------
+Output
+------------------------------------
+ OB  =
+    54.6  
+ OA  =
+    85.  
+ OA2  =
+    85.  
+ CA  =
+    160.  
+ CD  =
+    144.  
+ beeta  =
+    100.06501  
+ A  =
+    2.5976613  
+Ratio of time taken on the cutting to the return stroke= 3 
+************************************
+************************************
+2018-02-23 16:50:40.309862
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: GOVERNORS
+Example: (7.10) EQUILIBRIUM SPEED OF GOVERNOR
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-23 16:51:10.077332
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Gears and Gear Drivers
+Example: (4.10) Speed of wheels
+------------------------------------
+Output
+------------------------------------
+ x  =
+  - 40.  
+Speed of wheel B is  60 rpm 
+ Speed of wheel C is -60 rpm 
+************************************
+************************************
+2018-02-23 16:51:48.541922
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Gears and Gear Drivers
+Example: (4.12) Speed of wheel
+------------------------------------
+Output
+------------------------------------
+ x  =
+  - 350.  
+Speed of wheel Z is -11.667 rpm 
+ Direction of wheel Z is opposite to that of X 
+************************************
+************************************
+2018-02-23 16:51:54.034490
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Gears and Gear Drivers
+Example: (4.16) speed of road wheel
+------------------------------------
+Output
+------------------------------------
+ Ta  =
+    12.  
+ Tb  =
+    60.  
+ N  =
+    1000.  
+ Nc  =
+    210.  
+ Nb  =
+    200.  
+ x  =
+  - 10.  
+ Nd  =
+    190.  
+speed of road wheel driven by D= 190 rpm 
+************************************
+************************************
+2018-02-23 16:52:03.371673
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.4) find acceleration
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    9.  
+ CP  =
+    36.  
+ XC  =
+    12.  
+ X  =
+    40.  
+ CM  =
+    6.98  
+ N1  =
+    240.  
+ N2  =
+    240.  
+ ao  =
+    100.  
+ w  =
+    25.132741  
+ a  =
+    473.74101  
+Centripetal acceleration = 474 ft/s^2
+ Wr  =
+    4.8729593  
+ f1  =
+    71.237196  
+ tp  =
+    296.  
+ cp  =
+    306.  
+ ox  =
+    422.  
+ f2  =
+    296.  
+ f3  =
+    306.  
+ fx  =
+    422.  
+ ar  =
+    98.666667  
+Case a) 
+ap= 306 ft/s^2,
+ax= 422 ft/s^2 and
+ar= 98.7 rad/s^2 
+ oc1  =
+    474.  
+ oc  =
+    480.  
+ pt  =
+    238.  
+ pc  =
+    246.  
+ xo  =
+    452.  
+ f4  =
+    238.  
+ f5  =
+    246.  
+ Ar  =
+    79.333333  
+ f6  =
+    75.  
+ Fx  =
+    452.  
+Case b) 
+ap= 238 ft/s^2,
+ax= 452 ft/s^2 and
+ar= 79.3 rad/s^2 
+************************************
+************************************
+2018-02-23 16:52:08.880180
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.8) Velocity and acceleration of piston
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    3.  
+ CP  =
+    9.  
+ N  =
+    1200.  
+ X  =
+    55.  
+ OP  =
+    10.35  
+ PM  =
+    10.74  
+ OM  =
+    2.95  
+ PC  =
+    12.84  
+ PR  =
+    12.84  
+ RV  =
+    2.49  
+ UV  =
+    1.29  
+ OU  =
+    5.9  
+ PV  =
+    13.05  
+ OV  =
+    6.06  
+ OQ  =
+    10.35  
+ w  =
+    125.66371  
+ Vq  =
+    108.38495  
+ Vp  =
+    112.46902  
+ w1  =
+    149.95869  
+ Vpq  =
+    30.892328  
+ fq  =
+    13620.054  
+ Acp  =
+    24061.741  
+ Atp  =
+    3276.7087  
+ acp  =
+    4368.9449  
+ f  =
+    1697.572  
+ d  =
+    7764.0888  
+ Ap  =
+    206077.34  
+ Apq  =
+    95695.684  
+The velocity and acceleration of the piston along the cylinder are 30.9 ft/s and 1698 ft/s^2 respectively
+The angular velocity and angular acceleration of the connecting rod cp are 150.0 rad/s and 4369 rad/s^2 respectively
+And the coriolis component of the acceleration of P is 7764 ft/s^2
+************************************
+************************************
+2018-02-23 16:52:22.075203
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.3) Velocities
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    6.  
+ CP  =
+    24.  
+ N  =
+    240.  
+ X  =
+    45.  
+ XP  =
+    19.  
+ XC  =
+    6.  
+ YP  =
+    32.  
+ YC  =
+    9.  
+ CI  =
+    2.77  
+ PI  =
+    2.33  
+ XI  =
+    2.33  
+ YI  =
+    3.48  
+ Vc  =
+    12.566371  
+w=12.57 ft/s
+ w  =
+    4.5365959  
+ Vp  =
+    10.570268  
+ Vx  =
+    10.570268  
+ Vy  =
+    15.787354  
+velocity of points P, X and Y 
+ are 10.57 ft/s, 10.57 ft/s and 15.8 ft/s respectively 
+************************************
+************************************
+2018-02-23 16:52:30.069874
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.8) Velocity and acceleration of piston
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    3.  
+ CP  =
+    9.  
+ N  =
+    1200.  
+ X  =
+    55.  
+ OP  =
+    10.35  
+ PM  =
+    10.74  
+ OM  =
+    2.95  
+ PC  =
+    12.84  
+ PR  =
+    12.84  
+ RV  =
+    2.49  
+ UV  =
+    1.29  
+ OU  =
+    5.9  
+ PV  =
+    13.05  
+ OV  =
+    6.06  
+ OQ  =
+    10.35  
+ w  =
+    125.66371  
+ Vq  =
+    108.38495  
+ Vp  =
+    112.46902  
+ w1  =
+    149.95869  
+ Vpq  =
+    30.892328  
+ fq  =
+    13620.054  
+ Acp  =
+    24061.741  
+ Atp  =
+    3276.7087  
+ acp  =
+    4368.9449  
+ f  =
+    1697.572  
+ d  =
+    7764.0888  
+ Ap  =
+    206077.34  
+ Apq  =
+    95695.684  
+The velocity and acceleration of the piston along the cylinder are 30.9 ft/s and 1698 ft/s^2 respectively
+The angular velocity and angular acceleration of the connecting rod cp are 150.0 rad/s and 4369 rad/s^2 respectively
+And the coriolis component of the acceleration of P is 7764 ft/s^2
+************************************
+************************************
+2018-02-23 16:52:58.452621
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.3) Velocities
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    6.  
+ CP  =
+    24.  
+ N  =
+    240.  
+ X  =
+    45.  
+ XP  =
+    19.  
+ XC  =
+    6.  
+ YP  =
+    32.  
+ YC  =
+    9.  
+ CI  =
+    2.77  
+ PI  =
+    2.33  
+ XI  =
+    2.33  
+ YI  =
+    3.48  
+ Vc  =
+    12.566371  
+w=12.57 ft/s
+ w  =
+    4.5365959  
+ Vp  =
+    10.570268  
+ Vx  =
+    10.570268  
+ Vy  =
+    15.787354  
+velocity of points P, X and Y 
+ are 10.57 ft/s, 10.57 ft/s and 15.8 ft/s respectively 
+************************************
+************************************
+2018-02-23 16:53:28.003812
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.4) find acceleration
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    9.  
+ CP  =
+    36.  
+ XC  =
+    12.  
+ X  =
+    40.  
+ CM  =
+    6.98  
+ N1  =
+    240.  
+ N2  =
+    240.  
+ ao  =
+    100.  
+ w  =
+    25.132741  
+ a  =
+    473.74101  
+Centripetal acceleration = 474 ft/s^2
+ Wr  =
+    4.8729593  
+ f1  =
+    71.237196  
+ tp  =
+    296.  
+ cp  =
+    306.  
+ ox  =
+    422.  
+ f2  =
+    296.  
+ f3  =
+    306.  
+ fx  =
+    422.  
+ ar  =
+    98.666667  
+Case a) 
+ap= 306 ft/s^2,
+ax= 422 ft/s^2 and
+ar= 98.7 rad/s^2 
+ oc1  =
+    474.  
+ oc  =
+    480.  
+ pt  =
+    238.  
+ pc  =
+    246.  
+ xo  =
+    452.  
+ f4  =
+    238.  
+ f5  =
+    246.  
+ Ar  =
+    79.333333  
+ f6  =
+    75.  
+ Fx  =
+    452.  
+Case b) 
+ap= 238 ft/s^2,
+ax= 452 ft/s^2 and
+ar= 79.3 rad/s^2 
+************************************
+************************************
+2018-02-23 16:53:34.579935
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.7) Find velocity and acceleration of ram R
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    8.  
+ CP  =
+    4.  
+ N  =
+    60.  
+ ON  =
+    15.  
+ RN  =
+    6.  
+ X  =
+    120.  
+ OP  =
+    10.6  
+ OQ  =
+    10.6  
+ Vq  =
+    1.56  
+ Vrn  =
+    0.74  
+ ftq  =
+    3.74  
+ ftrn  =
+    2.03  
+ w1  =
+    6.2831853  
+ w  =
+    1.7660377  
+ wrn  =
+    1.48  
+ a  =
+    4.2339623  
+ a1  =
+    4.06  
+W=1.77 rad/s
+Wrn=1.48 rad/s
+Angular acceleration of ON= 4.23 rad/s^2
+Angular acceleration of RN=4.06 rad/s^2
+************************************
+************************************
+2018-02-23 16:53:45.783988
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Velocity and acceleration
+Example: (3.3) Velocities
+------------------------------------
+Output
+------------------------------------
+ OC  =
+    6.  
+ CP  =
+    24.  
+ N  =
+    240.  
+ X  =
+    45.  
+ XP  =
+    19.  
+ XC  =
+    6.  
+ YP  =
+    32.  
+ YC  =
+    9.  
+ CI  =
+    2.77  
+ PI  =
+    2.33  
+ XI  =
+    2.33  
+ YI  =
+    3.48  
+ Vc  =
+    12.566371  
+w=12.57 ft/s
+ w  =
+    4.5365959  
+ Vp  =
+    10.570268  
+ Vx  =
+    10.570268  
+ Vy  =
+    15.787354  
+velocity of points P, X and Y 
+ are 10.57 ft/s, 10.57 ft/s and 15.8 ft/s respectively 
+************************************
+************************************
+2018-02-23 16:54:00.381426
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Friction
+Example: (6.1) maximum efficiency
+------------------------------------
+Output
+------------------------------------
+ theta  =
+    60.  
+ u1  =
+    0.15  
+ u2  =
+    0.1  
+ phi  =
+    8.5307656  
+ phi1  =
+    5.7105931  
+ alpha  =
+    37.120679  
+ nmax  =
+    0.7490126  
+Maximum efficiency = 0.7490 and it is obtained when alpha = 37.12 degrees 
+************************************
+************************************
+2018-02-23 16:54:10.704969
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Friction
+Example: (6.8) horizontal force
+------------------------------------
+Output
+------------------------------------
+ stroke  =
+    4.  
+ d  =
+    11.5  
+ ds  =
+    4.  
+ dp  =
+    14.  
+ theta  =
+    3.1415927  
+ u1  =
+    0.25  
+ T1  =
+    350.  
+ u2  =
+    0.1  
+ k  =
+    2.1932801  
+ T2  =
+    159.57834  
+ Tor  =
+    1332.9516  
+ p  =
+    1.  - 1163.    334200.  
+ a  =
+    644.28734  
+    518.71266  
+P=644.3
+P=518.7 
+The larger of two values is inadmissible. 
+ It corresponds to a negative sign in front of the second term on the 
+ right hand side of equation (1) 
+************************************
+************************************
+2018-02-23 17:00:03.274046
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Searching
+Example: (7.1) Sequential Search
+------------------------------------
+Output
+------------------------------------
+ a  =
+    2.    33.    22.    121.    23.    233.    222.  
+ Given array   
+    2.    33.    22.    121.    23.    233.    222.  
+Found 23 AT 5
+************************************

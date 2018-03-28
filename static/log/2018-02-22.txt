@@ -1,0 +1,437 @@
+************************************
+2018-02-22 12:27:58.765718
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-22 12:52:12.248008
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-22 14:04:53.428584
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS
+Example: (2.1) finding the diameter of the belt
+------------------------------------
+Output
+------------------------------------
+ Db1  =
+    44.8  
+ Db2  =
+    42.52  
+the value of Db is  45 cm 
+the value of Db1 is 44.800000 cm 
+the value of Db2 is 42.520000 cm 
+************************************
+************************************
+2018-02-22 14:12:59.218134
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-22 14:13:29.866582
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-22 14:13:49.670455
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4872851x   
+ B(x) =   
+                           2            3  
+  - 0.0018611x + 0.5984327x - 0.1867006x   
+ D(x)   
+    1 - 0.2796495x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500723 |
+************************************
+************************************
+2018-02-22 14:34:42.395133
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-22 15:08:59.654923
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: TRANSMISSION OF MOTION AND POWER BY BELTS AND PULLEYS
+Example: (2.1) finding the diameter of the belt
+------------------------------------
+Output
+------------------------------------
+ Db1  =
+    44.8  
+ Db2  =
+    42.52  
+the value of Db is  45 cm 
+the value of Db1 is 44.800000 cm 
+the value of Db2 is 42.520000 cm 
+************************************
+************************************
+2018-02-22 16:07:18.812598
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.10) Determination of the PACF of AR process
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-22 16:07:48.526942
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.10) Determination of the PACF of AR process
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-22 16:08:27.833614
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.10) Determination of the PACF of AR process
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-22 16:08:47.614682
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.12) PACF plot of an MA process decays slowly
+------------------------------------
+Output
+------------------------------------
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      16 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 16:08:56.986800
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.2) ACF calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-22 16:15:27.903969
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.2) ACF calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-22 16:15:36.270666
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.12) PACF plot of an MA process decays slowly
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      16 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 16:15:43.047233
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 16:16:08.323060
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.14) Determination of FIR parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+ !--error 999 
+Wrong value for 'line_style' property: Must be greater or equal to 0.
+at line       4 of function generic_i_h called by :  
+at line       2 of function %s_i_h called by :  
+at line     171 of function legends called by :  
+legends(['Estimated'; 'Actual'], [2;-9],'ur');
+at line      39 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 16:17:01.563714
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.14) Determination of FIR parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+ !--error 999 
+Wrong value for 'line_style' property: Must be greater or equal to 0.
+at line       4 of function generic_i_h called by :  
+at line       2 of function %s_i_h called by :  
+at line     171 of function legends called by :  
+legends(['Estimated'; 'Actual'], [2;-9],'ur');
+at line      39 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 16:18:07.460760
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.14) Determination of FIR parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+ !--error 999 
+Wrong value for 'line_style' property: Must be greater or equal to 0.
+at line       4 of function generic_i_h called by :  
+at line       2 of function %s_i_h called by :  
+at line     171 of function legends called by :  
+legends(['Estimated'; 'Actual'], [2;-9],'ur');
+at line      39 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 17:30:47.556831
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.14) Determination of FIR parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+ !--error 999 
+Wrong value for 'line_style' property: Must be greater or equal to 0.
+at line       4 of function generic_i_h called by :  
+at line       2 of function %s_i_h called by :  
+at line     171 of function legends called by :  
+legends(['Estimated'; 'Actual'], [2;-9],'ur');
+at line      39 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 17:37:51.194932
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.14) Determination of FIR parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+ !--error 999 
+Wrong value for 'line_style' property: Must be greater or equal to 0.
+at line       4 of function generic_i_h called by :  
+at line       2 of function %s_i_h called by :  
+at line     171 of function legends called by :  
+legends(['Estimated'; 'Actual'], [2;-9],'ur');
+at line      39 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 17:38:39.813327
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.14) Determination of FIR parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+ !--error 999 
+Wrong value for 'line_style' property: Must be greater or equal to 0.
+at line       4 of function generic_i_h called by :  
+at line       2 of function %s_i_h called by :  
+at line     171 of function legends called by :  
+legends(['Estimated'; 'Actual'], [2;-9],'ur');
+at line      39 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-22 18:18:36.546047
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.13) Implementation of trial and error procedure to determine ARMA process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1e-03,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************

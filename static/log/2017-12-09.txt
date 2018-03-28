@@ -1,0 +1,48 @@
+************************************
+2017-12-09 10:05:52.593153
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************
+************************************
+2017-12-09 10:36:15.994791
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************
+************************************
+2017-12-09 11:10:32.668352
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.10) concentration of electrons and holes
+------------------------------------
+Output
+------------------------------------
+ n=   
+    1.763D+24  
+ electrons/cm^3   
+ p=   
+    2.645D+24  
+ holes/cm^3   
+************************************

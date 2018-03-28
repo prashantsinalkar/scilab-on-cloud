@@ -1,0 +1,48 @@
+************************************
+2018-01-15 16:04:37.117343
+------------------------------------
+Book: Basic Principles And Calculations In Chemical Engineering [Author: D. M. Himmelblau And J. B. Riggs]
+Chapter: Material Balances for Processes Involving Reaction
+Example: (10.1) Reaction in which Fraction Conversion is specified
+------------------------------------
+Output
+------------------------------------
+Example 10.1
+ CH4 is limiting reactant  
+ extent of reaction is 26.8 g moles reacting 
+ Number of degree of freedom for the given system is  0 
+Composition of product stream in % g mol of products
+Product            Percentage g mol
+CH4                13.2% g mol
+Cl2                23.2% g mol
+CH3Cl              26.8% g mol
+HCl                26.8% g mol
+N2                 10.0% g mol
+************************************
+************************************
+2018-01-15 16:06:55.487146
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2018-01-15 20:05:51.783983
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.11) minority electron and hole density
+------------------------------------
+Output
+------------------------------------
+ n=   
+    3750.  
+ p=   
+    4.500D+11  
+************************************

@@ -1,0 +1,466 @@
+************************************
+2017-11-21 11:19:23.121766
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.15) Determination of ARX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+Warning : redefining function: cov                     . Use funcprot(0) to avoid this message
+ Discrete time model: A(x)y(t) = B(x)u(t) + e(t)   
+ A(x) =    
+ 1 -0.5053185(+-0.0175073)*x   
+ B(x) =    
+ 0.5992442(+-0.0010852)*x^2 -0.2044339(+-0.0112101)*x^3   
+************************************
+************************************
+2017-11-21 11:19:31.713369
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.15) Determination of ARX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: arx                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+Warning : redefining function: cov                     . Use funcprot(0) to avoid this message
+ Discrete time model: A(x)y(t) = B(x)u(t) + e(t)   
+ A(x) =    
+ 1 -0.5034253(+-0.0178561)*x   
+ B(x) =    
+ 0.6014826(+-0.0010932)*x^2 -0.2043725(+-0.0114649)*x^3   
+************************************
+************************************
+2017-11-21 11:59:34.567273
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:00:49.559059
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2017-11-21 12:04:23.507824
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:15:11.678036
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:16:47.167084
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.1) Least squares solution
+------------------------------------
+Output
+------------------------------------
+ LS  =
+    2.0679112  
+ Max  =
+    136.59274  
+ Min  =
+  - 19.911802  
+************************************
+************************************
+2017-11-21 12:16:59.877375
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4972087x   
+ B(x) =   
+                           2            3  
+  - 0.0008443x + 0.5996891x - 0.1961776x   
+ D(x)   
+    1 - 0.2701369x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503810 |
+************************************
+************************************
+2017-11-21 12:17:04.802039
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4881911x   
+ B(x) =   
+                           2            3  
+    0.0001074x + 0.5986271x - 0.1893383x   
+ D(x)   
+    1 - 0.2601843x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0490409 |
+************************************
+************************************
+2017-11-21 12:17:07.573959
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:17:08.073668
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:17:09.074319
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:17:09.134265
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:18:33.253694
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:20:05.669151
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 12:21:11.032039
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 14:40:08.441545
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 14:42:34.415562
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 14:42:39.396829
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2017-11-21 14:43:42.427323
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 14:44:28.467944
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-21 14:52:40.853984
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************

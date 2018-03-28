@@ -1,0 +1,176 @@
+************************************
+2018-02-14 11:04:56.179498
+------------------------------------
+Book: Theory Of Machines [Author: R. S. Khurmi And J. K. Gupta]
+Chapter: Velocity in Mechanisms Relative Velocity Method
+Example: (7.1) To find the angular velocity
+------------------------------------
+Output
+------------------------------------
+ NBA  =
+    120.  
+ AB  =
+    0.04  
+ CD  =
+    0.08  
+ omegaBA  =
+    12.566371  
+ vBA  =
+    0.5026548  
+ vB  =
+    0.5026548  
+ vCD  =
+    0.385  
+ vC  =
+    0.385  
+ omegaCD  =
+    4.8125  
+ The angular velocity of link CD, omegaCD = 4.8 rad/s, clockwise about D.
+************************************
+************************************
+2018-02-14 11:08:19.942541
+------------------------------------
+Book: Solutions to Problems in Applied Mechanics [Author: A. N. Gobby]
+Chapter: Simple Harmonic motion 
+Example: (4.1) acceleration
+------------------------------------
+Output
+------------------------------------
+ t  =
+    3.  
+ m  =
+    20.  
+ a  =
+    4.  
+ T  =
+    2.0943951  
+ V  =
+    8.3775804  
+ F  =
+    17.545963  
+th acceleration x must be a maximum= 17.545963 ft/s^2 
+************************************
+************************************
+2018-02-14 11:08:55.209229
+------------------------------------
+Book: Solutions to Problems in Applied Mechanics [Author: A. N. Gobby]
+Chapter: Simple Harmonic motion 
+Example: (4.1) acceleration
+------------------------------------
+Output
+------------------------------------
+ t  =
+    3.  
+ m  =
+    20.  
+ a  =
+    4.  
+ T  =
+    2.0943951  
+ V  =
+    8.3775804  
+ F  =
+    17.545963  
+th acceleration x must be a maximum= 17.545963 ft/s^2 
+************************************
+************************************
+2018-02-14 11:10:39.679100
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+test code
+  !--error 4 
+Undefined variable: test
+at line      10 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-14 11:10:52.808564
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-14 14:08:09.728904
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+test code
+  !--error 4 
+Undefined variable: test
+at line      10 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-14 15:12:21.784150
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+test code
+  !--error 4 
+Undefined variable: test
+at line      10 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-14 16:37:11.048683
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************

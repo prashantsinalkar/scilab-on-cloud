@@ -1,0 +1,13 @@
+************************************
+2018-01-11 22:24:17.937374
+------------------------------------
+Book: Digital Electronics: An Introduction To Theory And Practice [Author: W. H. Gothmann]
+Chapter: Number Systems
+Example: (2.1) Convert 10111 to decimal
+------------------------------------
+Output
+------------------------------------
+ a  =
+    23.  
+    23.  
+************************************

@@ -1,0 +1,29 @@
+************************************
+2017-11-07 12:14:24.944708
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.4) terminal voltage
+------------------------------------
+Output
+------------------------------------
+ VZ1=   
+    5.  
+ V   
+************************************
+************************************
+2017-11-07 12:14:30.881384
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.7) resistor
+------------------------------------
+Output
+------------------------------------
+ Rs=   
+    387.5  
+ ohm   
+ Rsmax=   
+    375.  
+ ohm   
+************************************

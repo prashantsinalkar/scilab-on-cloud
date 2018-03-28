@@ -1,0 +1,277 @@
+************************************
+2018-02-15 09:50:59.336783
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+test code
+  !--error 4 
+Undefined variable: test
+at line      10 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-15 09:51:05.524564
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-15 09:51:10.238237
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-15 09:53:05.141766
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-15 11:01:51.998405
+------------------------------------
+Book: Signals  and Systems [Author: P. R. Babu and R. Anandanatarajan]
+Chapter: Systems an introduction
+Example: (2.7) Check for the following systems
+------------------------------------
+Output
+------------------------------------
+ T  =
+    201.  
+ the given signal is static   
+ Not linear   
+ the given signal is time invariant   
+ the given signal is static   
+ linear   
+ The given signal is not time invariant   
+************************************
+************************************
+2018-02-15 11:52:33.918371
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Valve diagrams and valve gears
+Example: (5.1) find theta at admission
+------------------------------------
+Output
+------------------------------------
+ s  =
+    1.125  
+ e  =
+    0.25  
+ t  =
+    2.25  
+ alpha  =
+    35.  
+ x  =
+    30.  
+ y  =
+    150.  
+ p  =
+  - 5.  
+ q  =
+    115.  
+ ang  =
+  - 6.3793702  
+ angle  =
+    6.3793702  
+ a  =
+    186.37937  
+ b  =
+    353.62063  
+ r  =
+    151.37937  
+ s  =
+    318.62063  
+Angle theta at admission, cut-off,
+ release and compression are -5.00, 115.00, 151.38 and 318.62 degrees respectively 
+************************************
+************************************
+2018-02-15 11:55:39.790874
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Valve diagrams and valve gears
+Example: (5.1) find theta at admission
+------------------------------------
+Output
+------------------------------------
+ s  =
+    1.125  
+ e  =
+    0.25  
+ t  =
+    2.25  
+ alpha  =
+    35.  
+ x  =
+    30.  
+ y  =
+    150.  
+ p  =
+  - 5.  
+ q  =
+    115.  
+ ang  =
+  - 6.3793702  
+ angle  =
+    6.3793702  
+ a  =
+    186.37937  
+ b  =
+    353.62063  
+ r  =
+    151.37937  
+ s  =
+    318.62063  
+Angle theta at admission, cut-off,
+ release and compression are -5.00, 115.00, 151.38 and 318.62 degrees respectively 
+************************************
+************************************
+2018-02-15 11:58:43.081362
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Valve diagrams and valve gears
+Example: (5.1) find theta at admission
+------------------------------------
+Output
+------------------------------------
+ s  =
+    1.125  
+ e  =
+    0.25  
+ t  =
+    2.25  
+ alpha  =
+    35.  
+ x  =
+    30.  
+ y  =
+    150.  
+ p  =
+  - 5.  
+ q  =
+    115.  
+ ang  =
+  - 6.3793702  
+ angle  =
+    6.3793702  
+ a  =
+    186.37937  
+ b  =
+    353.62063  
+ r  =
+    151.37937  
+ s  =
+    318.62063  
+Angle theta at admission, cut-off,
+ release and compression are -5.00, 115.00, 151.38 and 318.62 degrees respectively 
+************************************
+************************************
+2018-02-15 14:45:23.325512
+------------------------------------
+Book: The Theory of Machines [Author: T. Bevan]
+Chapter: Valve diagrams and valve gears
+Example: (5.1) find theta at admission
+------------------------------------
+Output
+------------------------------------
+ s  =
+    1.125  
+ e  =
+    0.25  
+ t  =
+    2.25  
+ alpha  =
+    35.  
+ x  =
+    30.  
+ y  =
+    150.  
+ p  =
+  - 5.  
+ q  =
+    115.  
+ ang  =
+  - 6.3793702  
+ angle  =
+    6.3793702  
+ a  =
+    186.37937  
+ b  =
+    353.62063  
+ r  =
+    151.37937  
+ s  =
+    318.62063  
+Angle theta at admission, cut-off,
+ release and compression are -5.00, 115.00, 151.38 and 318.62 degrees respectively 
+************************************

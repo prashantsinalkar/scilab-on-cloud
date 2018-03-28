@@ -1,0 +1,54 @@
+{% load static %}
+
+<link href="{% static 'website/css/main.css' %}" rel="stylesheet"/>
+{% for categories in cat %}
+    <br style="display: none" class="ct_id" id="{{ bks.category }}" />
+    <br style="display: none" class="bk_id" id="{{ bks.id }}" />
+{% endfor %}
+<br style="display: none" class="cp_id" id="{{ cpid }}" />
+<div class="col-md-12">
+    <div class="book-title-sub">
+      {% for book in bk %}
+        {{ book.author }}
+      {% endfor %}
+    </div>
+    <div class="book-title ubuntu">
+      {% for book in bk %}
+        <h1 class="bks_id" id={{ book.id }}>{{ book.book }}</h1>
+        <a class="btn btn-blue btn-white noud" id="download-book" value={{ book.id }}>Download Book<span class="fa fa-download"></span></a>
+        {% for chapter in cp %}
+        <h4 class="chp_id" id={{ chapter.id }}> - Chapter {{ chapter.number }} : {{ chapter.name }} &nbsp;&nbsp;<a class="btn btn-blue btn-white noud" id="download-chapter" value={{ chapter.id }}>Download Chapter<span class="fa fa-download pcolor"></span></a></h4>
+        {% endfor %}
+      {% endfor %}
+    </div>
+</div>
+
+<div class="col-md-8 cards-wrapper">
+
+    <div class="chapter-card col-sm-3 exmp" id={{ example.id }}>
+        <div id="ex-img" class="chapter-img">{{ img_thumb|safe }}</div>
+            <i class="views-count fa fa-eye {{ example.id }}" aria-hidden="true" ></i>
+
+        <div class="chapter-text">
+            <div class="chapter-card-title">
+                <h5 class="ex-id" values={{ example.id }}>Categories 1</h5>
+                caption 
+            </div>
+        </div>
+    </div>
+
+</div>
+<br style="display: none" class="exmp_id active" id="example-break" />
+
+
+<script>
+    $('#trigger-alt').on('click', function(){
+        $('#intro-page').hide(600);
+        $('#examples-wrapper').show(600);
+    })
+
+    $('.open-app').on('click', function(){
+        $('#intro-page').hide(300);
+        $('#examples-wrapper').show(300);
+    })
+</script>

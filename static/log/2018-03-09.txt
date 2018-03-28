@@ -1,0 +1,1242 @@
+************************************
+2018-03-09 15:37:29.434851
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.4) Convert State space to Transfer Function model
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:37:35.635485
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.a.11) State space to Transfer Function model SISO system
+------------------------------------
+Output
+------------------------------------
+ Htf =   
+           1          
+    ---------------   
+               2   3  
+    2 + 5s + 4s + s   
+************************************
+************************************
+2018-03-09 15:37:41.440547
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.a.12) State space to Transfer Function model MIMO system
+------------------------------------
+Output
+------------------------------------
+ Htf  =
+       4 + s           5 + s      
+    -----------     -----------   
+               2               2  
+    25 + 4s + s     25 + 4s + s   
+      - 25          - 25 + s      
+    ----------      ----------    
+               2               2  
+    25 + 4s + s     25 + 4s + s   
+ Htf =   
+       4 + s           5 + s      
+    -----------     -----------   
+               2               2  
+    25 + 4s + s     25 + 4s + s   
+      - 25          - 25 + s      
+    ----------      ----------    
+               2               2  
+    25 + 4s + s     25 + 4s + s   
+************************************
+************************************
+2018-03-09 15:37:48.701121
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.b.14) Verifying linearization of a non linear system
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:37:58.686879
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.b.4) Step and Ramp response of different Controllers
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:06.225392
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.i.1) Series Parallel Feedback connection of Systems
+------------------------------------
+Output
+------------------------------------
+ G1 =   
+        10        
+    ----------    
+               2  
+    10 + 2s + s   
+ G2 =   
+      5     
+    -----   
+    5 + s   
+ series =   
+           50           
+    ----------------    
+                 2   3  
+    50 + 20s + 7s + s   
+ parallel =   
+                   2    
+     100 + 20s + 5s     
+    ----------------    
+                 2   3  
+    50 + 20s + 7s + s   
+ feedback =   
+         50 + 10s        
+    ------------------   
+                  2   3  
+    100 + 20s + 7s + s   
+************************************
+************************************
+2018-03-09 15:38:13.473568
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.i.2) Transfer Function to State Space Model
+------------------------------------
+Output
+------------------------------------
+ Htf  =
+             s            
+    -------------------   
+                   2   3  
+    160 + 56s + 14s + s   
+.   | 0 -8   0 |    | 0 |
+x = | 7 -14  5 |x + | 1 |u   
+    | 4  0   0 |    | 0 |
+y = |-0.125  0  0 |x   
+ D  =
+    0.  
+ C  =
+  - 0.125    0.    0.  
+ B  =
+    0.  
+    1.  
+    0.  
+ A  =
+    0.  - 8.     0.  
+    7.  - 14.    5.  
+    4.    0.     0.  
+ Htf2  =
+             s            
+    -------------------   
+                   2   3  
+    160 + 56s + 14s + s   
+ Hssc  =
+       Hssc(1)   (state-space system:)
+!lss  A  B  C  D  X0  dt  !
+       Hssc(2) = A matrix = 
+    0.      1.     0.   
+    0.      0.     1.   
+  - 160.  - 56.  - 14.  
+       Hssc(3) = B matrix = 
+    0.  
+    0.  
+    1.  
+       Hssc(4) = C matrix = 
+    0.    1.    0.  
+       Hssc(5) = D matrix = 
+    0.  
+       Hssc(6) = X0 (initial state) = 
+    0.  
+    0.  
+    0.  
+       Hssc(7) = Time domain = 
+     []
+ Htfc  =
+             s            
+    -------------------   
+                   2   3  
+    160 + 56s + 14s + s   
+************************************
+************************************
+2018-03-09 15:38:26.437735
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Transient and Steady State Response Analysis
+Example: (5.10) Response to initial condition using syslin x0
+------------------------------------
+Output
+------------------------------------
++   | 0  1   0 |    | 0 |
+x = | 0  0   1 |x + | 0 |u   
+    |-0 -17 -8 |    | 1 |
+y = | 1  0  0 |x   
+************************************
+************************************
+2018-03-09 15:38:38.896806
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.1) Root Locus
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:41.306621
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.1) Root Locus
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:42.065017
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.1) Root Locus
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:42.429779
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.1) Root Locus
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:43.208891
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.1) Root Locus
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:43.961519
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.1) Root Locus
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:38:51.678362
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Root Locus Method
+Example: (6.10) Design of parallel compensation by root locus
+------------------------------------
+Output
+------------------------------------
+ K : k =    
+    28.259807    1.4129903  
+    8.9801079    0.4490054  
+ closed loop poles of system with k = 1.4129903   
+  - 2.1588655 + 4.9652042i  
+  - 2.1588655 - 4.9652042i  
+  - 0.6822690               
+ closed loop poles of system with k = 0.4490054   
+  - 2.9020273               
+  - 1.0489863 + 2.4065248i  
+  - 1.0489863 - 2.4065248i  
+ C1 =   
+               20              
+    ------------------------   
+                        2   3  
+    20 + 32.259807s + 5s + s   
+ C2 =   
+               20              
+    ------------------------   
+                        2   3  
+    20 + 12.980108s + 5s + s   
+************************************
+************************************
+2018-03-09 15:39:06.051611
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: PID Controllers and Modified PID Controllers
+Example: (8.1) Tuning a PID controller using Nichols Second Rule
+------------------------------------
+Output
+------------------------------------
+ G  =
+         1        
+    -----------   
+           2   3  
+    5s + 6s + s   
+ wcr  =
+    2.236068  
+ Kcr  =
+    30.  
+ Pcr  =
+    2.8099259  
+ Kp  =
+    18.  
+ Ti  =
+    1.4049629  
+ Td  =
+    0.3512407  
+ Gc  =
+                                  2  
+    12.811726 +  18s +  6.3223333s   
+   --------------------------------  
+                  s                  
+ closed loop system =   
+                                        2        
+          12.811726 +  18s +  6.3223333s         
+   --------------------------------------------  
+                                  2     3     4  
+    12.811726 +  18s +  11.322333s +  6s +  1s   
+ !--error 52 
+Wrong type for argument #2: Real matrix expected.
+at line      28 of function krac2 called by :  
+at line      55 of function evans called by :  
+at line       2 of function rootl called by :  
+rootl(GGc,0,'Root locus of open loop system');
+at line      35 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 15:39:33.239885
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: PID Controllers and Modified PID Controllers
+Example: (8.1) Tuning a PID controller using Nichols Second Rule
+------------------------------------
+Output
+------------------------------------
+ G  =
+         1        
+    -----------   
+           2   3  
+    5s + 6s + s   
+ wcr  =
+    2.236068  
+ Kcr  =
+    30.  
+ Pcr  =
+    2.8099259  
+ Kp  =
+    18.  
+ Ti  =
+    1.4049629  
+ Td  =
+    0.3512407  
+ Gc  =
+                                  2  
+    12.811726 +  18s +  6.3223333s   
+   --------------------------------  
+                  s                  
+ closed loop system =   
+                                        2        
+          12.811726 +  18s +  6.3223333s         
+   --------------------------------------------  
+                                  2     3     4  
+    12.811726 +  18s +  11.322333s +  6s +  1s   
+ !--error 52 
+Wrong type for argument #2: Real matrix expected.
+at line      28 of function krac2 called by :  
+at line      55 of function evans called by :  
+at line       2 of function rootl called by :  
+rootl(GGc,0,'Root locus of open loop system');
+at line      35 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 15:40:30.708119
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Mathematical Modelling of Control Systems
+Example: (2.b.4) Step and Ramp response of different Controllers
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 15:40:47.054636
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.1) Gain matrix using characteristic eq and Ackermanns formula
+------------------------------------
+Output
+------------------------------------
+ Given systems characteristic eq =    
+               2   3  
+    1 + 5s + 6s + s   
+ a  =
+    1.    5.    6.  
+ Desired characteristic eq =    
+                   2   3  
+    200 + 60s + 14s + s   
+ alpha  =
+    200.    60.    14.  
+ T  =
+    1.    0.    0.  
+    0.    1.    0.  
+    0.    0.    1.  
+ K  =
+    199.    55.    8.  
+  controllability matrix =    
+    0.    0.    1.   
+    0.    1.  - 6.   
+    1.  - 6.    31.  
+ phi(A) =   
+    199.    55.     8.    
+  - 8.      159.    7.    
+  - 7.    - 43.     117.  
+ using ackermanns formula K =    
+    199.    55.    8.  
+************************************
+************************************
+2018-03-09 15:40:55.793759
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.10) Design of quadratic optimal regulator system
+------------------------------------
+Output
+------------------------------------
+Warning :
+matrix is close to singular or badly scaled. rcond =    0.0000D+00
+computing least squares solution. (see lsq).
+ P  =
+    0.4142136    0.  
+  - 0.7071068    0.  
+ K  =
+    0.4142136    0.  
+ E  =
+  - 1.4142136  
+    2.         
+************************************
+************************************
+2018-03-09 15:41:02.493017
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.12) Design of quadratic optimal regulator system and finding the response
+------------------------------------
+Output
+------------------------------------
+ P  =
+    4.2625328    2.4956591    0.0142828  
+    2.4956591    2.8150267    0.1107233  
+    0.0142828    0.1107233    0.0676042  
+ K  =
+    0.0142828    0.1107233    0.0676042  
+ E  =
+  - 1.9859019 + 1.7109639i  
+  - 1.9859019 - 1.7109639i  
+  - 5.0958004               
+************************************
+************************************
+2018-03-09 15:41:09.722080
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.13) Design of quadratic optimal regulator system and finding the response
+------------------------------------
+Output
+------------------------------------
+ K =    
+   100.    53.119975    11.671058  
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing data matrix Y to get compatible dimensions
+************************************
+************************************
+2018-03-09 15:41:20.590644
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.8) Designing a controller using a minimum order observer
+------------------------------------
+Output
+------------------------------------
+ K  =
+    90.    29.    4.  
+ Aaa  =
+    0.  
+ Aab  =
+    1.    0.  
+ Aba  =
+    0.  
+  - 6.  
+ Abb  =
+    0.     1.  
+  - 11.  - 6.  
+ Ke  =
+    14.  
+    5.   
+ Ba  =
+    0.  
+ Bb  =
+    0.  
+    1.  
+ Ahat = Abb - Ke*Aab =   
+  - 14.    1.  
+  - 16.  - 6.  
+ Aba - Ke*Aaa =   
+    0.  
+  - 6.  
+ Chat  =
+    0.    0.  
+    1.    0.  
+    0.    1.  
+ Dhat  =
+    1.   
+    14.  
+    5.   
+ Fhat = Bb - Ke*Ba =   
+    0.  
+    1.  
+************************************
+************************************
+2018-03-09 15:41:27.213688
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.8) Designing a controller using a minimum order observer
+------------------------------------
+Output
+------------------------------------
+ K  =
+    90.    29.    4.  
+ Aaa  =
+    0.  
+ Aab  =
+    1.    0.  
+ Aba  =
+    0.  
+  - 6.  
+ Abb  =
+    0.     1.  
+  - 11.  - 6.  
+ Ke  =
+    14.  
+    5.   
+ Ba  =
+    0.  
+ Bb  =
+    0.  
+    1.  
+ Ahat = Abb - Ke*Aab =   
+  - 14.    1.  
+  - 16.  - 6.  
+ Aba - Ke*Aaa =   
+    0.  
+  - 6.  
+ Chat  =
+    0.    0.  
+    1.    0.  
+    0.    1.  
+ Dhat  =
+    1.   
+    14.  
+    5.   
+ Fhat = Bb - Ke*Ba =   
+    0.  
+    1.  
+************************************
+************************************
+2018-03-09 15:41:35.042643
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.a.13) Designing a regulator using a minimum order observer
+------------------------------------
+Output
+------------------------------------
+ P  =
+  - 2. + 3.4641016i  - 2. - 3.4641016i  - 10.  - 10.  
+ Q  =
+  - 15.  - 16.  
+ K  =
+    130.44444  - 41.555556    23.1    15.418519  
+ Ke  =
+    14.4    0.6   
+    0.      15.7  
+ AA  =
+    0.           0.           1.      0.           0.      0.         
+    0.           0.           0.      1.           0.      0.         
+  - 166.44444    77.555556  - 23.7  - 14.818519    23.1    15.418519  
+    18.        - 18.          0.3   - 0.3          0.      0.         
+    0.           0.           0.      0.         - 15.     0.         
+    0.           0.           0.      0.           0.3   - 16.        
+************************************
+************************************
+2018-03-09 15:41:44.685469
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.a.13) Designing a regulator using a minimum order observer
+------------------------------------
+Output
+------------------------------------
+ P  =
+  - 2. + 3.4641016i  - 2. - 3.4641016i  - 10.  - 10.  
+ Q  =
+  - 15.  - 16.  
+ K  =
+    130.44444  - 41.555556    23.1    15.418519  
+ Ke  =
+    14.4    0.6   
+    0.      15.7  
+ AA  =
+    0.           0.           1.      0.           0.      0.         
+    0.           0.           0.      1.           0.      0.         
+  - 166.44444    77.555556  - 23.7  - 14.818519    23.1    15.418519  
+    18.        - 18.          0.3   - 0.3          0.      0.         
+    0.           0.           0.      0.         - 15.     0.         
+    0.           0.           0.      0.           0.3   - 16.        
+************************************
+************************************
+2018-03-09 15:41:53.962827
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.a.17) Design of quadratic optimal regulator system and finding the response
+------------------------------------
+Output
+------------------------------------
+ Ahat  =
+    0.        1.    0.    0.    0.  
+    20.601    0.    0.    0.    0.  
+    0.        0.    0.    1.    0.  
+  - 0.4905    0.    0.    0.    0.  
+    0.        0.  - 1.    0.    0.  
+ Bhat  =
+    0.   
+  - 1.   
+    0.   
+    0.5  
+    0.   
+ Q  =
+    100.    0.    0.    0.    0.  
+    0.      1.    0.    0.    0.  
+    0.      0.    1.    0.    0.  
+    0.      0.    0.    1.    0.  
+    0.      0.    0.    0.    1.  
+ R  =
+    0.01  
+ K  =
+  - 188.07994  - 37.07381  - 26.676713  - 30.582352   10.  
+ AA  =
+    0.           1.           0.           0.           0.  
+  - 167.47894  - 37.07381   - 26.676713  - 30.582352   10.  
+    0.           0.           0.           1.           0.  
+    93.549469    18.536905    13.338357    15.291176  - 5.  
+    0.           0.         - 1.           0.           0.  
+************************************
+************************************
+2018-03-09 15:42:00.815117
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.a.6) Gain matrix determination
+------------------------------------
+Output
+------------------------------------
+ K =   
+    15.4    4.5    0.8  
+************************************
+************************************
+2018-03-09 15:42:08.038137
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Design in State Space
+Example: (10.a.9) Transforming to canonical form
+------------------------------------
+Output
+------------------------------------
+ ch  =
+              2  
+    1 + 2s + s   
+ a  =
+    1.    2.  
+ N  =
+    1.  - 3.  
+    1.  - 2.  
+ W  =
+    2.    1.  
+    1.    0.  
+ Qi  =
+  - 1.    0.  
+    1.    1.  
+ Q  =
+  - 1.    0.  
+    1.    1.  
+ A1  =
+    0.  - 1.  
+    1.  - 2.  
+ B1  =
+    0.  
+    2.  
+************************************
+************************************
+2018-03-09 22:53:29.574315
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.2) Steady state sinusoidal output lag and lead
+------------------------------------
+Output
+------------------------------------
+-->// Plot System Response
+-->// Computes the response and plots the input and response together
+-->function y = plotresp(u,t,G,text)
+-->  y = csim(u,t,G);
+-->  plot(t,u,t,y);
+-->  xtitle(text,'t (sec)','Input and Output');
+-->  xgrid(color('gray'));
+-->  legend('input','output');
+-->endfunction
+************************************
+************************************
+2018-03-09 22:53:39.072216
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.2) Steady state sinusoidal output lag and lead
+------------------------------------
+Output
+------------------------------------
+-->// Plot System Response
+-->// Computes the response and plots the input and response together
+-->function y = plotresp(u,t,G,text)
+-->  y = csim(u,t,G);
+-->  plot(t,u,t,y);
+-->  xtitle(text,'t (sec)','Input and Output');
+-->  xgrid(color('gray'));
+-->  legend('input','output');
+-->endfunction
+************************************
+************************************
+2018-03-09 22:54:17.419224
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.26.2) Evaluating Lead compensated system
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 22:54:25.637886
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.26.2) Evaluating Lead compensated system
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 22:55:33.298265
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.19) Nyquist plot stability check
+------------------------------------
+Output
+------------------------------------
+ routh table =   
+    1.    0.  
+    1.    1.  
+  - 1.    0.  
+    1.    0.  
+************************************
+************************************
+2018-03-09 22:56:19.050948
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.26.2) Evaluating Lead compensated system
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 22:57:31.969407
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ K  =
+    5.  
+ Phase margin (degrees)=    
+  - 12.997208  
+ Gain crossover frequency =    
+    1.8022033  
+ Gain margin (dB) =    
+  - 4.436975  
+ Phase crossover frequency =    
+    1.4142136  
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+ beta  =
+    10.  
+ z  =
+    0.1  
+ p  =
+    0.01  
+ Kc  =
+    0.5  
+ Gc =    
+    0.05 + 0.5s   
+    -----------   
+     0.01 + s     
+ Phase margin (degrees)=    
+    41.611788  
+ Gain crossover frequency =    
+    0.4544059  
+ Gain margin (dB) =    
+    14.299613  
+ Phase crossover frequency =    
+    1.3153539  
+************************************
+************************************
+2018-03-09 22:57:50.776038
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ K  =
+    5.  
+ Phase margin (degrees)=    
+  - 12.997208  
+ Gain crossover frequency =    
+    1.8022033  
+ Gain margin (dB) =    
+  - 4.436975  
+ Phase crossover frequency =    
+    1.4142136  
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+ beta  =
+    10.  
+ z  =
+    0.1  
+ p  =
+    0.01  
+ Kc  =
+    0.5  
+ Gc =    
+    0.05 + 0.5s   
+    -----------   
+     0.01 + s     
+ Phase margin (degrees)=    
+    41.611788  
+ Gain crossover frequency =    
+    0.4544059  
+ Gain margin (dB) =    
+    14.299613  
+ Phase crossover frequency =    
+    1.3153539  
+************************************
+************************************
+2018-03-09 23:00:24.055182
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-09 23:01:32.450820
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    5.  
+************************************
+************************************
+2018-03-09 23:01:38.036545
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    5.  
+************************************
+************************************
+2018-03-09 23:03:58.751243
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    5.  
+************************************
+************************************
+2018-03-09 23:05:04.265060
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    5.  
+************************************
+************************************
+2018-03-09 23:12:24.089672
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    5.  
+************************************
+************************************
+2018-03-09 23:19:37.988546
+------------------------------------
+Book: Modern Control Engineering [Author: K. Ogata]
+Chapter: Control Systems Analysis and Design by Frequency Response Method
+Example: (7.27.1) Design of Lag compensator with Bode plots
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    5.  
+************************************
+************************************
+2018-03-09 23:50:11.490931
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.13) Implementation of trial and error procedure to determine ARMA process
+------------------------------------
+Output
+------------------------------------
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1e-03,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 23:50:36.434536
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 23:50:59.518182
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.5) Demonstrate the order of MA
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 23:51:18.960310
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.8) Estimation with a larger order model results in large uncertainty
+------------------------------------
+Output
+------------------------------------
+ M1  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.9005112x + 0.1773142x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9956303 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.9005112x + 0.1773142x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9956303 |
+ M2  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2            3  
+    1 - 0.8991352x + 0.1765126x + 0.0363430x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9957117 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2            3  
+    1 - 0.8991352x + 0.1765126x + 0.0363430x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9957117 |
+************************************
+************************************
+2018-03-09 23:51:47.411902
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.9) Determination of order of AR process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+************************************
+************************************
+2018-03-09 23:52:11.126555
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.8) Estimation with a larger order model results in large uncertainty
+------------------------------------
+Output
+------------------------------------
+ M1  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.8990683x + 0.1626966x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 1.0065816 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.8990683x + 0.1626966x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 1.0065816 |
+ M2  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2            3  
+    1 - 0.8988203x + 0.1594731x + 0.0297366x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 1.0059082 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2            3  
+    1 - 0.8988203x + 0.1594731x + 0.0297366x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 1.0059082 |
+************************************
+************************************
+2018-03-09 23:52:32.469732
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.13) Implementation of trial and error procedure to determine ARMA process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+Warning : redefining function: pacf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1e-03,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 23:52:43.777862
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.13) Implementation of trial and error procedure to determine ARMA process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(v,1e-03,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-03-09 23:53:26.495714
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-03-09 23:53:47.340066
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.8) Estimation with a larger order model results in large uncertainty
+------------------------------------
+Output
+------------------------------------
+ M1  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.9178501x + 0.2182817x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9933079 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.9178501x + 0.2182817x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9933079 |
+ M2  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2            3  
+    1 - 0.9192316x + 0.2241377x - 0.0067457x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9933293 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2            3  
+    1 - 0.9192316x + 0.2241377x - 0.0067457x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.9933293 |
+************************************
+************************************
+2018-03-09 23:54:22.128883
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.9) Determination of order of AR process
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+************************************

@@ -1,0 +1,125 @@
+************************************
+2017-12-06 16:56:27.637192
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.15) resistivity of intrinsic silicon
+------------------------------------
+Output
+------------------------------------
+ sigma  =
+    0.0000045  
+ sigma=   
+    0.0000045  
+ (ohm-cm)^-1   
+ rho=   
+    224690.83  
+ ohm-cm   
+ ND=   
+    9.920D+14  
+ /cm^3   
+ p=   
+    232903.23  
+ /cm**3   
+ sigma=   
+    0.214272  
+ (ohm-cm)^-1   
+ rho=   
+    4.6669654  
+ ohm-cm   
+************************************
+************************************
+2017-12-06 16:56:34.832703
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.9) donor concentration
+------------------------------------
+Output
+------------------------------------
+ sigma=   
+    0.01  
+ (ohm-m)^-1   
+ ND=   
+    1.736D+17  
+ atoms/m^3   
+************************************
+************************************
+2017-12-06 16:56:39.997517
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.8) conductivity
+------------------------------------
+Output
+------------------------------------
+ ND1=   
+    5.000D+20  
+ /m^3   
+ SIGMA=   
+    14.4  
+ ohm-m^-1   
+************************************
+************************************
+2017-12-06 16:56:48.362521
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.12) length
+------------------------------------
+Output
+------------------------------------
+ sigma=   
+    1.6  
+ S/m   
+ l=   
+    1.2566371  
+ mm   
+************************************
+************************************
+2017-12-06 16:56:53.913791
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.2) charge density of free electrons     current density     current flowing in the wire and electron drift velocity
+------------------------------------
+Output
+------------------------------------
+ n=   
+    1.133D+29  
+ /m^3   
+ J=   
+    1160000.  
+ A/m^2   
+ A=   
+    0.0000031  
+ m^2   
+ I=   
+    3.6442475  
+ A   
+ V=   
+    0.000064  
+ m/s   
+************************************
+************************************
+2017-12-06 16:56:58.669676
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.7) intrinsic carrier concentration
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2017-12-06 16:57:03.274864
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.9) donor concentration
+------------------------------------
+Output
+------------------------------------
+
+************************************

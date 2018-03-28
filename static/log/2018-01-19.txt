@@ -1,0 +1,211 @@
+************************************
+2018-01-19 10:57:08.645125
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-19 15:18:11.421887
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-19 15:18:37.216154
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-19 17:02:36.110279
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-19 17:16:16.760850
+------------------------------------
+Book: Water and Wastewater Engineering [Author: G. M. Fair, J. C. Geyer and D. A. Okun]
+Chapter: Water system
+Example: (2.1) Example 1
+------------------------------------
+Output
+------------------------------------
+ w  =
+    3000.  
+ w1  =
+    2000.  
+ w2  =
+    1000.  
+ r  =
+    15.  
+ a  =
+    12.  
+ h  =
+    7.5  
+ G  =
+    28125.  
+ g  =
+    18750.  
+ g1  =
+    9375.  
+the normally be stored to tide the supply over dry spells= 28125.000000 gal 
+************************************
+************************************
+2018-01-19 17:22:50.359052
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-19 17:23:35.214442
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-01-19 17:23:42.129497
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-01-19 17:24:51.257038
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************

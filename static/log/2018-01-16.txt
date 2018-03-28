@@ -1,0 +1,493 @@
+************************************
+2018-01-16 10:41:51.809807
+------------------------------------
+Book: A Text Book of Physical Chemistry [Author: K. l. Kapoor]
+Chapter: Equilibrium between  phases
+Example: (1.5.1) Ex 1
+------------------------------------
+Output
+------------------------------------
+ rho1  =
+    14.19  
+ rho2  =
+    13.7  
+ V  =
+    200.59  
+ delV  =
+    0.0005056  
+ delTdelP  =
+    0.0051  
+ R1  =
+    8.314  
+ R2  =
+    0.082  
+delH = 2.357 (KJ)/mol 
+ T2  =
+    273.  
+delP = 7549 atm  
+************************************
+************************************
+2018-01-16 10:54:20.278366
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Introduction To Data Structures
+Example: (1.1) To  calcualte Average And Deviation
+------------------------------------
+Output
+------------------------------------
+ a  =
+    3.    223.    212.    343.  
+ Average =   
+    195.25  
+ The deviations are:   
+  - 192.25  
+    27.75  
+    16.75  
+    147.75  
+ avg  =
+    195.25  
+************************************
+************************************
+2018-01-16 13:02:04.915481
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.11) minority electron and hole density
+------------------------------------
+Output
+------------------------------------
+ n=   
+    3750.  
+ p=   
+    4.500D+11  
+************************************
+************************************
+2018-01-16 13:03:00.643414
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.11) minority electron and hole density
+------------------------------------
+Output
+------------------------------------
+ n=   
+    3750.  
+ p=   
+    4.500D+11  
+************************************
+************************************
+2018-01-16 15:21:43.201909
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************
+************************************
+2018-01-16 15:28:18.612691
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************
+************************************
+2018-01-16 15:32:38.526010
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Introduction To Data Structures
+Example: (1.1) To  calcualte Average And Deviation
+------------------------------------
+Output
+------------------------------------
+ a  =
+    3.    223.    212.    343.  
+ Average =   
+    195.25  
+ The deviations are:   
+  - 192.25  
+    27.75  
+    16.75  
+    147.75  
+ avg  =
+    195.25  
+************************************
+************************************
+2018-01-16 15:32:48.156335
+------------------------------------
+Book: Data Structures Using C And C++ [Author: Y. Langsam, M. Augenstein And A. M. Tenenbaum]
+Chapter: Introduction To Data Structures
+Example: (1.1.4) Decimal form of given no represented variably
+------------------------------------
+Output
+------------------------------------
+ p2  =
+    153.  
+ Decimal form of the Twos Complement Number   
+    1.    0.    0.    1.    1.    0.    0.    1.  
+  is   
+  - 103.  
+ p2  =
+  - 103.  
+ Decimal form of  BCD number   
+    1.    0.    0.    1.    1.    0.    0.    1.  
+ is   
+    99.  
+ p2  =
+    99.  
+ p4  =
+    9.  
+ Decimal form of the Twos Complement Number   
+    1.    0.    0.    1.  
+  is   
+  - 7.  
+ p4  =
+  - 7.  
+ Decimal form of  BCD number   
+    1.    0.    0.    1.  
+ is   
+    9.  
+ p4  =
+    9.  
+ p6  =
+    273.  
+ Decimal form of the Twos Complement Number   
+    0.    0.    0.    1.    0.    0.    0.    1.    0.    0.    0.    1.  
+  is   
+    273.  
+ p6  =
+    273.  
+ Decimal form of  BCD number   
+    0.    0.    0.    1.    0.    0.    0.    1.    0.    0.    0.    1.  
+ is   
+    111.  
+ p6  =
+    111.  
+ p8  =
+    119.  
+ Decimal form of the Twos Complement Number   
+    0.    1.    1.    1.    0.    1.    1.    1.  
+  is   
+    119.  
+ p8  =
+    119.  
+ Decimal form of  BCD number   
+    0.    1.    1.    1.    0.    1.    1.    1.  
+ is   
+    77.  
+ p8  =
+    77.  
+ p10  =
+    85.  
+ Decimal form of the Twos Complement Number   
+    0.    1.    0.    1.    0.    1.    0.    1.  
+  is   
+    85.  
+ p10  =
+    85.  
+ Decimal form of  BCD number   
+    0.    1.    0.    1.    0.    1.    0.    1.  
+ is   
+    55.  
+ p10  =
+    55.  
+ p12  =
+    2069.  
+ Decimal form of the Twos Complement Number   
+    1.    0.    0.    0.    0.    0.    0.    1.    0.    1.    0.    1.  
+  is   
+  - 2027.  
+ p12  =
+  - 2027.  
+ Decimal form of  BCD number   
+    1.    0.    0.    0.    0.    0.    0.    1.    0.    1.    0.    1.  
+ is   
+    815.  
+ p12  =
+    815.  
+************************************
+************************************
+2018-01-16 15:36:48.897060
+------------------------------------
+Book: Fundamentals Of Data Structure In C [Author: S. Sahni , S. Anderson-freed And E. Horowitz]
+Chapter: Basic concepts
+Example: (1.3) example
+------------------------------------
+Output
+------------------------------------
+ a  =
+    5.    7.    45.    28.    99.  
+ x  =
+    45.  
+FOUND and index no. is=3	 
+************************************
+************************************
+2018-01-16 15:36:55.698362
+------------------------------------
+Book: Fundamentals Of Data Structure In C [Author: S. Sahni , S. Anderson-freed And E. Horowitz]
+Chapter: Basic concepts
+Example: (1.6) example
+------------------------------------
+Output
+------------------------------------
+ a  =
+    1.  
+ b  =
+    2.  
+ c  =
+    3.  
+    16.  
+************************************
+************************************
+2018-01-16 15:37:05.300877
+------------------------------------
+Book: Fundamentals Of Data Structure In C [Author: S. Sahni , S. Anderson-freed And E. Horowitz]
+Chapter: Stacks and Queues
+Example: (1.2.b) example
+------------------------------------
+Output
+------------------------------------
+ example 3.7   
+   a: "("
+   top: 1
+   a: "("
+   top: 0
+ Invalid String   
+   a: "{"
+   top: 1
+   a: ["{","["]
+   top: 2
+   a: "{"
+   top: 1
+   a: ["{","["]
+   top: 2
+   a: ["{","[","("]
+   top: 3
+   a: ["{","["]
+   top: 2
+   a: "{"
+   top: 1
+ Invalid String   
+   a: "("
+   top: 1
+   a: "("
+   top: 0
+   a: "{"
+   top: 1
+   a: "{"
+   top: 0
+   a: "["
+   top: 1
+   a: "["
+   top: 0
+ Valid String   
+   a: "("
+   top: 1
+   a: ["(","("]
+   top: 2
+   a: "("
+   top: 1
+   a: ["(","{"]
+   top: 2
+   a: ["(","{","("]
+   top: 3
+   a: ["(","{","(","["]
+   top: 4
+   a: ["(","{","("]
+   top: 3
+   a: ["(","{"]
+   top: 2
+   a: "("
+   top: 1
+   a: "("
+   top: 0
+ Valid String   
+   a: "("
+   top: 1
+   a: ["(","("]
+   top: 2
+   a: ["(","(","("]
+   top: 3
+   a: ["(","("]
+   top: 2
+   a: "("
+   top: 1
+   a: "("
+   top: 0
+ Valid String   
+************************************
+************************************
+2018-01-16 15:37:41.084075
+------------------------------------
+Book: Programming In Ansi C [Author: E. Balagurusamy]
+Chapter: Constants Variables and Data Types
+Example: (2.1) Representation of integer constants on a 16 bit computer
+------------------------------------
+Output
+------------------------------------
+ Integer values   
+32767 -32768 -32759 
+ Long integer values   
+32767 32768 32777 
+************************************
+************************************
+2018-01-16 15:37:50.669455
+------------------------------------
+Book: Programming In Ansi C [Author: E. Balagurusamy]
+Chapter: Constants Variables and Data Types
+Example: (2.2) typical declarations assignments and values stored in various types of variables
+------------------------------------
+Output
+------------------------------------
+ m=-11215
+ n=1234567890
+ x=1.234567890000
+ x=1.234568
+ y=9.876543210000
+ y=9.876543
+ k=54321 p=1.000000 q=1.000000000000
+************************************
+************************************
+2018-01-16 15:37:59.276638
+------------------------------------
+Book: Programming In Ansi C [Author: E. Balagurusamy]
+Chapter: Decision Making and Looping
+Example: (6.2) Multiplication table
+------------------------------------
+Output
+------------------------------------
+            MULTIPLICATION TABLE               
+ -------------------------------------------   
+   1   2   3   4   5   6   7   8   9  10
+   2   4   6   8  10  12  14  16  18  20
+   3   6   9  12  15  18  21  24  27  30
+   4   8  12  16  20  24  28  32  36  40
+   5  10  15  20  25  30  35  40  45  50
+   6  12  18  24  30  36  42  48  54  60
+   7  14  21  28  35  42  49  56  63  70
+   8  16  24  32  40  48  56  64  72  80
+   9  18  27  36  45  54  63  72  81  90
+  10  20  30  40  50  60  70  80  90 100
+  11  22  33  44  55  66  77  88  99 110
+  12  24  36  48  60  72  84  96 108 120
+************************************
+************************************
+2018-01-16 15:38:16.729562
+------------------------------------
+Book: Fundamentals Of Data Structure In C [Author: S. Sahni , S. Anderson-freed And E. Horowitz]
+Chapter: Stacks and Queues
+Example: (1.3.a) example
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-16 15:38:19.724816
+------------------------------------
+Book: Fundamentals Of Data Structure In C [Author: S. Sahni , S. Anderson-freed And E. Horowitz]
+Chapter: Stacks and Queues
+Example: (1.3.a) example
+------------------------------------
+Output
+------------------------------------
+ Unsolved example 3   
+ st  =
+!A  A  B  A  C  A  B  A  A  !
+ String Of the Given Format   
+ st  =
+!A  A  B  A  C  A  B  A  !
+ Not of the given format   
+************************************
+************************************
+2018-01-16 15:59:09.510325
+------------------------------------
+Book: Programming In Ansi C [Author: E. Balagurusamy]
+Chapter: Constants Variables and Data Types
+Example: (2.1) Representation of integer constants on a 16 bit computer
+------------------------------------
+Output
+------------------------------------
+ Integer values   
+32767 -32768 -32759 
+ Long integer values   
+32767 32768 32777 
+************************************
+************************************
+2018-01-16 16:01:13.165737
+------------------------------------
+Book: A First Course on Electrical Drives [Author: S. K. Pillai]
+Chapter: Characteristics of AC motor
+Example: (4.1) Roots of the equation
+------------------------------------
+Output
+------------------------------------
+ p1  =
+              2  
+    1 - 3x + x   
+ Part a   
+ roots of the equation when slip at max torque   
+ x  =
+    2.618034   
+    0.3819660  
+    2.618034   
+    0.3819660  
+ p2  =
+                      2  
+    0.146 - 1.719x + x   
+ y  =
+    1.6293963  
+    0.0896037  
+ Part b   
+ roots of the equation when slip at max load   
+    1.6293963  
+    0.0896037  
+************************************
+************************************
+2018-01-16 16:53:46.919275
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************
+************************************
+2018-01-16 17:49:29.203985
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************

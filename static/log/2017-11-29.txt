@@ -1,0 +1,35 @@
+************************************
+2017-11-29 17:25:15.831541
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-29 17:25:38.701497
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2017-11-29 17:25:43.981498
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************

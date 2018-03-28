@@ -1,0 +1,1348 @@
+************************************
+2018-01-24 11:12:37.934173
+------------------------------------
+Book: College Physics [Author: Paul Peter Urone, Roger Hinrichs, Kim Dirks, Manjula Sharma]
+Chapter: Introduction The Nature of Science and Physics
+Example: (1.1) Unit Conversions A Short Drive Home
+------------------------------------
+Output
+------------------------------------
+a. Average speed = 30.0 km/h 
+b. Average speed = 8.33 m/s 
+************************************
+************************************
+2018-01-24 11:15:56.411722
+------------------------------------
+Book: College Physics [Author: Paul Peter Urone, Roger Hinrichs, Kim Dirks, Manjula Sharma]
+Chapter: Introduction The Nature of Science and Physics
+Example: (1.2) Calculating Percent Uncertainty A Bag of Apples
+------------------------------------
+Output
+------------------------------------
+Percent uncertainty of the weight = 8.0% 
+************************************
+************************************
+2018-01-24 11:23:57.203493
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:24:53.095836
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3data.sci");
+                    !--error 241 
+File "1_3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:24:54.232893
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3data.sci");
+                    !--error 241 
+File "1_3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:24:54.465399
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3data.sci");
+                    !--error 241 
+File "1_3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:25:12.907059
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:25:15.364978
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:26:10.924382
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:26:11.802935
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:26:12.017784
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:26:13.504929
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:26:47.396274
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:28:01.731262
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:28:02.528665
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:28:03.085054
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:28:03.688267
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:36:08.103937
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:48:56.482349
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:49:08.513785
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:53:15.562455
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:55:52.636034
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:55:54.021307
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:55:54.648068
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:55:55.255756
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:56:20.228766
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:56:21.396414
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 11:57:20.718699
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:01:16.027005
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:03:21.936853
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:03:43.949034
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:05:35.634148
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:06:16.593832
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:06:48.274432
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:07:15.220435
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:12:35.375794
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:12:46.162330
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:12:55.205645
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:13:28.492936
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:16:54.873262
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:17:17.152305
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       8 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:18:13.863197
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:19:12.834872
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:20:33.131004
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:21:15.077566
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:23:25.947533
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec ("1_3.sci");
+                 !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:23:45.613566
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec ("1_3.sci");
+                 !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:24:06.641530
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec ("1_3.sci");
+                 !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:25:07.612849
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:25:37.398337
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec ("1_3.sci");
+                 !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:25:54.269088
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:27:20.910107
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:28:02.685482
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:29:50.981830
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       8 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:30:10.355865
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:30:15.689573
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:30:19.975954
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:32:12.045152
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec( '1_3.sci' );
+                  !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:32:22.845055
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec('1_3.sci');
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:33:11.906032
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec('1_3.sci');
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:33:39.414147
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       5 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:36:10.716978
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 12:36:34.296480
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+ V =   
+    100.1124  
+ dm^3   
+************************************
+************************************
+2018-01-24 14:32:17.434935
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+ V =   
+    100.1124  
+ dm^3   
+************************************
+************************************
+2018-01-24 14:56:21.174690
+------------------------------------
+Book: Introduction To Chemical Engineering [Author: S. K. Ghoshal, S. K. Sanyal And S. Datta]
+Chapter: Introduction
+Example: (1.1) Air composition
+------------------------------------
+Output
+------------------------------------
+example 1.1 page number 19
+ y_oxygen  =
+    0.21  
+ y_nitrogen  =
+    0.79  
+ molar_mass_oxygen  =
+    32.  
+ molar_mass_nitrogen  =
+    28.  
+mass fraction of oxygen = 0.233010 
+mass fraction of nitrogen = 0.766990 
+ V1  =
+    22.4  
+ P1  =
+    760.  
+ P2  =
+    735.56  
+ T1  =
+    273.  
+ T2  =
+    298.  
+density = 1.141558 gm/l 
+************************************
+************************************
+2018-01-24 15:38:47.937519
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+exec("2_1.sci");
+                !--error 241 
+File "2_1.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 15:43:20.742969
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+exec("2_1.sci");
+                !--error 241 
+File "2_1.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 19:52:40.299951
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+ CA0 =   
+    0.1444235  
+ mol/dm^3   
+ FA0 =   
+    0.8665411  
+ mol/s   
+************************************
+************************************
+2018-01-24 19:53:25.901927
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+ CA0 =   
+    0.1444235  
+ mol/dm^3   
+ FA0 =   
+    0.8665411  
+ mol/s   
+************************************
+************************************
+2018-01-24 19:53:26.944560
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+ CA0 =   
+    0.1444235  
+ mol/dm^3   
+ FA0 =   
+    0.8665411  
+ mol/s   
+************************************
+************************************
+2018-01-24 19:53:27.697753
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+ CA0 =   
+    0.1444235  
+ mol/dm^3   
+ FA0 =   
+    0.8665411  
+ mol/s   
+************************************
+************************************
+2018-01-24 20:27:40.498063
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Quadratic Gaussian Control
+Example: (13.10) Performance curve for GMVC design of first control problem by MacGregor
+------------------------------------
+Output
+------------------------------------
+exec("gmv.sci",-1);
+                   !--error 241 
+File "gmv.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:29:04.314862
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.1) Calculate Concentration
+------------------------------------
+Output
+------------------------------------
+ CA0 =   
+    0.1444235  
+ mol/dm^3   
+ FA0 =   
+    0.8665411  
+ mol/s   
+************************************
+************************************
+2018-01-24 20:30:33.419138
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.2) Sizing a CSTR
+------------------------------------
+Output
+------------------------------------
+ V  =
+    554.58631  
+ FA0 =   
+    0.8665411  
+ mol/s   
+ V =   
+    554.58631  
+ dm^3   
+************************************
+************************************
+2018-01-24 20:31:00.229223
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Conversion and Reactor Sizing
+Example: (2.2) Sizing a CSTR
+------------------------------------
+Output
+------------------------------------
+ V  =
+    554.58631  
+ FA0 =   
+    0.8665411  
+ mol/s   
+ V =   
+    554.58631  
+ dm^3   
+************************************
+************************************
+2018-01-24 20:33:41.457656
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+ V =   
+    100.1124  
+ dm^3   
+************************************
+************************************
+2018-01-24 20:34:13.764378
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+V = (v0/k)*log(1/0.1);
+       !--error 4 
+Undefined variable: v0
+at line      12 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:34:18.600814
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+ V =   
+    100.1124  
+ dm^3   
+************************************
+************************************
+2018-01-24 20:37:10.332512
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:44:59.467269
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:45:28.445216
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:45:37.952573
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:48:38.039146
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:51:42.829400
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:52:06.788681
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:54:45.761545
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1_3.sci");
+                !--error 241 
+File "1_3.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:55:40.502916
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:57:06.614317
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************
+************************************
+2018-01-24 20:58:30.082169
+------------------------------------
+Book: Elements Of Chemical Reaction Engineering [Author: H. S. Fogler]
+Chapter: Mole Balances
+Example: (1.3) Find V
+------------------------------------
+Output
+------------------------------------
+exec("1.3data.sci");
+                    !--error 241 
+File "1.3data.sci" does not exist.
+at line       9 of exec file called by :    
+G506Gagba0sQApsVdpe7jbhvT1wxYa.sci", 2)
+************************************

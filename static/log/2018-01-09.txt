@@ -1,0 +1,303 @@
+************************************
+2018-01-09 15:16:19.668993
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.18) electron mobility
+------------------------------------
+Output
+------------------------------------
+ mu=   
+    1000.  
+ cm^2/volt-sec   
+************************************
+************************************
+2018-01-09 15:18:31.799045
+------------------------------------
+Book: Applied Chemistry [Author: T. Paradkar]
+Chapter: Water
+Example: (1.10) hardness calculation by EDTA method
+------------------------------------
+Output
+------------------------------------
+ conc_SH  =
+    0.00028  
+ strength_SH  =
+    0.28  
+ volume_SH  =
+    100.  
+ volume_H  =
+    100.  
+ EDTA_SH  =
+    28.  
+ EDTA_H  =
+    33.  
+ AB_EDTA  =
+    10.  
+ CaCO3_equivalent_SH  =
+    28.  
+ one_ml_EDTA  =
+    1.  
+ To_sample  =
+    0.33  
+ To  =
+    330.  
+ P_sample  =
+    0.1  
+ P  =
+    100.  
+ T  =
+    230.  
+Total Hardness is 330 ppm 
+Permanent Hardness is 100 ppm 
+Temporary Hardness is 230 ppm 
+************************************
+************************************
+2018-01-09 15:18:47.453850
+------------------------------------
+Book: Applied Chemistry [Author: T. Paradkar]
+Chapter: Water
+Example: (1.25) calculation of required lime and soda
+------------------------------------
+Output
+------------------------------------
+ Purity_Lime  =
+    0.9  
+ Purity_soda  =
+    0.9  
+ Amount of Lime required is 26035.67 g 
+ Amount of Soda required is 49072 g 
+************************************
+************************************
+2018-01-09 15:18:56.078386
+------------------------------------
+Book: Applied Chemistry [Author: T. Paradkar]
+Chapter: Water
+Example: (1.11) hardness calculation by EDTA method
+------------------------------------
+Output
+------------------------------------
+ conc_SH  =
+    0.001  
+ strength_SH  =
+    1.  
+ volume_SH  =
+    50.  
+ volume_H  =
+    50.  
+ EDTA_SH  =
+    20.  
+ EDTA_H  =
+    25.  
+ AB_EDTA  =
+    18.  
+ CaCO3_equivalent_SH  =
+    50.  
+ one_ml_EDTA  =
+    2.5  
+ To_sample  =
+    1.25  
+ To  =
+    1250.  
+ P_sample  =
+    0.9  
+ P  =
+    900.  
+ T  =
+    350.  
+Total Hardness is 1250 ppm 
+Permanent Hardness is 900 ppm 
+Temporary Hardness is 350 ppm 
+************************************
+************************************
+2018-01-09 15:19:49.534778
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Transfer Functions Block Diagrams and Signal Flow Graphs
+Example: (3.1) closed loop transfer function matrix
+------------------------------------
+Output
+------------------------------------
+ s  =
+    s   
+ G  =
+      1     - 1       
+    -----     -       
+    1 + s     s       
+    2           1     
+    -         -----   
+    1         2 + s   
+ H  =
+    1.    0.  
+    0.    1.  
+ GH  =
+      1     - 1       
+    -----     -       
+    1 + s     s       
+    2           1     
+    -         -----   
+    1         2 + s   
+ G(s)H(s)=   
+      1     - 1       
+    -----     -       
+    1 + s     s       
+    2           1     
+    -         -----   
+    1         2 + s   
+ I  =
+    1.    0.  
+    0.    1.  
+ x  =
+    2 + s   - 1       
+    -----     -       
+    1 + s     s       
+    2         3 + s   
+    -         -----   
+    1         2 + s   
+ y  =
+             2   3                    
+      3s + 4s + s          1 + s      
+    ---------------      ---------    
+                2   3              2  
+    4 + 12s + 7s + s     2 + 5s + s   
+            2                    2    
+   - 2s - 2s               2s + s     
+    ---------            ----------   
+              2                    2  
+    2 + 5s + s           2 + 5s + s   
+ M  =
+                 2                    
+      4 + 9s + 3s        - 1 - s      
+    ---------------      ---------    
+                2   3              2  
+    4 + 12s + 7s + s     2 + 5s + s   
+            2                         
+     2s + 2s               2 + 3s     
+    ---------            ----------   
+              2                    2  
+    2 + 5s + s           2 + 5s + s   
+ M(s)=   
+                 2                    
+      4 + 9s + 3s        - 1 - s      
+    ---------------      ---------    
+                2   3              2  
+    4 + 12s + 7s + s     2 + 5s + s   
+            2                         
+     2s + 2s               2 + 3s     
+    ---------            ----------   
+              2                    2  
+    2 + 5s + s           2 + 5s + s   
+************************************
+************************************
+2018-01-09 15:20:12.093585
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-09 15:23:12.075769
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-09 15:23:55.067245
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2018-01-09 15:39:00.254684
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-09 15:44:18.297833
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-01-09 15:51:37.935499
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************

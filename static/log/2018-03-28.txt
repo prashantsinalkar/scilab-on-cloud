@@ -1,0 +1,183 @@
+************************************
+2018-03-28 07:23:32.625040
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.10) angular acceleration of connecting rod BA
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ Nao  =
+    300.  
+ AO  =
+    0.15  
+ BA  =
+    0.6  
+ wAO  =
+    31.41  
+ Vao  =
+    4.7115  
+ ab  =
+    3.4  
+ Vba  =
+    3.4  
+ ob  =
+    4.  
+ oc  =
+    4.1  
+ fRao  =
+    147.98821  
+ fRba  =
+    19.266667  
+ wBA  =
+    5.6666667  
+ fTba  =
+    103.  
+ alphaBA  =
+    171.66667  
+linear velocity of A with respect to O= 4.712 m/s
+ radial component of acceleration of A with respect to O= 147.988 m/s^2
+ radial component of acceleration of B with respect to A= 19.267 m/s^2
+ angular velocity of connecting rod B= 5.667 rad/s
+ angular acceleration of connecting rod BA= 171.667 rad/s^2 
+************************************
+************************************
+2018-03-28 07:24:00.206886
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-28 09:37:48.324605
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-28 09:45:15.979942
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-03-28 09:48:18.788007
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-03-28 12:14:33.434649
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-03-28 12:15:02.487387
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-03-28 12:43:26.940471
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************

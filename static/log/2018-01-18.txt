@@ -1,0 +1,323 @@
+************************************
+2018-01-18 12:53:41.449055
+------------------------------------
+Book: Basic Fluid Mechanics [Author: Peerless]
+Chapter: Similarity
+Example: (2.1) Force applied
+------------------------------------
+Output
+------------------------------------
+ r  =
+    4.  
+ l1  =
+    4.  
+ l2  =
+    10.  
+ sxy  =
+    1.  
+ sxy1  =
+    16.  
+ sxy2  =
+    100.  
+x^2+4*y^2 = 1  
+ x^2+4*y^2 = 16  
+ x^2+4*y^2 = 100  
+************************************
+************************************
+2018-01-18 15:26:26.862923
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-18 15:26:31.833551
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-01-18 16:31:59.996519
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-18 16:35:57.715068
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-18 17:04:43.577137
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-18 17:04:51.164360
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-01-18 17:04:59.806349
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-01-18 17:16:12.938723
+------------------------------------
+Book: Theory Of Machines [Author: R. S. Khurmi And J. K. Gupta]
+Chapter: Simple Harmonic Motion
+Example: (4.10) To Find the Radius of Gyration
+------------------------------------
+Output
+------------------------------------
+ l  =
+    2.5  
+ r  =
+    0.25  
+ n  =
+    0.2941176  
+ kG  =
+    0.2679807  
+ The Radius of Gyration, kG = 267 mm.
+************************************
+************************************
+2018-01-18 17:17:20.292249
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-18 17:18:01.677690
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-18 17:18:07.032108
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.12) Accelaration of the slider
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-18 17:18:09.835511
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.12) Accelaration of the slider
+------------------------------------
+Output
+------------------------------------
+ PI  =
+    3.141  
+ AB  =
+    12.  
+ BC  =
+    48.  
+ CD  =
+    18.  
+ DE  =
+    36.  
+ EF  =
+    12.  
+ FP  =
+    36.  
+ Nba  =
+    200.  
+ wBA  =
+    20.94  
+ Vba  =
+    2.5128  
+ Vc  =
+    2.428  
+ Vd  =
+    2.36  
+ Ve  =
+    1.  
+ Vf  =
+    1.42  
+ Vcb  =
+    1.3  
+ fBA  =
+    52.618032  
+ fCB  =
+    3.5208333  
+ fcb  =
+    3.52  
+ fC  =
+    19.  
+velocity of c=2.428 m/s
+ velocity of d=2.360 m/s
+ velocity of e=1.000 m/s
+ velocity of f=1.420 m/s
+ Acceleration of slider=19.000000 m/s^2 
+************************************

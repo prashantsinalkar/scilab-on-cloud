@@ -1,0 +1,24 @@
+************************************
+2018-02-17 19:59:51.710650
+------------------------------------
+Book: Numerical Methods For Scientists And Engineers [Author: K. S. Rao]
+Chapter: Basics in Computing
+Example: (1.1) Conversion of Decimal to Binary
+------------------------------------
+Output
+------------------------------------
+ bin_N  =
+ 101111   
+ 101111   
+************************************
+************************************
+2018-02-17 20:58:07.153482
+------------------------------------
+Book: Numerical Methods For Scientific And Engineering Computation [Author: M. K. Jain, S. R. K. Iyengar And R. K. Jain]
+Chapter: TRANSCENDENTAL AND POLINOMIAL EQUATIONS
+Example: (2.1) intervals containing the roots of the equation
+------------------------------------
+Output
+------------------------------------
+
+************************************

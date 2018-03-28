@@ -1,0 +1,776 @@
+************************************
+2018-01-22 10:48:33.248682
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-22 10:48:55.797987
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-22 12:30:48.847408
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-22 12:52:42.728112
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-22 12:52:49.451239
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.12) Accelaration of the slider
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 12:52:59.863895
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: GOVERNORS
+Example: (7.3) RANGE OF SPEED
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 12:53:04.070699
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: GOVERNORS
+Example: (7.3) RANGE OF SPEED
+------------------------------------
+Output
+------------------------------------
+ OA  =
+    0.25  
+ CD  =
+    0.03  
+ m  =
+    6.  
+ M  =
+    48.  
+ AE  =
+    0.17  
+ AE1  =
+    0.12  
+ r1  =
+    0.2  
+ r2  =
+    0.15  
+ h1  =
+    0.15  
+ TANalpha  =
+    1.3333333  
+ TANbeeta  =
+    0.9274260  
+ k  =
+    0.6955695  
+ N1  =
+    215.4861  
+ h2  =
+    0.2  
+ CE  =
+    0.2193171  
+ TANalpha1  =
+    0.75  
+ TANbeeta1  =
+    0.5471529  
+ k  =
+    0.7295372  
+ N2  =
+    188.23846  
+MAX SPEED = 215.486 rpm
+ MIN SPEED = 188.238 rpm
+ RANGE OF SPEED = 27.248 rpm 
+************************************
+************************************
+2018-01-22 14:12:33.114749
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-22 14:12:39.837587
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-01-22 15:03:21.929824
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.12) PACF plot of an MA process decays slowly
+------------------------------------
+Output
+------------------------------------
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      16 of exec file called by :    
+iCud8djOkf1UDNwMDldpAbHlvcO61F.sci", 2)
+************************************
+************************************
+2018-01-22 15:03:25.273830
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.12) PACF plot of an MA process decays slowly
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      16 of exec file called by :    
+iCud8djOkf1UDNwMDldpAbHlvcO61F.sci", 2)
+************************************
+************************************
+2018-01-22 15:09:05.770250
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.12) PACF plot of an MA process decays slowly
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      16 of exec file called by :    
+iCud8djOkf1UDNwMDldpAbHlvcO61F.sci", 2)
+************************************
+************************************
+2018-01-22 15:09:08.905511
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.12) PACF plot of an MA process decays slowly
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v,1,11,1);
+at line      16 of exec file called by :    
+iCud8djOkf1UDNwMDldpAbHlvcO61F.sci", 2)
+************************************
+************************************
+2018-01-22 15:09:21.370027
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Special Cases of Pole Placement Control
+Example: (10.2) Smith predictor for paper machine control
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 15:09:25.841126
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Special Cases of Pole Placement Control
+Example: (10.2) Smith predictor for paper machine control
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: zpowk                   . Use funcprot(0) to avoid this message
+Warning : redefining function: poladd                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+Warning : redefining function: pp_im                   . Use funcprot(0) to avoid this message
+Warning : redefining function: polsplit3               . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: xdync                   . Use funcprot(0) to avoid this message
+Warning : redefining function: rowjoin                 . Use funcprot(0) to avoid this message
+Warning : redefining function: left_prm                . Use funcprot(0) to avoid this message
+Warning : redefining function: t1calc                  . Use funcprot(0) to avoid this message
+Warning : redefining function: indep                   . Use funcprot(0) to avoid this message
+Warning : redefining function: makezero                . Use funcprot(0) to avoid this message
+Warning : redefining function: move_sci                . Use funcprot(0) to avoid this message
+Warning : redefining function: colsplit                . Use funcprot(0) to avoid this message
+Warning : redefining function: clcoef                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cindep                  . Use funcprot(0) to avoid this message
+Warning : redefining function: seshft                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cosfil_ip               . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:09:39.877289
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Special Cases of Pole Placement Control
+Example: (10.2) Smith predictor for paper machine control
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: zpowk                   . Use funcprot(0) to avoid this message
+Warning : redefining function: poladd                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+Warning : redefining function: pp_im                   . Use funcprot(0) to avoid this message
+Warning : redefining function: polsplit3               . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: xdync                   . Use funcprot(0) to avoid this message
+Warning : redefining function: rowjoin                 . Use funcprot(0) to avoid this message
+Warning : redefining function: left_prm                . Use funcprot(0) to avoid this message
+Warning : redefining function: t1calc                  . Use funcprot(0) to avoid this message
+Warning : redefining function: indep                   . Use funcprot(0) to avoid this message
+Warning : redefining function: makezero                . Use funcprot(0) to avoid this message
+Warning : redefining function: move_sci                . Use funcprot(0) to avoid this message
+Warning : redefining function: colsplit                . Use funcprot(0) to avoid this message
+Warning : redefining function: clcoef                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cindep                  . Use funcprot(0) to avoid this message
+Warning : redefining function: seshft                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cosfil_ip               . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:09:46.636881
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Special Cases of Pole Placement Control
+Example: (10.2) Smith predictor for paper machine control
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: zpowk                   . Use funcprot(0) to avoid this message
+Warning : redefining function: poladd                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+Warning : redefining function: pp_im                   . Use funcprot(0) to avoid this message
+Warning : redefining function: polsplit3               . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: xdync                   . Use funcprot(0) to avoid this message
+Warning : redefining function: rowjoin                 . Use funcprot(0) to avoid this message
+Warning : redefining function: left_prm                . Use funcprot(0) to avoid this message
+Warning : redefining function: t1calc                  . Use funcprot(0) to avoid this message
+Warning : redefining function: indep                   . Use funcprot(0) to avoid this message
+Warning : redefining function: makezero                . Use funcprot(0) to avoid this message
+Warning : redefining function: move_sci                . Use funcprot(0) to avoid this message
+Warning : redefining function: colsplit                . Use funcprot(0) to avoid this message
+Warning : redefining function: clcoef                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cindep                  . Use funcprot(0) to avoid this message
+Warning : redefining function: seshft                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cosfil_ip               . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:09:55.769629
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Special Cases of Pole Placement Control
+Example: (10.8) IMC design for an example by Lewin
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: zpowk                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:11:09.449293
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Special Cases of Pole Placement Control
+Example: (10.5)  Flipping a vector
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: flip                    . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:25:35.710344
+------------------------------------
+Book: Process Dynamics And Controls [Author: D. E. Seborg, T. F. Edgar, D. A. Mellichamp And F. J. Doyle III]
+Chapter: Development of Empirical Models from Process Data
+Example: (6.1) Gas turbine generator
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 15:25:37.752856
+------------------------------------
+Book: Process Dynamics And Controls [Author: D. E. Seborg, T. F. Edgar, D. A. Mellichamp And F. J. Doyle III]
+Chapter: Development of Empirical Models from Process Data
+Example: (6.1) Gas turbine generator
+------------------------------------
+Output
+------------------------------------
+ Example 6.1   
+ Linear model 
+ B1_hat=0.078549 
+ B2_hat=1.859324 
+ Quadratic model 
+ B1_hat=0.170687 
+ B2_hat=1.811288 
+ B3_hat=0.004687 
+ Table 6.1   
+       ui        yi        Linear Model      Quadratic Model   
+    1.000000   2.000000    1.937873           1.986662
+    2.300000   4.400000    4.354994           4.361445
+    2.900000   5.400000    5.470589           5.462843
+    4.000000   7.500000    7.515845           7.490837
+    4.900000   9.100000    9.189237           9.158542
+    5.800000   10.800000    10.862628          10.833841
+    6.500000   12.300000    12.164155          12.142101
+    7.700000   14.300000    14.395344          14.395520
+    8.400000   15.800000    15.696870          15.716249
+    9.000000   16.800000    16.812465          16.851959 
+                           S=0.061340            S=0.054040 
+ The errors in Bhats are not calculated because the procedure is not
+ given in the solution of the example 
+************************************
+************************************
+2018-01-22 15:30:31.243230
+------------------------------------
+Book: Process Dynamics And Controls [Author: D. E. Seborg, T. F. Edgar, D. A. Mellichamp And F. J. Doyle III]
+Chapter: Development of Empirical Models from Process Data
+Example: (6.1) Gas turbine generator
+------------------------------------
+Output
+------------------------------------
+ Example 6.1   
+ Linear model 
+ B1_hat=0.078549 
+ B2_hat=1.859324 
+ Quadratic model 
+ B1_hat=0.170687 
+ B2_hat=1.811288 
+ B3_hat=0.004687 
+ Table 6.1   
+       ui        yi        Linear Model      Quadratic Model   
+    1.000000   2.000000    1.937873           1.986662
+    2.300000   4.400000    4.354994           4.361445
+    2.900000   5.400000    5.470589           5.462843
+    4.000000   7.500000    7.515845           7.490837
+    4.900000   9.100000    9.189237           9.158542
+    5.800000   10.800000    10.862628          10.833841
+    6.500000   12.300000    12.164155          12.142101
+    7.700000   14.300000    14.395344          14.395520
+    8.400000   15.800000    15.696870          15.716249
+    9.000000   16.800000    16.812465          16.851959 
+                           S=0.061340            S=0.054040 
+ The errors in Bhats are not calculated because the procedure is not
+ given in the solution of the example 
+************************************
+************************************
+2018-01-22 15:30:50.232047
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 15:31:36.937660
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:33:23.461531
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:55:02.017677
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Structures and Specifications
+Example: (7.4) A procedure to design lead controllers
+------------------------------------
+Output
+------------------------------------
+halt
+************************************
+************************************
+2018-01-22 15:55:46.036444
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Structures and Specifications
+Example: (7.4) A procedure to design lead controllers
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 15:56:15.866831
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 15:59:50.542240
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 16:01:09.582366
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Quadratic Gaussian Control
+Example: (13.2) Function to implement spectral factorization
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 17:12:49.548031
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Quadratic Gaussian Control
+Example: (13.2) Function to implement spectral factorization
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 17:12:52.964957
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Quadratic Gaussian Control
+Example: (13.2) Function to implement spectral factorization
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 17:13:12.711878
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Quadratic Gaussian Control
+Example: (13.6) LQG control design for viscosity control problem
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: tf                      . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 17:13:20.443266
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Linear Quadratic Gaussian Control
+Example: (13.6) LQG control design for viscosity control problem
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: lqg1                    . Use funcprot(0) to avoid this message
+Warning : redefining function: specfac                 . Use funcprot(0) to avoid this message
+Warning : redefining function: flip                    . Use funcprot(0) to avoid this message
+Warning : redefining function: polmul                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polsize                 . Use funcprot(0) to avoid this message
+Warning : redefining function: poladd                  . Use funcprot(0) to avoid this message
+Warning : redefining function: polyno                  . Use funcprot(0) to avoid this message
+Warning : redefining function: putin                   . Use funcprot(0) to avoid this message
+Warning : redefining function: xdync                   . Use funcprot(0) to avoid this message
+Warning : redefining function: rowjoin                 . Use funcprot(0) to avoid this message
+Warning : redefining function: left_prm                . Use funcprot(0) to avoid this message
+Warning : redefining function: t1calc                  . Use funcprot(0) to avoid this message
+Warning : redefining function: indep                   . Use funcprot(0) to avoid this message
+Warning : redefining function: seshft                  . Use funcprot(0) to avoid this message
+Warning : redefining function: makezero                . Use funcprot(0) to avoid this message
+Warning : redefining function: move_sci                . Use funcprot(0) to avoid this message
+Warning : redefining function: colsplit                . Use funcprot(0) to avoid this message
+Warning : redefining function: clcoef                  . Use funcprot(0) to avoid this message
+Warning : redefining function: cindep                  . Use funcprot(0) to avoid this message
+Warning : redefining function: ext                     . Use funcprot(0) to avoid this message
+Warning : redefining function: zpowk                   . Use funcprot(0) to avoid this message
+Warning : redefining function: tfvar                   . Use funcprot(0) to avoid this message
+Warning : redefining function: transp                  . Use funcprot(0) to avoid this message
+Warning : redefining function: tf                      . Use funcprot(0) to avoid this message
+Warning : redefining function: covar_m                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 17:13:33.493409
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Proportional Integral Derivative Controllers
+Example: (8.1) Continuous to discrete time transfer function
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: tf                      . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-22 17:13:47.098308
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-01-22 17:14:30.706189
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-01-22 17:26:06.178782
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-22 17:26:14.967176
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-22 17:30:15.990086
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-22 17:30:27.979400
+------------------------------------
+Book: Water and Wastewater Engineering [Author: G. M. Fair, J. C. Geyer and D. A. Okun]
+Chapter: Water system
+Example: (2.1) Example 1
+------------------------------------
+Output
+------------------------------------
+
+************************************

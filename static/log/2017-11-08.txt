@@ -1,0 +1,605 @@
+************************************
+2017-11-08 11:41:17.259625
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-08 11:44:42.603711
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.2) Fig 3pt2 Functioning of XOR logic
+------------------------------------
+Output
+------------------------------------
+	Input 1	Input 2	Output
+	  0	  0	  0
+	  0	  1	  1
+	  1	  0	  1
+	  1	  1	  0
+************************************
+************************************
+2017-11-08 11:44:49.149232
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.2) Fig 3pt2 Functioning of XOR logic
+------------------------------------
+Output
+------------------------------------
+	Input 1	Input 2	Output
+	  0	  0	  0
+	  0	  1	  1
+	  1	  0	  1
+	  1	  1	  0
+************************************
+************************************
+2017-11-08 11:44:52.301439
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.2) Fig 3pt2 Functioning of XOR logic
+------------------------------------
+Output
+------------------------------------
+	Input 1	Input 2	Output
+	  0	  0	  0
+	  0	  1	  1
+	  1	  0	  1
+	  1	  1	  0
+************************************
+************************************
+2017-11-08 11:44:53.756176
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.2) Fig 3pt2 Functioning of XOR logic
+------------------------------------
+Output
+------------------------------------
+	Input 1	Input 2	Output
+	  0	  0	  0
+	  0	  1	  1
+	  1	  0	  1
+	  1	  1	  0
+************************************
+************************************
+2017-11-08 11:44:53.946873
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.2) Fig 3pt2 Functioning of XOR logic
+------------------------------------
+Output
+------------------------------------
+	Input 1	Input 2	Output
+	  0	  0	  0
+	  0	  1	  1
+	  1	  0	  1
+	  1	  1	  0
+************************************
+************************************
+2017-11-08 11:45:02.447532
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.2.1.1) Example XOR operations
+------------------------------------
+Output
+------------------------------------
+ A  =
+    5.  
+A: 101
+ B  =
+    6.  
+B: 110
+ C  =
+    3.  
+C:  11
+ C XOR A   
+ 110   
+ C XOR B   
+ 101   
+************************************
+************************************
+2017-11-08 11:45:07.250501
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:45:08.281032
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:45:08.436157
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:45:08.596296
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:45:08.774069
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:45:08.927360
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:45:09.510147
+------------------------------------
+Book: Cryptography and Network Security [Author: A. Kahate]
+Chapter: Computer Based Symmetric Key Cryptographic Algorithm
+Example: (3.34) Fig 3pt34 Example of selection of S box output based on the input
+------------------------------------
+Output
+------------------------------------
+ x  =
+    1.    0.    1.    1.    0.    1.  
+ Row:    
+ row  =
+    1.    1.  
+in binary - 11 
+in decimal - 3 
+ Column:    
+ col  =
+    0.    1.    1.    0.  
+in binary - 0110 
+in decimal - 6 
+************************************
+************************************
+2017-11-08 11:46:03.839606
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.10) VD VR I
+------------------------------------
+Output
+------------------------------------
+    0.  
+ VR=   
+    12.  
+ V   
+ I=   
+    25.531915  
+ mA   
+************************************
+************************************
+2017-11-08 11:47:55.413102
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-08 11:48:53.542510
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-08 11:48:58.796677
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2017-11-08 11:49:50.728871
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-08 11:50:00.533817
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2017-11-08 11:50:19.063356
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2017-11-08 12:00:25.144685
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-08 12:00:33.798402
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2017-11-08 12:04:46.280146
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2017-11-08 12:05:01.068409
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4872851x   
+ B(x) =   
+                           2            3  
+  - 0.0018611x + 0.5984327x - 0.1867006x   
+ D(x)   
+    1 - 0.2796495x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500723 |
+************************************
+************************************
+2017-11-08 12:05:08.133805
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.5021507x   
+ B(x) =   
+                           2            3  
+  - 0.0001521x + 0.6021083x - 0.2034969x   
+ D(x)   
+    1 - 0.2834905x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0505652 |
+************************************
+************************************
+2017-11-08 12:06:35.345501
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4945871x   
+ B(x) =   
+                           2            3  
+  - 0.0017757x + 0.6015639x - 0.1972825x   
+ D(x)   
+    1 - 0.2791355x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0505449 |
+************************************
+************************************
+2017-11-08 12:09:27.669719
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2017-11-08 16:45:03.963399
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Mathematical Foundation
+Example: (2.19) inverse of 3x3 matrix
+------------------------------------
+Output
+------------------------------------
+ A  =
+    1.    2.    3.  
+    4.    5.    6.  
+    7.    8.    9.  
+ d  =
+    6.661D-16  
+Warning :
+matrix is close to singular or badly scaled. rcond =    1.5420D-18
+ i  =
+ 10^15 *
+  - 4.5035996    9.0071993  - 4.5035996  
+    9.0071993  - 18.014399    9.0071993  
+  - 4.5035996    9.0071993  - 4.5035996  
+ A^-1=   
+ 10^15 *
+  - 4.5035996    9.0071993  - 4.5035996  
+    9.0071993  - 18.014399    9.0071993  
+  - 4.5035996    9.0071993  - 4.5035996  
+************************************

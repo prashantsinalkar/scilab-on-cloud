@@ -1,0 +1,136 @@
+************************************
+2017-12-21 16:07:35.093939
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.13) DMOSFET
+------------------------------------
+Output
+------------------------------------
+I_D=value_of_I_D(10*10^-3,-3,-8)
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line      10 of exec file called by :    
+9yWp7WwwAS1trxHnWKiYFxte9aeICL.sci", 2)
+************************************
+************************************
+2017-12-21 16:45:30.880311
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.13) DMOSFET
+------------------------------------
+Output
+------------------------------------
+I_D=value_of_I_D(10*10^-3,-3,-8)
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line      10 of exec file called by :    
+9yWp7WwwAS1trxHnWKiYFxte9aeICL.sci", 2)
+************************************
+************************************
+2017-12-21 16:48:25.967225
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.13) DMOSFET
+------------------------------------
+Output
+------------------------------------
+I_D=value_of_I_D(10*10^-3,-3,-8)
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line      12 of exec file called by :    
+9yWp7WwwAS1trxHnWKiYFxte9aeICL.sci", 2)
+************************************
+************************************
+2017-12-21 16:48:30.130500
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.13) DMOSFET
+------------------------------------
+Output
+------------------------------------
+I_D=value_of_I_D(10*10^-3,-3,-8);
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line      12 of exec file called by :    
+9yWp7WwwAS1trxHnWKiYFxte9aeICL.sci", 2)
+************************************
+************************************
+2017-12-21 16:48:43.632133
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.12) Graph voltage divider
+------------------------------------
+Output
+------------------------------------
+ V_GS in Volts, at I_D=0A   
+    4.  
+ I_D in Amperes,at V_GS=0V   
+    0.0012121  
+ Plotting load line using the value of V_GS=4V at I_D=0 and I_D=1.2mA at V_GS=0 
+      V, we find the intersection of load line with transfer characteristic to  
+      get Q-point values of V_GS=-1.8V and I_D=1.8mA                            
+************************************
+************************************
+2017-12-21 16:48:51.092183
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.13) DMOSFET
+------------------------------------
+Output
+------------------------------------
+I_D=value_of_I_D(10*10^-3,-3,-8)
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line      10 of exec file called by :    
+9yWp7WwwAS1trxHnWKiYFxte9aeICL.sci", 2)
+************************************
+************************************
+2017-12-21 16:48:59.605429
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.12) Graph voltage divider
+------------------------------------
+Output
+------------------------------------
+ V_GS in Volts, at I_D=0A   
+    4.  
+ I_D in Amperes,at V_GS=0V   
+    0.0012121  
+ Plotting load line using the value of V_GS=4V at I_D=0 and I_D=1.2mA at V_GS=0 
+      V, we find the intersection of load line with transfer characteristic to  
+      get Q-point values of V_GS=-1.8V and I_D=1.8mA                            
+************************************
+************************************
+2017-12-21 16:49:24.376895
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.17) EMOSFET drain current
+------------------------------------
+Output
+------------------------------------
+ Drain current in Amperes   
+    0.0013830  
+************************************
+************************************
+2017-12-21 16:49:28.304891
+------------------------------------
+Book: Electronic Devices [Author: T. L. Floyd]
+Chapter: Field Effect Transistors
+Example: (7.13) DMOSFET
+------------------------------------
+Output
+------------------------------------
+I_D=value_of_I_D(10*10^-3,-3,-8)
+                                 !--error 4 
+Undefined variable: value_of_I_D
+at line      10 of exec file called by :    
+9yWp7WwwAS1trxHnWKiYFxte9aeICL.sci", 2)
+************************************

@@ -1,0 +1,354 @@
+************************************
+2018-01-29 11:02:59.901642
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-29 11:18:49.639441
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-01-29 11:20:54.248791
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Gas Power Cycles
+Example: (2.11) Cutoff ratio and air standard efficiency
+------------------------------------
+Output
+------------------------------------
+Cut-off ratio is   2 
+ Air standard efficiency is 65.36 percent 
+************************************
+************************************
+2018-01-29 11:21:16.286694
+------------------------------------
+Book: Thermal Engineering [Author: K. K. Ramalingam]
+Chapter: Gas power cycles
+Example: (1.11) Efficiencies for cut off ratio
+------------------------------------
+Output
+------------------------------------
+(a)Thermal efficiency when cut off ratio is 1.25 is 65.44 percent
+ (b)Thermal efficiency when cut off ratio is 1.50 is  64 percent
+ (c)Thermal efficiency when cut off ratio is 2.00 is 61.4 percent
+************************************
+************************************
+2018-01-29 11:23:17.884821
+------------------------------------
+Book: Thermal Engineering [Author: K. K. Ramalingam]
+Chapter: Gas power cycles
+Example: (1.11) Efficiencies for cut off ratio
+------------------------------------
+Output
+------------------------------------
+(a)Thermal efficiency when cut off ratio is 1.25 is 65.44 percent
+ (b)Thermal efficiency when cut off ratio is 1.50 is  64 percent
+ (c)Thermal efficiency when cut off ratio is 2.00 is 61.4 percent
+************************************
+************************************
+2018-01-29 11:23:29.075133
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+Air-fuel ratio by volume is 5.055:1 
+************************************
+************************************
+2018-01-29 11:23:54.789203
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+Air-fuel ratio by volume is 5.055:1 
+************************************
+************************************
+2018-01-29 11:26:37.681839
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.1) Sinusoidal plots for increasing frequency
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-29 11:26:46.957108
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-29 11:27:05.587331
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.5) Bode plot of minimum and nonminimum phase filters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-29 11:28:37.879882
+------------------------------------
+Book: A Textbook Of Applied Electronics [Author: R S Sedha]
+Chapter: Electricity and Ohms Law
+Example: (3.1) number of upperclass students who will go to the party
+------------------------------------
+Output
+------------------------------------
+ W  =
+    75.  
+ Q  =
+    50.  
+ V  =
+    1.5  
+ Terminal voltage of a battery is  1.500  V. 
+************************************
+************************************
+2018-01-29 11:28:52.650254
+------------------------------------
+Book: A Textbook Of Applied Electronics [Author: R S Sedha]
+Chapter: Electricity and Ohms Law
+Example: (3.10) Total number of ways to paint 12 offices so that 3 of them
+------------------------------------
+Output
+------------------------------------
+ p  =
+    1.700D-08  
+ l  =
+    300.  
+ R  =
+    0.722  
+ A  =
+    0.0000071  
+ d  =
+    0.0029990  
+  Diameter of the wire is :  3  mm. 
+************************************
+************************************
+2018-01-29 11:35:16.570212
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+Air-fuel ratio by volume is 5.055:1 
+************************************
+************************************
+2018-01-29 11:53:27.443794
+------------------------------------
+Book: A Textbook Of Applied Electronics [Author: R S Sedha]
+Chapter: Electricity and Ohms Law
+Example: (3.24) The rate at which electrical energy
+------------------------------------
+Output
+------------------------------------
+ W  =
+    64000.  
+ t  =
+    40.  
+ P  =
+    1600.  
+ The rate at which electrical energy is converted into heat energy is :  1600.000  W. 
+************************************
+************************************
+2018-01-29 12:12:32.874226
+------------------------------------
+Book: A Textbook Of Applied Electronics [Author: R S Sedha]
+Chapter: Electricity and Ohms Law
+Example: (3.1) number of upperclass students who will go to the party
+------------------------------------
+Output
+------------------------------------
+ W  =
+    75.  
+ Q  =
+    50.  
+ V  =
+    1.5  
+ Terminal voltage of a battery is  1.500  V. 
+************************************
+************************************
+2018-01-29 12:29:15.473075
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-29 12:31:31.440851
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-29 12:39:13.469187
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-29 12:39:29.766860
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Structures and Specifications
+Example: (7.1) Procedure to draw root locus for the problem
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-29 12:39:40.026678
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Structures and Specifications
+Example: (7.1) Procedure to draw root locus for the problem
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: tf                      . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-29 14:37:26.309747
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+Air-fuel ratio by volume is 5.055:1 
+************************************
+************************************
+2018-01-29 14:41:03.807625
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Structures and Specifications
+Example: (7.1) Procedure to draw root locus for the problem
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-01-29 14:41:07.501786
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Structures and Specifications
+Example: (7.1) Procedure to draw root locus for the problem
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: tf                      . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-01-29 14:44:32.684622
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+Air-fuel ratio by volume is 5.055:1 
+************************************
+************************************
+2018-01-29 15:23:28.604806
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+Air-fuel ratio by volume is 5.055:1 
+************************************
+************************************
+2018-01-29 15:23:34.482760
+------------------------------------
+Book: Thermal Engineering [Author: A. V. Arasu]
+Chapter: Fuels and Combustion
+Example: (1.11) Air fuel ratio
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    0.  
+************************************

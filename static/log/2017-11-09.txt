@@ -1,0 +1,1308 @@
+************************************
+2017-11-09 10:46:46.281118
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:48:10.019796
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:48:41.722029
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:50:18.114059
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:51:20.440462
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:53:12.879745
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:54:57.019955
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:56:05.476216
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:57:20.818359
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:58:12.140851
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 10:58:59.861908
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:16:35.220127
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:17:15.961094
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:18:17.663287
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:20:22.740669
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:27:35.197901
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:30:29.072521
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:32:07.976166
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:34:38.385148
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:39:50.200092
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:40:33.622532
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:42:16.026207
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:43:21.152240
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:44:09.384151
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:44:53.548505
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:51:49.263426
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:51:52.929432
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:53:08.449217
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:53:12.120061
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:54:13.726761
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:55:03.723484
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:55:07.227226
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:56:17.313738
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 11:57:03.916088
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 12:01:16.899089
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 12:03:43.543654
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 12:07:41.114301
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 12:45:02.401098
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.9) effect of addition of zeroes
+------------------------------------
+Output
+------------------------------------
+ sys1  =
+         1        
+    -----------   
+          2    3  
+    s + 3s + 2s   
+ sys2  =
+      1 + 3s      
+    ----------    
+          2    3  
+    s + 3s + 2s   
+these two plots show that addition of poles increases stability 
+************************************
+************************************
+2017-11-09 12:45:05.209130
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.9) effect of addition of zeroes
+------------------------------------
+Output
+------------------------------------
+ sys1  =
+         1        
+    -----------   
+          2    3  
+    s + 3s + 2s   
+ sys2  =
+      1 + 3s      
+    ----------    
+          2    3  
+    s + 3s + 2s   
+these two plots show that addition of poles increases stability 
+************************************
+************************************
+2017-11-09 12:49:21.747665
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Mathematical Foundation
+Example: (2.13) adjoint of matrix
+------------------------------------
+Output
+------------------------------------
+ A  =
+    1.    2.  
+    3.    4.  
+ i  =
+  - 2.     1.   
+    1.5  - 0.5  
+ a  =
+    4.  - 2.  
+  - 3.    1.  
+    4.  - 2.  
+  - 3.    1.  
+************************************
+************************************
+2017-11-09 12:49:24.575117
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Mathematical Foundation
+Example: (2.13) adjoint of matrix
+------------------------------------
+Output
+------------------------------------
+ A  =
+    1.    2.  
+    3.    4.  
+ i  =
+  - 2.     1.   
+    1.5  - 0.5  
+ a  =
+    4.  - 2.  
+  - 3.    1.  
+    4.  - 2.  
+  - 3.    1.  
+************************************
+************************************
+2017-11-09 12:49:37.909754
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 12:49:46.547185
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 12:51:52.836725
+------------------------------------
+Book: A Text Book of Physical Chemistry [Author: K. l. Kapoor]
+Chapter: Solutions
+Example: (4.10.1) Ex 19
+------------------------------------
+Output
+------------------------------------
+WA=71 gm 
+************************************
+************************************
+2017-11-09 12:51:57.401959
+------------------------------------
+Book: A Text Book of Physical Chemistry [Author: K. l. Kapoor]
+Chapter: Solutions
+Example: (4.10.2) Ex 20
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2017-11-09 12:51:59.159798
+------------------------------------
+Book: A Text Book of Physical Chemistry [Author: K. l. Kapoor]
+Chapter: Solutions
+Example: (4.10.2) Ex 20
+------------------------------------
+Output
+------------------------------------
+MA=134.3 gm/mol 
+************************************
+************************************
+2017-11-09 14:37:15.937735
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-09 14:51:23.828409
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.11) current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    6.625  
+ mA   
+************************************
+************************************
+2017-11-09 15:00:52.527457
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-09 15:00:55.877424
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.11) current
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2017-11-09 15:00:59.690310
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.11) current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    6.625  
+ mA   
+************************************
+************************************
+2017-11-09 15:44:42.868113
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 15:50:19.558328
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 15:51:38.753365
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 15:52:36.513669
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 15:53:21.263865
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 20:10:00.276978
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 20:11:10.107642
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************
+************************************
+2017-11-09 20:14:52.226543
+------------------------------------
+Book: Automatic Control Systems [Author: B. C. Kuo And F. Golnaraghi ]
+Chapter: Frequency Domain Analysis
+Example: (9.15) bode plot
+------------------------------------
+Output
+------------------------------------
+ sys  =
+         2500        
+    --------------   
+              2   3  
+    250s + 55s + s   
+ gm  =
+    14.807254  
+ pm  =
+    31.712392  
+ gain margin=   
+    14.807254  
+ phase margin=   
+    31.712392  
+system is stable 
+************************************

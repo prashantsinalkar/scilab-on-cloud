@@ -1,0 +1,2176 @@
+************************************
+2018-02-19 09:44:29.745318
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.1) Length of the stroke
+------------------------------------
+Output
+------------------------------------
+ pi  =
+    3.141  
+ AO  =
+    200.  
+ OB1  =
+    100.  
+ AP  =
+    400.  
+ OAB1  =
+    30.  
+ beeta  =
+    120.  
+ A  =
+    2.  
+ L  =
+    400.  
+Inclination of slotted bar with vertical= 30.000 degrees
+ Length of the stroke= 400.000 mm 
+************************************
+************************************
+2018-02-19 11:51:05.421429
+------------------------------------
+Book: Unit Operations Of Chemical Engineering [Author: W. L. McCabe, J. C. Smith And P. Harriot]
+Chapter: Fluid Statics and its Application
+Example: (2.2) tank diameter
+------------------------------------
+Output
+------------------------------------
+ t  =
+    0.3819444  
+ rate_each_stream  =
+    43.75  
+ total_liquid_holdup  =
+    2014.8  
+ vol  =
+    2120.8421  
+ vessel size =   
+    2120.8421  
+ gal   
+ Zt  =
+    3.6  
+ ZA1  =
+    1.8  
+ ZA2  =
+    3.15  
+ tank diameter =   
+    3.15  
+ ft   
+************************************
+************************************
+2018-02-19 11:51:14.299929
+------------------------------------
+Book: Unit Operations Of Chemical Engineering [Author: W. L. McCabe, J. C. Smith And P. Harriot]
+Chapter: Fluid Statics and its Application
+Example: (2.2) tank diameter
+------------------------------------
+Output
+------------------------------------
+ t  =
+    0.3819444  
+ rate_each_stream  =
+    43.75  
+ total_liquid_holdup  =
+    2014.8  
+ vol  =
+    2120.8421  
+ vessel size =   
+    2120.8421  
+ gal   
+ Zt  =
+    3.6  
+ ZA1  =
+    1.8  
+ ZA2  =
+    3.15  
+ tank diameter =   
+    3.15  
+ ft   
+************************************
+************************************
+2018-02-19 11:51:54.813685
+------------------------------------
+Book: Chemical Reaction Engineering [Author: O. Levenspiel]
+Chapter: Kinetics of Homogeneous Reactions
+Example: (2.1) Search for the reactiom mechanism
+------------------------------------
+Output
+------------------------------------
+Its a theorotical Question 
+************************************
+************************************
+2018-02-19 12:05:37.199862
+------------------------------------
+Book: Chemical Reaction Engineering [Author: O. Levenspiel]
+Chapter: Ideal Reactors for a Single Reaction
+Example: (5.6) Test of a kinetic equation in a plug flow reactor
+------------------------------------
+Output
+------------------------------------
+Its a theorotical Question 
+************************************
+************************************
+2018-02-19 12:21:22.358273
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 12:28:49.259865
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Z Transform
+Example: (4.1) Sum of two real exponentials
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 15:37:17.388146
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 15:42:23.027815
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 15:43:44.213597
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 15:51:24.865722
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 15:51:31.585975
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 15:51:53.207329
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 15:58:11.748368
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:03:09.150185
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:11:24.235301
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:11:50.484173
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:12:00.602516
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 16:12:18.109570
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 16:13:24.842883
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:13:57.236226
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:18:09.546161
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:18:49.348106
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 16:18:54.591858
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 16:18:59.886435
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4872851x   
+ B(x) =   
+                           2            3  
+  - 0.0018611x + 0.5984327x - 0.1867006x   
+ D(x)   
+    1 - 0.2796495x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500723 |
+************************************
+************************************
+2018-02-19 16:19:02.134719
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:19:02.645780
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:19:02.853438
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:24:19.403780
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:24:52.480073
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:25:50.478430
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 16:27:33.731153
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:29:28.915495
+------------------------------------
+Book: Theory Of Machines [Author: B. K. Sarkar]
+Chapter: Basic kinemtics
+Example: (1.13) angular acceleration
+------------------------------------
+Output
+------------------------------------
+ PI  =
+    3.141  
+ N  =
+    120.  
+ OC  =
+    5.  
+ cp  =
+    20.  
+ qa  =
+    10.  
+ pa  =
+    5.  
+ CP  =
+    46.9  
+ QA  =
+    58.3  
+ Pa  =
+    18.3  
+ Vc  =
+    62.82  
+ Cco  =
+    789.27048  
+ Cpc  =
+    109.9805  
+ Caq  =
+    339.889  
+ Cap  =
+    66.978  
+ pp1  =
+    530.  
+ a1a  =
+    323.  
+ a2a  =
+    207.5  
+ ACP  =
+    26.5  
+ APA  =
+    32.3  
+ AAQ  =
+    41.5  
+angular acceleration of link CP =26.500 rad/s^2
+ angular acceleration of link CP=32.300 rad/s^2
+ angular acceleration of link CP=41.500 rad/s^2 
+************************************
+************************************
+2018-02-19 16:30:28.920826
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:32:11.568942
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 16:32:32.120566
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 16:57:26.049393
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 16:59:32.302759
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4872851x   
+ B(x) =   
+                           2            3  
+  - 0.0018611x + 0.5984327x - 0.1867006x   
+ D(x)   
+    1 - 0.2796495x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500723 |
+************************************
+************************************
+2018-02-19 17:00:36.757427
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 20:28:45.902469
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 20:35:54.561543
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 20:37:11.951344
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 20:41:50.718587
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 20:42:17.267293
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 20:44:29.302924
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 20:47:28.596035
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4872851x   
+ B(x) =   
+                           2            3  
+  - 0.0018611x + 0.5984327x - 0.1867006x   
+ D(x)   
+    1 - 0.2796495x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500723 |
+************************************
+************************************
+2018-02-19 20:49:46.225773
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 20:51:30.582874
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.5021507x   
+ B(x) =   
+                           2            3  
+  - 0.0001521x + 0.6021083x - 0.2034969x   
+ D(x)   
+    1 - 0.2834905x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0505652 |
+************************************
+************************************
+2018-02-19 20:52:32.195908
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:52:41.143837
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:55:11.049209
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 20:55:20.984905
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:55:26.414002
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:55:41.956399
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:55:44.833411
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:55:47.482833
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.2) Bode plots
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 20:57:24.571831
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 20:58:15.954758
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 20:58:24.098509
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 21:01:32.917071
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4872851x   
+ B(x) =   
+                           2            3  
+  - 0.0018611x + 0.5984327x - 0.1867006x   
+ D(x)   
+    1 - 0.2796495x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500723 |
+************************************
+************************************
+2018-02-19 21:02:07.730483
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.5021507x   
+ B(x) =   
+                           2            3  
+  - 0.0001521x + 0.6021083x - 0.2034969x   
+ D(x)   
+    1 - 0.2834905x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0505652 |
+************************************
+************************************
+2018-02-19 21:04:01.587428
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4945871x   
+ B(x) =   
+                           2            3  
+  - 0.0017757x + 0.6015639x - 0.1972825x   
+ D(x)   
+    1 - 0.2791355x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0505449 |
+************************************
+************************************
+2018-02-19 21:04:18.544397
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4891718x   
+ B(x) =   
+                           2            3  
+    0.0017980x + 0.5968428x - 0.1912026x   
+ D(x)   
+    1 - 0.2838930x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0499123 |
+************************************
+************************************
+2018-02-19 21:06:00.958496
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4923310x   
+ B(x) =   
+                           2            3  
+  - 0.0013881x + 0.5991899x - 0.1913897x   
+ D(x)   
+    1 - 0.2925531x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0497481 |
+************************************
+************************************
+2018-02-19 21:07:17.632130
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4984430x   
+ B(x) =   
+                           2            3  
+    0.0019656x + 0.5978523x - 0.1990428x   
+ D(x)   
+    1 - 0.2858725x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0501151 |
+************************************
+************************************
+2018-02-19 21:08:14.520798
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4903876x   
+ B(x) =   
+                           2            3  
+    0.0036474x + 0.5942264x - 0.1902659x   
+ D(x)   
+    1 - 0.2891808x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0506581 |
+************************************
+************************************
+2018-02-19 21:10:38.520057
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4943777x   
+ B(x) =   
+                          2            3  
+  - 0.0017883x + 0.600271x - 0.1930062x   
+ D(x)   
+    1 - 0.3018068x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0511305 |
+************************************
+************************************
+2018-02-19 21:11:21.836269
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4985475x   
+ B(x) =   
+                           2            3  
+  - 0.0012551x + 0.6016420x - 0.1990840x   
+ D(x)   
+    1 - 0.2807573x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0493964 |
+************************************
+************************************
+2018-02-19 21:38:30.216519
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4804106x   
+ B(x) =   
+                           2            3  
+  - 0.0002636x + 0.6011798x - 0.1863054x   
+ D(x)   
+    1 - 0.2774466x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0499866 |
+************************************
+************************************
+2018-02-19 21:47:25.675717
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4888833x   
+ B(x) =   
+                           2            3  
+  - 0.0004789x + 0.5981397x - 0.1885263x   
+ D(x)   
+    1 - 0.2421747x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0495279 |
+************************************
+************************************
+2018-02-19 21:47:46.855097
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4986454x   
+ B(x) =   
+                           2            3  
+    0.0023556x + 0.5980361x - 0.1993622x   
+ D(x)   
+    1 - 0.2677391x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0501061 |
+************************************
+************************************
+2018-02-19 21:48:21.778991
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.15) Determination of ARX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+Warning : redefining function: cov                     . Use funcprot(0) to avoid this message
+ Discrete time model: A(x)y(t) = B(x)u(t) + e(t)   
+ A(x) =    
+ 1 -0.5050626(+-0.0172761)*x   
+ B(x) =    
+ 0.6014662(+-0.0010720)*x^2 -0.2052612(+-0.0111543)*x^3   
+************************************
+************************************
+2018-02-19 21:48:53.376845
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.13) Implementation of trial and error procedure to determine ARMA process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v,1e-03,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 21:49:06.763555
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.13) Implementation of trial and error procedure to determine ARMA process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v,1e-03,11,1);
+at line      25 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 21:49:58.269515
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.1) Least squares solution
+------------------------------------
+Output
+------------------------------------
+ LS  =
+    1.9528388  
+ Max  =
+    8.5462292  
+ Min  =
+  - 32.561798  
+************************************
+************************************
+2018-02-19 21:50:16.608196
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.2) ACF calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 21:50:18.055898
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.2) ACF calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 21:50:19.790176
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.2) ACF calculation
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 21:53:39.462542
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.7) Illustration of nonuniqueness in estimation of MA model parameters using ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ M1  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.8983850x + 0.1944447x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 2.491908 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.8983850x + 0.1944447x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 2.491908 |
+ M2  =
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.8963688x + 0.1775263x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 1.0037321 |
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1   
+ B(x) =   
+    0  
+ D(x)   
+                               2  
+    1 - 0.8963688x + 0.1775263x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 1.0037321 |
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(v1,1,11,1);
+at line      28 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 21:55:37.171760
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4994802x   
+ B(x) =   
+                           2            3  
+  - 0.0005939x + 0.6007794x - 0.1999670x   
+ D(x)   
+    1 - 0.2828927x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0500953 |
+************************************
+************************************
+2018-02-19 21:55:48.405378
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4975017x   
+ B(x) =   
+                           2            3  
+    0.0001862x + 0.5967035x - 0.1958707x   
+ D(x)   
+    1 - 0.2888580x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0499689 |
+************************************
+************************************
+2018-02-19 21:57:36.363846
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4967801x   
+ B(x) =   
+                           2            3  
+    0.0003464x + 0.5985893x - 0.1957273x   
+ D(x)   
+    1 - 0.2680315x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0507941 |
+************************************
+************************************
+2018-02-19 21:58:29.288263
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+ !--error 241 
+File "normacf.sci" does not exist.
+at line       2 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 22:00:22.967475
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 22:02:01.113428
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.1) Least squares solution
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:02:33.049786
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:02:43.743567
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:02:48.090931
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:03:00.510340
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:03:10.747873
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:03:49.968953
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:04:00.049189
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.6) Procedure to plot the ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:04:17.288735
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 22:04:22.015809
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.3) To demonstrate the periodicity property of ACF
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: plotacf                 . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+ !--error 4 
+Undefined variable: getf
+at line       2 of function normacf called by :  
+at line       4 of function plotacf called by :  
+plotacf(Spxi,1,L,1);
+at line      23 of exec file called by :    
+AXc5zZpu7Mhrh85f3selLo8A43gDCC.sci", 2)
+************************************
+************************************
+2018-02-19 22:04:51.142079
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.4) To demonstrate the maximum property of ACF at zero lag
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:04:54.542693
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.4) To demonstrate the maximum property of ACF at zero lag
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:08:55.286803
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.4) To demonstrate the maximum property of ACF at zero lag
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:09:28.463249
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.9) Determination of order of AR process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+************************************
+************************************
+2018-02-19 22:09:33.817989
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.9) Determination of order of AR process
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: pacf                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+WARNING: Transposing row vector X to get compatible dimensions
+************************************
+************************************
+2018-02-19 22:18:08.506772
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 22:26:43.018002
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2018-02-19 22:29:18.674364
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4889304x   
+ B(x) =   
+                           2            3  
+    0.0010326x + 0.5963366x - 0.1880782x   
+ D(x)   
+    1 - 0.2663724x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0488953 |
+************************************
+************************************
+2018-02-19 22:52:33.082941
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: cra                     . Use funcprot(0) to avoid this message
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: filt                    . Use funcprot(0) to avoid this message
+Warning : redefining function: covf                    . Use funcprot(0) to avoid this message
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4883906x   
+ B(x) =   
+                           2            3  
+    0.0023480x + 0.5950666x - 0.1873705x   
+ D(x)   
+    1 - 0.2573601x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0498719 |
+************************************
+************************************
+2018-02-19 22:53:32.614929
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Modelling of Sampled Data Systems
+Example: (2.1) Model of inverted pendulum
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:53:55.559770
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Modelling of Sampled Data Systems
+Example: (2.2) Exponential of the matrix
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    0.3678794    0.  
+    0.6321206    1.  
+************************************
+************************************
+2018-02-19 22:54:52.545613
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Z Transform
+Example: (4.1) Sum of two real exponentials
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2018-02-19 22:54:54.782180
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Z Transform
+Example: (4.1) Sum of two real exponentials
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:55:00.481528
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Z Transform
+Example: (4.1) Sum of two real exponentials
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:55:56.581456
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Z Transform
+Example: (4.1) Sum of two real exponentials
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+Warning : redefining function: label                   . Use funcprot(0) to avoid this message
+************************************
+************************************
+2018-02-19 22:57:28.232217
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Z Transform
+Example: (4.1) Sum of two real exponentials
+------------------------------------
+Output
+------------------------------------
+
+************************************

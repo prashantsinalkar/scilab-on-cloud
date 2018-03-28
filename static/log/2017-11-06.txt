@@ -1,0 +1,1084 @@
+************************************
+2017-11-06 10:19:58.096037
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-06 10:20:02.521251
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-06 10:20:04.376848
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-06 10:20:25.466175
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-06 10:20:32.985229
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.13) total current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    3.0666667  
+ mA   
+************************************
+************************************
+2017-11-06 10:20:34.611233
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.13) total current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    3.0666667  
+ mA   
+************************************
+************************************
+2017-11-06 10:20:40.505299
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.15) output voltage
+------------------------------------
+Output
+------------------------------------
+ VO=   
+    0.  
+ V   
+ VO=   
+    4.3  
+ V   
+ VO=   
+    4.3  
+ V   
+ VO=   
+    4.3  
+ V   
+************************************
+************************************
+2017-11-06 10:20:46.725245
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.16) waveform of voltage
+------------------------------------
+Output
+------------------------------------
+ I=   
+    0.999965  
+ mA   
+    50.870281  
+ V=   
+    0.4852521  
+ mV   
+************************************
+************************************
+2017-11-06 10:20:54.553749
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.4) saturation current
+------------------------------------
+Output
+------------------------------------
+ I400=   
+    10.24  
+ mA   
+************************************
+************************************
+2017-11-06 10:20:59.685935
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.8) dc current and PDmax
+------------------------------------
+Output
+------------------------------------
+ IF=   
+    0.5  
+ A   
+ IR=   
+    3.3333333  
+ mA   
+************************************
+************************************
+2017-11-06 10:21:03.958206
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.4) saturation current
+------------------------------------
+Output
+------------------------------------
+ I400=   
+    10.24  
+ mA   
+************************************
+************************************
+2017-11-06 10:21:09.692092
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.8) dc current and PDmax
+------------------------------------
+Output
+------------------------------------
+ IF=   
+    0.5  
+ A   
+ IR=   
+    3.3333333  
+ mA   
+************************************
+************************************
+2017-11-06 10:21:14.535647
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.9) voltage drop and current
+------------------------------------
+Output
+------------------------------------
+ VD=VS=   
+    5.  
+ V   
+ VR=   
+    0.  
+ I=   
+    0.  
+************************************
+************************************
+2017-11-06 10:21:18.167114
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.5) value of VF for the device
+------------------------------------
+Output
+------------------------------------
+ VF=   
+    0.724  
+ V   
+************************************
+************************************
+2017-11-06 10:21:23.271631
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.2) find current
+------------------------------------
+Output
+------------------------------------
+ n  =
+    1.  
+ VT  =
+    0.0256897  
+ VT=   
+    25.689655  
+ mV   
+ I=   
+    5.2373319  
+ A   
+************************************
+************************************
+2017-11-06 10:21:28.301997
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.9) voltage drop and current
+------------------------------------
+Output
+------------------------------------
+ VD=VS=   
+    5.  
+ V   
+ VR=   
+    0.  
+ I=   
+    0.  
+************************************
+************************************
+2017-11-06 10:21:46.014390
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Identification
+Example: (6.16) Determination of ARMAX parameters
+------------------------------------
+Output
+------------------------------------
+WARNING: Transposing row vector X to get compatible dimensions
+  A(z^-1)y=B(z^-1)u + D(z^-1) e(t)
+ A(x) =   
+    1 - 0.4863345x   
+ B(x) =   
+                           2            3  
+  - 0.0011050x + 0.5997766x - 0.1880610x   
+ D(x)   
+    1 - 0.2568752x   
+  e(t)=Sig*w(t); w(t) 1-dim white noise
+  Sig=  | 0.0503086 |
+************************************
+************************************
+2017-11-06 10:45:58.330461
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-06 10:46:01.615665
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.10) resistance and current
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-06 10:46:09.062774
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: BIPOLAR JUNCTION TRANSISTORS
+Example: (8.1) base current
+------------------------------------
+Output
+------------------------------------
+ Ib=   
+    0.2  
+ mA   
+************************************
+************************************
+2017-11-06 10:46:12.702675
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: BIPOLAR JUNCTION TRANSISTORS
+Example: (8.11) beta emitter current and new value of beta
+------------------------------------
+Output
+------------------------------------
+    19.52381  
+    0.9512761  
+ IE=   
+    2.155  
+ mA   
+    20.454545  
+************************************
+************************************
+2017-11-06 10:46:16.601343
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: BIPOLAR JUNCTION TRANSISTORS
+Example: (8.12) collector and emitter current
+------------------------------------
+Output
+------------------------------------
+ Ic=   
+    5.15  
+ mA   
+ Ie=   
+    5.25  
+ mA   
+************************************
+************************************
+2017-11-06 10:46:52.139850
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: BIPOLAR JUNCTION TRANSISTORS
+Example: (8.4) IC and IB
+------------------------------------
+Output
+------------------------------------
+ Ic=   
+    9.87  
+ mA   
+ Ib=   
+    0.13  
+ mA   
+************************************
+************************************
+2017-11-06 10:53:31.124420
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-06 10:53:39.203058
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.9) Imin and Imax
+------------------------------------
+Output
+------------------------------------
+ Rs=   
+    387.5  
+ ohm   
+ Rsmax=   
+    375.  
+ ohm   
+************************************
+************************************
+2017-11-06 10:53:43.982139
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.8) minimum and maximum value of current
+------------------------------------
+Output
+------------------------------------
+ Imax=   
+    18.085106  
+ mA   
+ Imin=   
+    16.382979  
+ mA   
+************************************
+************************************
+2017-11-06 10:53:48.253932
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.9) Imin and Imax
+------------------------------------
+Output
+------------------------------------
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    27.073171  
+ mA   
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    26.666667  
+ mA   
+************************************
+************************************
+2017-11-06 10:53:53.985473
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.8) minimum and maximum value of current
+------------------------------------
+Output
+------------------------------------
+ Imax=   
+    18.085106  
+ mA   
+ Imin=   
+    16.382979  
+ mA   
+************************************
+************************************
+2017-11-06 10:57:01.084687
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.1) Current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    10.71963  
+ uA   
+************************************
+************************************
+2017-11-06 10:57:05.563913
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.5) value of VF for the device
+------------------------------------
+Output
+------------------------------------
+ VF=   
+    0.724  
+ V   
+************************************
+************************************
+2017-11-06 10:57:08.195025
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.5) value of VF for the device
+------------------------------------
+Output
+------------------------------------
+ VF=   
+    0.724  
+ V   
+************************************
+************************************
+2017-11-06 10:57:12.750732
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.9) voltage drop and current
+------------------------------------
+Output
+------------------------------------
+ VD=VS=   
+    5.  
+ V   
+ VR=   
+    0.  
+ I=   
+    0.  
+************************************
+************************************
+2017-11-06 10:57:17.370420
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.8) dc current and PDmax
+------------------------------------
+Output
+------------------------------------
+ IF=   
+    0.5  
+ A   
+ IR=   
+    3.3333333  
+ mA   
+************************************
+************************************
+2017-11-06 10:57:23.761937
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.5) value of VF for the device
+------------------------------------
+Output
+------------------------------------
+ VF=   
+    0.724  
+ V   
+************************************
+************************************
+2017-11-06 10:57:28.043675
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.9) voltage drop and current
+------------------------------------
+Output
+------------------------------------
+ VD=VS=   
+    5.  
+ V   
+ VR=   
+    0.  
+ I=   
+    0.  
+************************************
+************************************
+2017-11-06 10:58:40.112069
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.1) length of wire and current density
+------------------------------------
+Output
+------------------------------------
+ l=   
+    45.553093  
+ km   
+ J=   
+    580000.  
+ A/m^2   
+************************************
+************************************
+2017-11-06 10:58:45.909487
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.10) concentration of electrons and holes
+------------------------------------
+Output
+------------------------------------
+ n=   
+    1.763D+24  
+ electrons/cm^3   
+ p=   
+    2.645D+24  
+ holes/cm^3   
+************************************
+************************************
+2017-11-06 11:00:00.134686
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.18) electron mobility
+------------------------------------
+Output
+------------------------------------
+ mu=   
+    1000.  
+ cm^2/volt-sec   
+************************************
+************************************
+2017-11-06 11:00:05.587499
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.22) resistivity
+------------------------------------
+Output
+------------------------------------
+ sigma=   
+    111.11111  
+ S/m   
+ RH=   
+    0.000027  
+ m^3*C   
+************************************
+************************************
+2017-11-06 11:00:25.187082
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.9) donor concentration
+------------------------------------
+Output
+------------------------------------
+ sigma=   
+    0.01  
+ (ohm-m)^-1   
+ ND=   
+    1.736D+17  
+ atoms/m^3   
+************************************
+************************************
+2017-11-06 11:00:56.602315
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.8) conductivity
+------------------------------------
+Output
+------------------------------------
+ ND1=   
+    5.000D+20  
+ /m^3   
+ SIGMA=   
+    14.4  
+ ohm-m^-1   
+************************************
+************************************
+2017-11-06 11:01:03.244883
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.7) intrinsic carrier concentration
+------------------------------------
+Output
+------------------------------------
+ sigma=   
+    2.1276596  
+ ohm-m^-1   
+ n=   
+    2.293D+19  
+ /m^3   
+************************************
+************************************
+2017-11-06 11:01:29.587752
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SEMICONDUCTORS
+Example: (3.9) donor concentration
+------------------------------------
+Output
+------------------------------------
+ sigma=   
+    0.01  
+ (ohm-m)^-1   
+ ND=   
+    1.736D+17  
+ atoms/m^3   
+************************************
+************************************
+2017-11-06 11:14:43.527163
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE APPLICATIONS RECTIFIERS AND FILTERS
+Example: (16.1) dc output voltage and PIV
+------------------------------------
+Output
+------------------------------------
+ V2=   
+    23.  
+ V   
+ Vm=   
+    32.526912  
+ V   
+ Vdc=   
+    10.343558  
+ V   
+ PIV=   
+    32.526912  
+ V   
+************************************
+************************************
+2017-11-06 11:15:44.881456
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-06 11:15:49.416011
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.6) frequency of 5th harmonic
+------------------------------------
+Output
+------------------------------------
+ f=   
+    25.  
+ MHz   
+ f=   
+    125.  
+ MHz   
+************************************
+************************************
+2017-11-06 11:15:54.286192
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.9) Imin and Imax
+------------------------------------
+Output
+------------------------------------
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    27.073171  
+ mA   
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    26.666667  
+ mA   
+************************************
+************************************
+2017-11-06 11:16:01.828144
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SINGLE STAGE BJT AMPLIFIERS
+Example: (19.1) resistance and voltage gain
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: beta                    . Use funcprot(0) to avoid this message
+ Ib=   
+    9.3  
+ microA   
+ Ic=   
+    0.93  
+ mA   
+ re=   
+    26.88172  
+ ohm   
+ Ri=   
+    2.688172  
+ kohm   
+ Ris=   
+    2.6809651  
+ kohm   
+ R0=   
+    10.  
+ kOhm   
+    372.  
+************************************
+************************************
+2017-11-06 11:16:07.839021
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SINGLE STAGE BJT AMPLIFIERS
+Example: (19.7) voltage and impedance
+------------------------------------
+Output
+------------------------------------
+ ans  =
+    0.  
+ Vth=   
+  - 3.1271186  
+ V   
+ Rth=   
+    6.7754237  
+ kohm   
+ Ie=   
+  - 2.3475891  
+ mA   
+ re1=   
+    12.779068  
+ ohm   
+ Ris=   
+    6.6479769  
+ kohm   
+ re=   
+    1.7671233  
+ Kohm   
+    138.28265  
+************************************
+************************************
+2017-11-06 11:16:13.270026
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SINGLE STAGE BJT AMPLIFIERS
+Example: (19.9) GAIN VOLTAGE AND RESISTANCE
+------------------------------------
+Output
+------------------------------------
+ Vth=   
+    1.6666667  
+ V   
+ Rth=   
+    8.3333333  
+ 10^3ohm   
+ RE=   
+    1000.  
+ ohm   
+ Ie=   
+    0.8285714  
+ mA   
+ re=   
+    30.172414  
+ ohm   
+ Ri=   
+    26.508621  
+ Kohm   
+ Ris=   
+    6340.2062  
+ ohm   
+ rl  =
+    4545.4545  
+ rl=   
+    4.5454545  
+ kohm   
+    8.5735403  
+ VinBYVs=   
+    0.9135472  
+ V   
+    7.832334  
+ V0=   
+    783.2334  
+ mV   
+************************************
+************************************
+2017-11-06 11:16:18.736362
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SINGLE STAGE BJT AMPLIFIERS
+Example: (19.8) Av Ri Ro and Avs
+------------------------------------
+Output
+------------------------------------
+ Vs  =
+    200.  
+ Vth=   
+    1.8181818  
+ V   
+ Rth=   
+    9.0909091  
+ Kohm   
+ Ie=   
+    1.025  
+ mA   
+ re=   
+    24.390244  
+ ohm   
+ Ris=   
+    1923.0769  
+ ohm   
+    233.7  
+ Vin=   
+    190.11407  
+ mV   
+ V0=   
+    44.429658  
+ V   
+    222.14829  
+************************************
+************************************
+2017-11-06 11:50:29.907788
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.6) frequency of 5th harmonic
+------------------------------------
+Output
+------------------------------------
+ f=   
+    25.  
+ MHz   
+ f=   
+    125.  
+ MHz   
+************************************
+************************************
+2017-11-06 14:44:12.992240
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-06 15:29:31.205101
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.11) current
+------------------------------------
+Output
+------------------------------------
+ I=   
+    6.625  
+ mA   
+************************************
+************************************
+2017-11-06 15:29:37.764015
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.12) voltage across resistor and current
+------------------------------------
+Output
+------------------------------------
+ VR=   
+    4.3  
+ V   
+ I=   
+    8.4313725  
+ mA   
+************************************
+************************************
+2017-11-06 16:05:26.279516
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: PN JUNCTION DIODE
+Example: (5.12) voltage across resistor and current
+------------------------------------
+Output
+------------------------------------
+ VR=   
+    4.3  
+ V   
+ I=   
+    8.4313725  
+ mA   
+************************************
+************************************
+2017-11-06 16:05:58.196731
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.1) Sinusoidal plots for increasing frequency
+------------------------------------
+Output
+------------------------------------
+
+************************************
+************************************
+2017-11-06 16:15:43.405850
+------------------------------------
+Book: Digital Control [Author: K. M. Moudgalya]
+Chapter: Frequency Domain Analysis
+Example: (5.1) Sinusoidal plots for increasing frequency
+------------------------------------
+Output
+------------------------------------
+Warning : redefining function: stem                    . Use funcprot(0) to avoid this message
+************************************
+************************************
+2017-11-06 16:59:00.801794
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.9) Imin and Imax
+------------------------------------
+Output
+------------------------------------
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    27.073171  
+ mA   
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    26.666667  
+ mA   
+************************************
+************************************
+2017-11-06 16:59:08.529278
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.7) resistor
+------------------------------------
+Output
+------------------------------------
+ Rs=   
+    387.5  
+ ohm   
+ Rsmax=   
+    375.  
+ ohm   
+************************************
+************************************
+2017-11-06 16:59:14.926702
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.1) value of Izm
+------------------------------------
+Output
+------------------------------------
+ Izm=   
+    73.529412  
+ mA   
+************************************
+************************************
+2017-11-06 16:59:21.076401
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.2) maximum power dissipation
+------------------------------------
+Output
+------------------------------------
+ Td=   
+    83.25  
+ mW   
+ pz=   
+    416.75  
+ mW   
+************************************
+************************************
+2017-11-06 16:59:27.239591
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.3) resistance of device
+------------------------------------
+Output
+------------------------------------
+ rz=   
+    5.  
+ ohm   
+************************************
+************************************
+2017-11-06 16:59:32.795258
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.4) terminal voltage
+------------------------------------
+Output
+------------------------------------
+ VZ1=   
+    5.  
+ V   
+************************************
+************************************
+2017-11-06 16:59:38.759660
+------------------------------------
+Book: A Textbook of Electronic Circuits [Author: R. S. Sedha]
+Chapter: SPECIAL PURPOSE DIODES AND OPTO ELECTRONIC DEVICES
+Example: (7.9) Imin and Imax
+------------------------------------
+Output
+------------------------------------
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    27.073171  
+ mA   
+ Imin=   
+    16.666667  
+ mA   
+ Imax=   
+    26.666667  
+ mA   
+************************************
