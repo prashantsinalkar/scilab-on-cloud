@@ -407,9 +407,9 @@ def revision_form(request):
     response_dict = []
     if request.is_ajax():
         code = request.GET.get('code')
-        code = code.decode('UTF-8'))
+        code = code.decode('UTF-8')
         initial_code = request.GET.get('initial_code')
-        request.session['code'] = code.decode('UTF-8'))
+        request.session['code'] = code.decode('UTF-8')
 
         if code == initial_code:
             response = "You have not made any changes"
@@ -451,7 +451,7 @@ def revision_form_submit(request):
     if request.is_ajax():
         form = request.GET.get('form')
         code = request.GET.get('code')
-        code = code.decode('UTF-8'))
+        code = code.decode('UTF-8')
 
         form = RevisionForm(deserialize_form(form))
 
@@ -529,7 +529,7 @@ def review_revision(request):
         category = utils.get_category(book.category)
 
         response = {
-            'code': code.decode('UTF-8')),
+            'code': code.decode('UTF-8'),
             'revision': model_to_dict(revision),
             'example': model_to_dict(example),
             'chapter': model_to_dict(chapter),
@@ -547,7 +547,7 @@ def push_revision(request):
     """
     if request.is_ajax():
         code = request.GET.get('code')
-        code = code.decode('UTF-8'))
+        code = code.decode('UTF-8')
         revision = TextbookCompanionRevision.objects.using(
             'scilab').get(id=request.session['revision_id'])
 
@@ -555,7 +555,7 @@ def push_revision(request):
         utils.update_file(
             revision.example_file.filepath,
             revision.commit_message,
-            base64.b64encode(code.decode('UTF-8'))),
+            base64.b64encode(code.decode('UTF-8')),
             [revision.committer_name, revision.committer_email],
             branch='master',
             main_repo=True)
