@@ -1,6 +1,6 @@
-
+<div class="form-inline">
                     <label>Sub Category: </label>
-                    <select id="categories">
+                    <select id="categories" class="form-control input-sm">
                             <option value="0">Select Subcategory</option>
                             {% for category in subcatg %} {% if subcategory_id == category.subcategory_id %}
                             <option value="{{ category.subcategory_id }}" selected>{{ category.subcategory }}</option>
@@ -8,4 +8,5 @@
                             <option value="{{ category.subcategory_id }}">{{ category.subcategory }}</option>
                             {% endif %} {% endfor %}
                         </select>
-                    <a href="#" class="extra-link" id="contributor">+Contributor</a>
+                    <a id ="contributor" data-toggle="modal" data-target="#node-contributor" href="" class="extra-link side-links">+Contributor</a>
+</div>

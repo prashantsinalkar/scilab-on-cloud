@@ -1,6 +1,7 @@
-<div id="revisions-one">
+<div class="form-inline">
+<div id="revisions-one" class="col-sm-6">
     <label>Revision: </label>
-    <select id="revisions">
+    <select id="revisions" class="form-control input-sm" >
         <option value="">Select a revision</option>
         {% for revision in revisions %}
             {% if revision.sha == commit_sha %}
@@ -15,9 +16,9 @@
     </select>
 </div>
 
-<div id="revisions-two">
+<div id="revisions-two" class="col-sm-6">
     <label>Diff with: </label>
-    <select id="revisions-diff">
+    <select id="revisions-diff" class="form-control input-sm">
         <option value="">Select a revision</option>
         {% for revision in revisions %}
             <option value="{{ revision.sha }}">
@@ -25,4 +26,5 @@
             </option>
         {% endfor %}
     </select>
+</div>
 </div>

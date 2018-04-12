@@ -1,132 +1,154 @@
-{% load static %} {% load dajaxice_templatetags %}
-<html>
+ {% load static %} {% load dajaxice_templatetags %}
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script> {% if err_msg %}
-    alert("{{ err_msg }}");
-    {% endif %} 
-</script>
+    <title>Scilab On Cloud - FOSSEE</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="{% static 'website/css/codemirror.css' %}" rel="stylesheet" />
+    <link href="{% static 'website/css/fullscreen.css' %}" rel="stylesheet" />
+    <link href="{% static 'website/css/monokai.css' %}" rel="stylesheet" />
+    <link href="{% static 'website/css/responsive-main.css' %}" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/png" href="{% static 'website/images/favicon.ico' %}" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-{% include 'website/templates/head.html' %}
+
 <body>
-    <div id="header-wrapper">
-        <div id="header-inner">
-            <div id="topbar">
-                <img id="home-logo" src="{% static 'website/images/home-logo.png' %}">
-                <span id="title">
-                    Scilab on Cloud
-                    </span>
-                <div id="navlinks">
-                    <ul>
-                        {% if user and not user.is_anonymous %} {% if not user.is_staff %}
-                        <li><a id = "search_book" data-toggle="modal" data-target="#search_wrapper" href="">Search Book</a></li>
-                        <li><a class="node" data-key="about" href="#">About</a></li>
-                        <li><a class="node" data-key="invitation" href="#">Invitation</a></li>
-                        <li><a class="node" data-key="contact" href="#">Contact Us</a></li>
-                         <li><a href="https://old.cloud.scilab.in" target="_blank"> Old Scilab on Cloud</a></li>
-                        {% else %}
-                        <li><a data-key="review-interface" href="/review">Review Interface</a></li>
-                        {% endif %}
-                        <li><a data-key="logout" href="/logout">Log out</a></li>
-                        <li> <a style="color:red">Hello, {{ user.get_full_name }}!</a></li>
-                        {% else %}
-                        <li><a id = "search_book" data-toggle="modal" data-target="#search_wrapper" href="">Search Book</a></li>
-                        <li><a class="node" data-key="about" href="#">About</a></li>
-                        <li><a class="node" data-key="invitation" href="#">Invitation</a></li>
-                        <li><a class="node" data-key="contact" href="#">Contact Us</a></li>
-                         <li><a href="https://old.cloud.scilab.in" target="_blank"> Old Scilab on Cloud</a></li>
-                         <!-- <li><a class="node" data-key="login" href="#">Log In</a></li> -->
-                        {% endif %}
-                        <img id="scilab-logo" src="{% static 'website/images/scilab-logo.png'%}" width="100px">
-                    </ul>
-                    <div class="clearfix"></div>
-                </div>
-                <!-- /#navlinks -->
+    <nav class="navbar navbar-inverse" style="background-color:#4E3419;">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>                        
+               </button>
+                <a class="navbar-brand" href="#"><span><img id="home-logo" class="img-rounded" src="{% static 'website/images/home-logo.png' %}" style="width:10%;height:auto;margin: -11px 5px -1px 3px;"></span><span style="color:#ffffff;">Scilab On Cloud</span></a>
             </div>
-            <!-- /#topbar -->
-        </div>
-        <!-- /#header-inner -->
-    </div>
-    <!-- /#header-wrapper -->
-    <div id="content-wrapper">
-        <div id="content-inner">
-            <div id="selectors">
-                <div id="main-category-wrapper">
-                {% include 'website/templates/ajax-maincategories.html' %}
-                </div>
-                <div id="category-wrapper">
-                {% include 'website/templates/ajax-subcategories.html' %}
-                </div>
-                <div id="books-wrapper">
-                    {% include 'website/templates/ajax-books.html' %}
-                    <a href="#" class="extra-link" id="download-book">Download Book</a>
-                </div>
-                <div id="chapters-wrapper">
-                    {% include 'website/templates/ajax-chapters.html' %}
-                    <a href="#" class="extra-link" id="download-chapter">Download Chapter</a>
-                </div>
-                <div id="examples-wrapper">
-                    {% include 'website/templates/ajax-examples.html' %}
-                    <a href="#" class="extra-link" id="download-example">Download Example</a>
-                </div>
-                <div id="revisions-wrapper">
-                    {% include 'website/templates/ajax-revisions.html' %}
-                </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav pull-right"">
+                  {% if user and not user.is_anonymous %} {% if not user.is_staff %}
+                  <li><a id ="search_book" data-toggle="modal" data-target="#search_wrapper" href="">Search Book</a></li>
+                  <li><a id ="about" data-toggle="modal" data-target="#node-about" href="">About</a></li>
+                  <li><a id ="invitation" data-toggle="modal" data-target="#node-invitation" href="">Invitation</a></li>
+                  <li><a id ="contact" data-toggle="modal" data-target="#node-contact" href="">Contact Us</a></li>
+                  {% else %}
+                  <li><a data-key="review-interface" href="/review">Review Interface</a></li>
+                  {% endif %}
+                  <li><a data-key="logout" href="/logout">Log out</a></li>
+                  <li> <a style="color:red">Hello, {{ user.get_full_name }}!</a></li>
+                  {% else %}
+                  <li><a id ="search_book" data-toggle="modal" data-target="#search_wrapper" href="">Search Book</a></li>
+                  <li><a id ="about" data-toggle="modal" data-target="#node-about" href="">About</a></li>
+                  <li><a id ="invitation" data-toggle="modal" data-target="#node-invitation" href="">Invitation</a></li>
+                  <li><a id ="contact" data-toggle="modal" data-target="#node-contact" href="">Contact Us</a></li>
+                  <!-- <li><a class="node" data-key="login" href="#">Log In</a></li> -->
+                  {% endif %}
+                  <img id="scilab-logo" src="{% static 'website/images/scilab-logo.png'%}" width="100px">
+               </ul>
             </div>
-            <div id="content">
-                <div id="input">
-                    <label>
-                            Scilab Code
-                            {% if ex_views_count == NULL %}
-                                        <i class="views-count fa fa-eye" id="example_views_count" aria-hidden="true">
-                                        </i>
-                                    {% else %}
-                                    <i class="views-count fa fa-eye" id="example_views_count"  aria-hidden="true">
-                                        {{ ex_views_count }}
-                                    </i>
-                                    {% endif %}
-                            <span id="review-link">
-                            {% if review %}
-                            <a href="{{ review_url}}" id="review" target="_blank">{{ review }} Review
-                            </a>
-                            {% else %}
-                            <a href="#" id="review" target="_blank"></a>
-                            {% endif %}
-                            </span>
-                            <span id="controls">
-                            <a href="#" id="toggle-code">
-                            <img src="{% static 'website/images/icon-toggle.png'%}">
-                            </a>
-                            <a href="#" id="fullscreen-code">
-                            <img src="{% static 'website/images/icon-fullscreen.png'%}">
-                            </a>
-                            </span> <!-- /#controls -->
-                        </label>
-                    <form>
-                        <textarea id="code" placeholder="Write a new code or select existing from above category...">{{ code }}</textarea>
-                    </form>
-                </div>
-                <!-- /#input -->
-                <a id="execute" class="button"><span id="execute-inner">Execute</span></a>
-                <!-- <a id="submit-revision" class="button">Submit a revision</a> -->
-                <div id="output">
-                    <label>
-                            Result
-                            <span id="controls">
-                            <a href="#" id="toggle-result">
-                            <img src="{% static 'website/images/icon-toggle.png'%}">
-                            </a>
-                            <a href="#" id="fullscreen-result">
-                            <img src="{% static 'website/images/icon-fullscreen.png'%}">
-                            </a>
-                            </span><!-- /#controls -->
-                        </label>
-                    <textarea id="result"></textarea>
-                </div>
-                <!-- /#output -->
-                <a id="bug" class="button">Report bug / Give Feedback</a>
-                <div id="credits">
-                <table style="background: #4E3419;">
+         </div>
+      </nav>
+      <div class="container">
+         <br>
+         <div class="container">
+            <div id="selectors" class="row">
+               <div id="main-category-wrapper">
+                  {% include 'website/templates/ajax-maincategories.html' %}
+               </div>
+               <div id="category-wrapper">
+                  {% include 'website/templates/ajax-subcategories.html' %}
+               </div>
+               <div id="books-wrapper" >
+                  {% include 'website/templates/ajax-books.html' %}
+                  <!-- <a href="#" class="extra-link" id="download-book">Download Book</a> -->
+               </div>
+               <div id="chapters-wrapper">
+                  {% include 'website/templates/ajax-chapters.html' %}
+                  <!-- <a href="#" class="extra-link" id="download-chapter">Download Chapter</a> -->
+               </div>
+               <div id="examples-wrapper">
+                  {% include 'website/templates/ajax-examples.html' %}
+                  <!--  <a href="#" class="extra-link" id="download-example">Download Example</a> -->
+               </div>
+               <div id="revisions-wrapper" class="row">
+                  {% include 'website/templates/ajax-revisions.html' %}
+               </div>
+            </div>
+         </div>
+      </div>
+      <br>
+      <!-- <div class="container"> -->
+         <div class="row" style="background-color:#eeeeee;min-height: 380px;width: 100%;">
+            <!----------------------------------------------------------- -->
+            <div id="input" class="col-sm-6">
+            <div class="clearfix">
+            <span id="review-link" class="pull-right">
+                     {% if review %}
+                     <a href="{{ review_url}}" id="review" target="_blank"><span class="badge">{{ review }}</span> Review
+                     </a>
+                     {% else %}
+                     <a href="#" id="review" target="_blank"></a>
+                     {% endif %}
+                     </span>
+                     </div>
+               <div class="col-lg">
+                  <label>
+                     Scilab Code
+                     {% if ex_views_count == NULL %}
+                     <i class="views-count fa fa-eye" id="example_views_count" aria-hidden="true">
+                     </i>
+                     {% else %}
+                     <i class="views-count fa fa-eye" id="example_views_count"  aria-hidden="true">
+                     {{ ex_views_count }}
+                     </i>
+                     {% endif %}
+                     <span id="controls">
+                     
+                     <a href="#" id="toggle-code">
+                     <img src="{% static 'website/images/icon-toggle.png'%}">
+                     </a>
+                     <a href="#" id="fullscreen-code">
+                     <img src="{% static 'website/images/icon-fullscreen.png'%}">
+                     </a>
+                     </span> <!-- /#controls -->
+                  </label>
+                  <form>
+                     <textarea id="code" placeholder="Write a new code or select existing from above category...">{{ code }}</textarea>
+                     <a id="execute" class="button"><span id="execute-inner">Execute</span></a>
+                  </form>
+               </div>
+            </div>
+            <div class="visible-xs visible-sm">&nbsp; &nbsp; &nbsp; </div>
+            <!----------------------------------------------------------- -->
+            <div id="output" class="col-sm-6" algin="center">
+               <div class="col-lg">
+                  <label>
+                     Result
+                     <span id="controls">
+                     <a href="#" id="toggle-result">
+                     <img src="{% static 'website/images/icon-toggle.png'%}">
+                     </a>
+                     <a href="#" id="fullscreen-result">
+                     <img src="{% static 'website/images/icon-fullscreen.png'%}">
+                     </a>
+                     </span><!-- /#controls -->
+                  </label>
+                  <form>
+                     <textarea id="result"></textarea>
+                     <a id ="bug" class="button" data-toggle="modal" data-target="#node-bug-form" href="">Report bug / Give Feedback</a>
+                  </form>
+               </div>
+            </div>
+            <!-- /#output -->
+         </div>
+     <!--- </div> -->
+      <br>
+      <footer class="container-fluid text-center navbar-bottom" style="background-color:#4E3419;color:#ffffff;margin-top: 50px;!important">
+        <table style="background: #4E3419;">
                 <tr>
                 <td colspan="2" class="footer white-text">
                     <p class="test-footer" style="font-size: 10px;color: lightgoldenrodyellow;text-align: center;margin: 0px 0px 0px 0px;">Disclaimer</p>
@@ -146,18 +168,40 @@
                 </td>
             </tr>
 		</table>
-                </div>
-                <!-- /#credits -->
+      </footer>
+      <!-- Modal -->
+<div id="search_wrapper" class="modal fade" role="dialog">
+   <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+         <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Search book</h4>
+            <div class="input-group">
+               <input id="search-input" type="text" class="form-control" placeholder="Enter book or author name">
+               <span class="input-group-btn">
+               <button id="search" class="btn btn-default" type="button">Search!</button>
+               </span>
             </div>
-            <!-- /#content -->
-        </div>
-        <!-- /#content-inner -->
-    </div>
-    <!-- /#content-wrapper -->
-    <!-- <div id="plotbox-wrapper">
-        <div id="plotbox"></div>
-        <span><a href="#" id="plot_download" download="Plot">Download</a></span>
-    </div> -->
+         </div>
+         <div class="modal-body">
+            <div class="col-xs-12">
+               <div id="relevant" class="col-xs-12 col-sm-6 col-md-3 col-lg-4" >
+               </div>
+               <div id="popular" class="col-xs-12 col-sm-6 col-md-3 col-lg-4" style="background-color:#bbb;word-wrap: break-word;overflow:auto;">
+               </div>
+               <div id="recent" class="col-xs-12 col-sm-6 col-md-3 col-lg-4"  style="background-color:#aaa;word-wrap: break-word;overflow:auto;">
+               </div>
+               <br>
+            </div>
+         </div>
+         <div>
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+         </div>
+      </div>
+   </div>
+</div>
+
     <!-- Modal -->
 <div id="plotbox-wrapper" class="modal fade" role="dialog">
   <div class="modal-dialog modal-lg">
@@ -167,7 +211,7 @@
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
-      <div id="plotbox" class="modal-body">
+      <div id="plotbox" class="modal-body" align="center">
       </div>
       <div class="modal-footer">
         <span><a href="#" id="plot_download" download="Plot" class="btn btn-primary btn-sm pull-left">Download</a></span>
@@ -178,56 +222,84 @@
   </div>
 </div>
 
-    <!-- #plotbox-wrapper -->
-    <div id="databox-wrapper">
-        {% include 'website/templates/ajax-contributor.html' %}
-        <div id="databox"></div>
-    </div>
-    <!-- /#databox-wrapper -->
-        <div id="node-wrapper">
-    </div>
-    <div id="bug-form-wrapper">
-    </div>
-    <!-- /#databox-wrapper -->
-    <div id="submit-revision-wrapper">
-    </div>
-    <div id="submit-revision-error-wrapper">
-    <p>{{ error_message }}</p>
-    </div>
-    <div id="diff-wrapper">
-        {% include 'website/templates/diff.html' %}
-    </div>
-    {% include 'website/templates/footer.html' %}
-    <script src="{% static 'website/js/cloud.js'%}"></script>
-    {% csrf_token %}
-
 <!-- Modal -->
-<div id="search_wrapper" class="modal fade" role="dialog">
+<div id="node-about" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Search book</h4>
-        <div class="input-group">
-            <input id="search-input" type="text" class="form-control" placeholder="Enter book or author name">
-                <span class="input-group-btn">
-                    <button id="search" class="btn btn-default" type="button">Search!</button>
-                </span>
-        </div>
+        <h4 class="modal-title">About Scilab on GARUDA Cloud.</h4>
       </div>
       <div class="modal-body">
-        <div class="col-xs-12">
-            <div id="relevant" class="col-xs-12 col-sm-6 col-md-3 col-lg-4" >
-            </div>
-            <div id="popular" class="col-xs-12 col-sm-6 col-md-3 col-lg-4" style="background-color:#bbb;word-wrap: break-word;overflow:auto;">
-            </div>
-            <div id="recent" class="col-xs-12 col-sm-6 col-md-3 col-lg-4"  style="background-color:#aaa;word-wrap: break-word;overflow:auto;">
-            </div>
-        <br>
-        </div>
-      <div>
+       <p>
+    Scilab on Cloud facilitates execution of the codes for particular example(s) 
+    online. The results can then be verified with the solved example(s) from the 
+    textbook. It is also possible to change the values of the variables and in fact, 
+    the code itself, and execute it. In addition to the given examples, one can also 
+    copy and paste (or) write a new code in the input box provided and execute the 
+    same. <a href="http://scilab.in/scilab-on-cloud" target="_blank">Read more..</a>
+</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="node-contact" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Send us your valuable suggestions and feedback that shall enable us to enhance our work.</h4>
+      </div>
+      <div class="modal-body">
+      <p>
+    If you wish to contribute to our activities such as <b>Lab Migration, Textbook 
+    Companion, SciLinks, Scilab on Cloud, Scilab on Aakash,</b> please write to 
+    <a href="mailto: contact@scilab.in">contact@scilab.in</a>. 
+    For feedback on Lab Migration (or) Textbook Companion, 
+    <a href="http://scilab.in/feedbacks">click here</a>.
+</p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+   
+
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div id="node-invitation" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Contribute to Scilab Textbook Companion Project / Scilab on GARUDA Cloud.</h4>
+      </div>
+      <div class="modal-body">
+     <p>
+    The FOSSEE team has created a submission portal that allows the code for 
+    each example to be uploaded individually. The Textbook Companion Project aims 
+    to port solved examples from standard textbooks using an open source software 
+    system, such as Scilab.
+    <a href="http://scilab.in/Textbook_Companion_Project" target="_blank">Read more..</a>
+</p>
+      </div>
+      <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
       </div>
     </div>
@@ -236,6 +308,152 @@
 </div>
 
 
-</body>
 
+
+<!-- Modal -->
+<div id="node-contributor" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"><u>Contributor details</u></h4>
+      </div>
+      <div class="modal-body">
+     <table class="table table-striped">
+    <tbody>
+        <tr>
+            <td>Contributor name</td>
+            <td><span id="full_name"></span></td>
+        </tr>
+        <tr>
+            <td>Mentor</td>
+            <td><span id="faculty"></span></td>
+        </tr>
+        <tr>
+            <td>Book Reviewer</td>
+            <td><span id="reviewer"></span></td>
+        </tr>
+        <tr>
+            <td>College</td>
+            <td><span id="university"></span></td>
+        </tr>
+    </tbody>
+</table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div id="node-diff" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">	Diff between [1] <strong>
+        <span id="diff-first"></span></strong> and [2] 
+	<strong><span id="diff-second"></span></strong></h4>
+      </div>
+      <div class="modal-body">
+
+<hr>
+
+<div>
+	<span class="label label-success">Green text</span> -> exist in [2] but not in [1]<br>
+	<span class="label label-danger">Red text</span> -> exist in [1] but not in [2]
+</div>
+
+<hr>
+
+<div id="diff-area" style="word-wrap: break-word;">
+</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+<!-- Modal -->
+<div id="node-bug-form" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Report bug/ errors</h4>
+      </div>
+      <div class="modal-body">
+      
+      <form id="bug-form" class="form-horizontal" action="" method="POST" accept-charset="utf-8">
+       {% csrf_token %}
+    {{ form.example }}
+    <div id="non-field-errors">
+    </div>
+    <div id="id_issue_wrapper" class="form-group">
+        <label class="control-label col-sm-2" >Type of issue <span class="req">*</span>:</label>
+        <div class="col-sm-10">
+        {{ form.issue }}
+        </div>
+    </div>
+
+    <div id="id_description_wrapper" class="form-group">
+        <label class="control-label col-sm-2" >Description<span class="req">*</span>:</label>
+        <div class="col-sm-10">
+        {{ form.description }}
+        </div>
+    </div>
+
+    <div id="id_email_wrapper" class="form-group">
+        <span id="email-wrapper">
+            {{ form.email.errors }}
+            <label class="control-label col-sm-2" >Enter Your Email<span class="req">*</span>:</label>
+            <div class="col-sm-10">
+            {{ form.email }}
+            </div>
+        </span>
+    </div>
+    <div class="form-group">        
+      <div class="col-sm-offset-2 col-sm-10">
+           <input type="submit" id="bug-form-submit">
+      </div>
+    </div>
+ 
+</form>
+      
+      </div>
+      <div class="modal-footer">
+        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+      <script src="{% static 'website/js/codemirror.js' %}"></script>
+      <script src="{% static 'website/js/javascript.js' %}"></script>
+      <script src="{% static 'website/js/fullscreen.js' %}"></script>
+      <script src="{% static 'website/js/placeholder.js' %}"></script>
+      <!-- <script src="{% static 'website/js/lightbox_me.js' %}"></script> -->
+      <script src="{% static 'website/js/jsdiff.js' %}"></script>
+      <script src="{% static 'website/js/cloud.js' %}"></script>
+      {% csrf_token %}
+   </body>
 </html>

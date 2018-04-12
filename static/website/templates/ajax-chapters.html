@@ -1,6 +1,6 @@
-
+<div class="form-inline">
                         <label>Chapter: </label>
-                        <select id="chapters">
+                        <select id="chapters" class="form-control input-sm">
                             <option value="">Select Chapter</option>
                             {% for chapter in chapters %} {% if chapter_id == chapter.id %}
                             <option value="{{ chapter.id }}" selected>{{ chapter.number }} - {{ chapter.name }}</option>
@@ -8,4 +8,5 @@
                             <option value="{{ chapter.id }}">{{ chapter.number }} - {{ chapter.name }}</option>
                             {% endif %} {% endfor %}
                         </select>
-<a href="#" class="extra-link" id="download-chapter">Download Chapter</a>
+<a href="#" class="extra-link side-links" id="download-chapter">Download Chapter</a>
+</div>
