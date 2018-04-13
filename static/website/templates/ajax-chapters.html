@@ -1,6 +1,6 @@
 <div class="form-inline">
                         <label>Chapter: </label>
-                        <select id="chapters" class="form-control input-sm">
+                        <select id="chapters" class="form-control input-sm" style="text-overflow: ellipsis">
                             <option value="">Select Chapter</option>
                             {% for chapter in chapters %} {% if chapter_id == chapter.id %}
                             <option value="{{ chapter.id }}" selected>{{ chapter.number }} - {{ chapter.name }}</option>

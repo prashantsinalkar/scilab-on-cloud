@@ -636,7 +636,7 @@ function ajax_loader(key) {
             "Execute");
           result.setValue(data.output);
           pp = data.plot_path;
-          if (data.plot_path) {
+          if (data.plot_path == "true") {
             $.ajax({
               type: "HEAD",
               async: true,
@@ -645,7 +645,7 @@ function ajax_loader(key) {
               $plot = $("<img>");
               $plot.attr({
                 src: data.plot_path,
-                width: '70%'
+                width: '60%'
               });
               $plotbox.html($plot);
 

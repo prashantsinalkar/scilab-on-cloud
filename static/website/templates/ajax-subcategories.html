@@ -1,6 +1,6 @@
 <div class="form-inline">
                     <label>Sub Category: </label>
-                    <select id="categories" class="form-control input-sm">
+                    <select id="categories" class="form-control input-sm" style="text-overflow: ellipsis">
                             <option value="0">Select Subcategory</option>
                             {% for category in subcatg %} {% if subcategory_id == category.subcategory_id %}
                             <option value="{{ category.subcategory_id }}" selected>{{ category.subcategory }}</option>

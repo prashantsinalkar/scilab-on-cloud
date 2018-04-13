@@ -28,8 +28,9 @@
          }
          .CodeMirror {
          height: 100%;
+         width: 100%; !important
          }
-         #input,#oupput, form {
+         #input,#oupput {
          min-width:48%;
          min-height: 300px;
          }
@@ -131,9 +132,9 @@
          }
          form {
          margin-bottom: 20px;
-         min-width: 300px;
+         min-width: 400px;
          height: 300px; 
-         width: 98%;}
+         width: 100%;}
          fieldset {
          margin-bottom: 20px; }
          input[type="text"],
@@ -190,4 +191,10 @@
     height: 11px;
     background: url("../images/ajax-loader.gif");
     background-size: cover;
+}
+
+.boxsizingBorder {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
 }

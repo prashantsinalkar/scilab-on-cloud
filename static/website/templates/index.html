@@ -82,11 +82,11 @@
       </div>
       <br>
       <!-- <div class="container"> -->
-         <div class="row" style="background-color:#eeeeee;min-height: 380px;width: 100%;">
+         <div class="row" style="background-color:#eeeeee;min-height: 380px;width: 100%;margin-left: 0%">
             <!----------------------------------------------------------- -->
-            <div id="input" class="col-sm-6">
+            <div id="input" class="col-lg-6">
             <div class="clearfix">
-            <span id="review-link" class="pull-right">
+            <span id="review-link" class="text-center">
                      {% if review %}
                      <a href="{{ review_url}}" id="review" target="_blank"><span class="badge">{{ review }}</span> Review
                      </a>
@@ -148,7 +148,7 @@
      <!--- </div> -->
       <br>
       <footer class="container-fluid text-center navbar-bottom" style="background-color:#4E3419;color:#ffffff;margin-top: 50px;!important">
-        <table style="background: #4E3419;">
+        <table class="table table-condensed">
                 <tr>
                 <td colspan="2" class="footer white-text">
                     <p class="test-footer" style="font-size: 10px;color: lightgoldenrodyellow;text-align: center;margin: 0px 0px 0px 0px;">Disclaimer</p>
@@ -292,7 +292,7 @@
       </div>
       <div class="modal-body">
      <p>
-    The FOSSEE team has created a submission portal that allows the code for 
+    The <a href="#" data-toggle="tooltip" data-placement="top" title="FOSSEE (Free and Open Source Software for Education)">FOSSEE</a> team has created a submission portal that allows the code for 
     each example to be uploaded individually. The Textbook Companion Project aims 
     to port solved examples from standard textbooks using an open source software 
     system, such as Scilab.

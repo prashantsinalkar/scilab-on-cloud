@@ -1,6 +1,6 @@
 <div class="form-inline">
                         <label>Book: </label>
-                        <select id="books" class="form-control input-sm">
+                        <select id="books" class="form-control input-sm" style="text-overflow: ellipsis">
                             <option value="0">Select Book </option>
                             {% for book in books %} {% if book_id == book.id %}
                             <option value="{{ book.id }}" selected>{{ book.book }} (by {{ book.author }})</option>

@@ -1,6 +1,6 @@
 <div class="form-inline">
                     <label>Main Category: </label>
-                    <select id="main_categories" class="form-control input-sm">
+                    <select id="main_categories" class="form-control input-sm" style="text-overflow: ellipsis">
                             <option value="0">Select Main Category</option>
                             {% for category in catg %} {% if maincat_id == category.category_id %}
                             <option value="{{ category.category_id }}" selected>{{ category.maincategory }}</option>
