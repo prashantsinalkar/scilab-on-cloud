@@ -714,7 +714,7 @@ $(document.body).ready(function() {
             function(data) {
                 var exists;
                 $("#execute-inner").html(
-                    "Execute");
+                    '<i class="fa fa-play-circle" aria-hidden="true"></i> Execute <i class="fa fa-cogs" aria-hidden="true"></i>');
                 ajax_loader('clear');
                 result.setValue(data.output);
                 pp = baseurl + data.plot_path.slice(1);
@@ -968,7 +968,7 @@ $(document.body).ready(function() {
                     $("#relevant").html('<h2>Relevant</h2><hr>');
                     for (var i = 0; i < data.length; i++) {
                         $("#relevant").append(
-                            '<a  href="?book_id=' + data[i].ids + '" class="">' + data[i].book +
+                            '<a  href="?book_id=' + data[i].ids + '" class=""><i class="fa fa-book" aria-hidden="true"></i> ' + data[i].book +
                             ' (Author: ' + data[i].author + ')</a><hr>');
                    
                     }
@@ -986,7 +986,7 @@ $(document.body).ready(function() {
                     $("#popular").html('<h2>Popular</h2><hr>');
                     for (var i = 0; i < data.length; i++) {
                         $("#popular").append(
-                            '<a  href="?book_id=' + data[i].ids + '" class="">' + data[i].book +
+                            '<a  href="?book_id=' + data[i].ids + '" class=""><i class="fa fa-book" aria-hidden="true"></i> ' + data[i].book +
                             ' (Author: ' + data[i].author + ')</a><hr>');
                     }
                     ajax_loader("clear");
@@ -1004,7 +1004,7 @@ $(document.body).ready(function() {
                     $("#recent").html('<h2>Recent</h2><hr>');
                     for (var i = 0; i < data.length; i++) {
                         $("#recent").append(
-                            '<a  href="?book_id=' + data[i].ids + '" class="">' + data[i].book +
+                            '<a  href="?book_id=' + data[i].ids + '" class=""> <i class="fa fa-book" aria-hidden="true"></i> ' + data[i].book +
                             ' (Author: ' + data[i].author + ')</a><hr>');
                     }
                     ajax_loader("clear");
@@ -1032,7 +1032,7 @@ $(document.body).ready(function() {
                     $("#popular").html('<h2>Popular</h2><hr>');
                     for (var i = 0; i < data.length; i++) {
                         $("#popular").append(
-                            '<a  href="?book_id=' + data[i].ids + '" class="">' + data[i].book +
+                            '<a  href="?book_id=' + data[i].ids + '" class=""><i class="fa fa-book" aria-hidden="true"></i> ' + data[i].book +
                             ' (Author: ' + data[i].author + ')</a><hr>');
                     }
                     ajax_loader("clear");
@@ -1050,7 +1050,7 @@ $(document.body).ready(function() {
                     $("#recent").html('<h2>Recent</h2><hr>');
                     for (var i = 0; i < data.length; i++) {
                         $("#recent").append(
-                            '<a  href="?book_id=' + data[i].ids + '" class="">' + data[i].book +
+                            '<a  href="?book_id=' + data[i].ids + '" class=""><i class="fa fa-book" aria-hidden="true"></i> ' + data[i].book +
                             ' (Author: ' + data[i].author + ')</a><hr>');
                     }
                     ajax_loader("clear");
@@ -1067,5 +1067,43 @@ $(document.body).ready(function() {
         });
       });
      */
+    $(document).on("click", "#reset", function() {
+        $.ajax({
+               url : "reset/",
+               dataType: 'JSON',
+               type: 'GET',
+               data:{ reset: '1' },
 
+               success : function (data) {
+                   //document.location.reload(true);
+                   window.location.replace('/')
+               },
+               beforeSend:function(){
+                    return confirm("Are you sure you want to reset? Reset will clear your code/data.");
+               },
+           });
+
+   });
 }); //document.readOnly()
+var loader;
+
+function loadNow(opacity) {
+    if (opacity <= 0) {
+        displayContent();
+    } else {
+        loader.style.opacity = opacity;
+        window.setTimeout(function() {
+            loadNow(opacity - 0.05);
+        }, 50);
+    }
+}
+
+function displayContent() {
+    loader.style.display = 'none';
+    document.getElementById('content').style.display = 'block';
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    loader = document.getElementById('loader');
+    loadNow(1);
+});
