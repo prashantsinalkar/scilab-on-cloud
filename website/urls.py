@@ -41,4 +41,5 @@ path('update_view_count/', views.update_view_count,
 
     # for review interface
     path('review/', views.review, name='review'),
+    path('reset/', views.reset, name='reset'),
 ]

@@ -629,3 +629,13 @@ def get_example_detail(eid):
         'example_name': examples[0].caption,
     }
     return (details)
+
+
+def reset(request):
+    try:
+        request.session.clear()
+    except KeyError:
+        pass
+    response = {"data": "ok"}
+    return HttpResponse(simplejson.dumps(response),
+                        content_type='application/json')
