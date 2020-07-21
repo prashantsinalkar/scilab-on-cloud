@@ -28,8 +28,14 @@
 
 <body>
     <div id="loader"></div>
-    <div id="content">
-    </div>
+    <div id="content"></div>
+            <!-- START Bootstrap-Alert -->
+   <!-- <div class="alert alert-warning text-center cookiealert" role="alert" style="margin-bottom: none !important;">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close" >
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div> -->
+    <!-- END Bootstrap-Alert -->
     <nav class="navbar navbar-expand-md bg-dark navbar-dark">
         <img class="navbar-brand" src="{% static 'website/images/home-logo.png' %}" alt="logo"
             style="height:40px;width:30px">
@@ -360,7 +366,7 @@
         <div class="row">
             <div class="col-2">
                 <p class="float-left"><a href="#" id="disclaimer" data-toggle="modal"
-                        data-target="#disclaimer-text">Disclaimer</a></p>
+                        data-target="#disclaimer-text"><i class="fas fa-exclamation-triangle"></i> Disclaimer</a></p>
             </div>
             <div class="col-8">
                 <center>
@@ -374,8 +380,8 @@
                 </center>
             </div>
             <div class="col-2">
-                <a href="https://stats-a.fossee.in/cgi-bin/awstats.pl?config=cloud.scilab.in" class="float-right"
-                    target="_blank">View Stats <i class="fa fa-bar-chart text-danger"></i></a>
+                <a href="https://xcos.fossee.in/cgi-bin/awstats.pl?config=cloud.scilab.in" class="float-right"
+                    target="_blank"><i class="fas fa-chart-line"></i> View Stats</a>
             </div>
         </div>
     </div>
